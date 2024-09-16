@@ -1,0 +1,63 @@
+Title: INQ000396686 - Notice from Senior Information Risk Officer, Welsh Government titled Social Media, dated 28/01/2020.
+
+## Summary:
+
+**Social Media Policy Update:**
+
+* Due to a recent security incident, the Welsh Government has updated its social media policy. 
+* **Government accounts:**
+    - All use of Welsh Government social media accounts must be done using Welsh Government-owned devices.
+    - Personal devices are no longer permitted.
+    - Email addresses and passwords must not be changed to personal accounts, and access for third parties is prohibited.
+    - Two-factor authentication must be enabled where available.
+* **Personal accounts:**
+    - Employees must avoid any activity that could bring the Welsh Government into disrepute.
+    - Content promoting Welsh Government work is allowed, but employees should be aware that anything posted is publicly visible.
+    - Line managers cannot coerce employees to use personal accounts for work-related purposes.
+* **Action required:**
+    - Employees who use personal accounts for work-related purposes must contact the HR department by February 28th.
+
+
+**Key points:**
+
+* The policy update emphasizes the importance of security and accountability regarding social media use.
+* The incident involved inappropriate social media activity by government employees which breached security policies.
+* Employees are expected to maintain a professional online presence and avoid posting material that could negatively impact the Welsh Government's reputation.
+
+
+## Summary:
+
+**Social Media Security for Welsh Government Staff:**
+
+* The Welsh Government is requesting staff to review and potentially anonymize personal accounts used for work purposes.
+* Staff with high-risk profiles are especially advised to take additional security measures.
+* The use of WhatsApp for work purposes is not permitted due to data security concerns.
+* Tips for securing personal social media accounts are provided, including enabling two-factor authentication.
+* The importance of managing your digital footprint is emphasized, regardless of social media usage.
+
+
+## Summary:
+
+* A Welsh Government employee (Chris) used their personal Twitter account for work purposes without proper security measures.
+* The account accidentally liked offensive material, violating the employee's role in the Welsh Government.
+* An investigation revealed the account had been hacked.
+* Due to the evidence of account hacking and previous guidelines encouraging personal Twitter use, no formal disciplinary action was taken against Chris.
+* The case highlights the importance of implementing strong security measures like two-factor authentication to prevent similar incidents.
+
+
+## Summary:
+
+- Many online services support Two-Factor Authentication (2FA), which adds an extra layer of security to your account.
+
+
+- While some services encourage its use, others leave the decision up to the user.
+
+
+- Authenticator apps like Microsoft and Google Authenticator are recommended over text messages for added security.
+
+
+- Check if your preferred services support 2FA and learn how to activate it from their websites.
+
+
+- If your account gets hacked, report it immediately to the service provider.
+

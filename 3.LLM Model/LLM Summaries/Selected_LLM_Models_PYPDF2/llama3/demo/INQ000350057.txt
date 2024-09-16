@@ -1,0 +1,113 @@
+The Technical Advisory Group (TAG) has issued a statement providing technical and scientific rationale for introducing non-pharmaceutical interventions (NPIs) in Wales during the pre-Christmas period to combat the spread of COVID-19.
+
+The TAG highlights that:
+
+* Social distancing and quarantining are highly effective in reducing the risk of infecting others, as long as they are observed correctly.
+* Pre-isolating for one incubation period can help lower the risk of infecting others.
+* Self-isolation is crucial for anyone with COVID-19 symptoms.
+* The best way to protect older family members is not to expose them to potential infection.
+* Increased mixing of households and individuals in indoor settings poses a substantial risk of transmission.
+
+The TAG also notes that policy modeling suggests that:
+
+* Reducing social mixing can significantly reduce the number of expected deaths and pressure on the NHS if restrictions are introduced prior to the relaxation of rules.
+* Introducing Tier 3-style restrictions before Christmas can reduce hospital and ICU bed requirements for COVID-19 patients and subsequent deaths.
+
+Finally, the TAG references current data showing that:
+
+* Case numbers and positivity rates are increasing across many local authorities in Wales, with some areas (e.g., Blaenau Gwent and Torfaen) seeing particularly high levels of infection.
+* The firebreak period had a short-term impact in pushing back the epidemic, but its benefits have largely been lost as case numbers and hospital admissions have increased.
+
+Overall, the TAG advises that NPIs are necessary to reduce transmission and protect public health during the pre-Christmas period.
+
+
+Here is a summary of the text:
+
+The situation in Wales regarding COVID-19 cases is dire, with many areas having high or very high numbers per 100,000 population. Across all health boards, there are increases in cases in people over 60 years old, including care home outbreaks and population intergenerational mixing. The official SAGE estimate suggests that hospital admissions and deaths may increase in the next 2-3 weeks. Deaths in Wales are currently as high as May levels and have an excess death rate higher than England and Scotland. While there will be interventions put in place to control the spread of the virus, including local health protection zones and a firebreak lockdown, there is concern that winter celebrations such as Christmas may lead to increased transmission risks due to intergenerational mixing. New technologies for rapid testing are available but not yet a silver bullet solution, and social distancing and quarantining remain highly effective at reducing transmission risk.
+
+
+The text provides guidance on minimizing the risk of COVID-19 transmission during the Christmas period. Key points include:
+
+1. Consider pre-isolating for 10 days before mixing with others to reduce the risk of infecting others.
+2. If symptoms develop, do not see others and get a RT-PCR swab test immediately.
+3. Postpone celebrations until later or hold remote meetings to minimize contact.
+4. Pre-isolation may be helpful before visiting older relatives or in high-risk occupations.
+5. The best way to protect older family members is to avoid exposing them to potential infection.
+6. Transmission is more likely to occur due to prolonged, close interaction with familiar people in a home environment.
+7. Reduce the length of stay when visiting family members and practice good hand hygiene and ventilation.
+8. Avoid crowded spaces, poorly ventilated areas, and loud activities which increase transmission risk.
+
+The guidance suggests that once a vaccine has been widely distributed, current restrictions may no longer be necessary. Until then, it is essential to take sensible precautions to minimize the risk of transmission during family gatherings and other social events over Christmas.
+
+
+The text discusses various settings where COVID-19 cases have been reported. Key findings include:
+
+* People infected with SARS-CoV-2 without close contact with a confirmed case were more likely to report dining at a restaurant or going to a bar/coffee shop.
+* Certain occupational groups, such as those working in warehouses, construction, and hospitality, had increased odds of being COVID-19 cases.
+* Engagement in entertainment activities was associated with increased disease risk.
+* Commercial workplaces, particularly pubs and restaurants, were among the most common settings where infection was reported. Wet pubs and clubs accounted for 23% of all clusters.
+* Data from Test, Trace, and Protect teams (TTP) showed that individual cases reported exposure to pubs and restaurants relatively infrequently (<10%).
+* Despite efforts by the hospitality industry to provide COVID-secure environments, it is still possible for transmission to occur due to linking activities such as transportation to/from the venue or mixing between venues.
+* The education sector has seen a rise in cases and contacts among school students and staff, which may be linked to increased infection rates in the broader community.
+
+Overall, the text highlights the importance of monitoring COVID-19 cases and contacts in various settings to identify potential hotspots and inform public health policy.
+
+
+The text discusses strategies for reducing transmission during the COVID-19 pandemic, particularly regarding school closures. While closing schools is often deployed as an NPI (non-pharmaceutical intervention) at a late stage when transmission is high, it can have significant educational and socio-economic harms. The paper suggests considering alternative measures such as remote learning, opening hub schools for essential workers and vulnerable children, or shortening school holidays to minimize disruption.
+
+However, these mitigations may exacerbate inequality by making online learning less accessible to lower socioeconomic groups. Additionally, any decisions on school closures should prioritize careful risk-benefit analysis and consideration of further evidence.
+
+Regarding behaviors and risk communication, the text recommends continuing to promote shared responsibility for longer-term behavior change, but recognizes that some individuals are not adhering to pandemic guidelines.
+
+
+The text discusses the importance of understanding behavioral patterns to combat COVID-19 transmission in Wales. It highlights that even minor breaches in guidelines can have a significant impact at a population level, and identifies barriers such as lack of skills and understanding, limited access to support, and differing opinions on restrictions among individuals. The text also notes that mixing with people outside one's extended household and misunderstanding the risks associated with it may lead to transmission. Additionally, it suggests that current circumstances may exacerbate transmission, particularly during the pre-Christmas period.
+
+The authors emphasize the importance of maintaining public communication around risk and providing simple, clear explanations accompanied by a rational argument. They also stress the need for continued financial support (such as self-isolation payments) and social/emotional support to encourage adherence to guidelines. The text concludes by highlighting the importance of recognizing that enforcement should not be the primary focus without first attempting to engage, explain, and encourage individuals, while remaining aware of the potential for inequitable deployment.
+
+
+The text discusses strategies for minimizing the risk of COVID-19 transmission during the festive season. It highlights three key behaviors that need to be factored in: people tend to mix more, travel more, and spend more time indoors during this period.
+
+The authors recommend entering the Christmas period with a low level of community transmission to prevent outbreaks in settings like hospitals, care homes, and prisons. They suggest that policy makers should aim for simple, understandable, and achievable rules with an agreed start and end date.
+
+The text also analyzes different policy options using a model developed by Swansea University. The analysis considers two scenarios: one reflecting Scottish level 2 or English tier 2 restrictions before Christmas, and the other reflecting English tier 3 or Scottish level 3 restrictions.
+
+The findings suggest that:
+
+* Early intervention is better than late intervention
+* Short and sharp interventions are more effective than prolonged ones
+* Firebreaks and stricter restrictions can reduce transmission levels
+* Simple and achievable rules help adherence to guidelines
+
+The model also illustrates the potential benefits of reducing transmission rates, including a reduction in deaths, NHS occupancy, and ICU bed use. The estimates do not take into account non-pharmaceutical interventions after Christmas or likely COVID-19 deaths over the spring.
+
+Two sets of figures are presented, depicting six different pre-Christmas policy scenarios. Each scenario shows how different levels of transmission can affect mortality rates and hospital bed usage.
+
+
+The text presents the results of a modeling exercise estimating the impact of different policies on COVID-19 hospitalizations, ICU admissions, and deaths during the Christmas period. The scenarios examined are:
+
+1. No intervention (background Rt = 1.3)
+2. Tier 2 restrictions (with contact scaling) with background Rt = 1.3
+3. Tier 3 restrictions (with contact scaling) with background Rt = 1.3 or 1.4
+
+The models estimate that, without any measures in place, there would be approximately:
+
+* 8,570 hospitalizations and 1,030 ICU admissions by the end of December
+* 2,520 deaths by the end of January 2021
+
+If stricter Tier 2 restrictions were implemented, these numbers would decrease to around:
+
+* 6,920 hospitalizations and 830 ICU admissions
+* 2,030 deaths
+
+Implementing even stricter Tier 3 restrictions would further reduce these numbers to:
+
+* 4,860 hospitalizations and 11,410 ICU admissions (assuming background Rt = 1.3)
+* 580-2,370 deaths
+* Or:
+* 6,400 hospitalizations and 770 ICU admissions (assuming background Rt = 1.4)
+* 1,820 deaths
+
+The models also show that if the background Rt is higher (1.4), the numbers of hospitalizations, ICU admissions, and deaths would be even higher than those estimated for a lower background Rt.
+
+Figures 1-4 display the cumulative number of patients requiring hospital and ICU beds, hospital bed occupancy, and daily deaths between October 2020 and March 2021 under different scenarios.
+

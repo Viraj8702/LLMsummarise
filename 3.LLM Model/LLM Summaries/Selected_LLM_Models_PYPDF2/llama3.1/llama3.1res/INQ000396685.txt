@@ -1,0 +1,302 @@
+Here is a summary of the text:
+
+The Welsh Government has a policy on Information Management and Governance that was published in August 2018. The policy sets out how the government should manage its information and records, including personal data and sensitive information. It defines eight stages to the information lifecycle (Create, Assure, Use, Store, Access, Share, Publish, and Dispose) and outlines specific requirements for managing digital and paper-based information. Key points include:
+
+* Assigning meaningful titles to all information
+* Applying correct retention periods at creation
+* Controlling versions of documents to ensure the latest version is easily identified
+* Adding sufficient metadata to aid retrieval and context
+* Labeling information with protective markings as needed
+
+The policy also recognizes that effective information management requires good corporate governance, and that it is supported by other detailed policies on data, records, and security.
+
+
+Here's a summary of the text:
+
+The Welsh Government has a security policy that aims to protect its information assets while also utilizing them for maximum benefit. The policy includes measures such as:
+
+* Assessing and managing risks to confidentiality, integrity, and availability
+* Balancing protection and use, developing a risk-aware culture
+* Protecting personal data and ensuring privacy
+* Maintaining Information Asset Registers (IARs) and conducting Privacy Impact Assessments (PITAs)
+* Reporting security incidents and notifying relevant authorities
+* Educating staff on their responsibilities for information management
+
+The policy also outlines how the Welsh Government uses systems to create, store, or process information in a way that takes account of privacy and sensitivity requirements. This includes managing systems as corporate resources and considering "privacy by design" when developing new processes or services. Overall, the policy aims to ensure that the Welsh Government's information is protected while also being used effectively for organizational benefit.
+
+
+The text is a policy document outlining how the Welsh Government stores, accesses, and shares business information. The three main sections of the policy are:
+
+1. **Store**: This section explains how the Welsh Government should store its business information to maximize efficiency, reduce costs, enable sharing, and minimize risks. Key points include:
+	* Correctly storing information on approved systems using a recognized file plan.
+	* Minimizing the use of non-electronic media (e.g., CDs/DVDs).
+	* Following a corporate Retention Schedule.
+2. **Access**: This section describes how Welsh Government information should be made accessible to those with a business need, both internally and externally. Key points include:
+	* Only limiting access when necessary due to security, privacy, or sensitivity requirements.
+	* Applying access controls to protect sensitive information.
+	* Using a corporate taxonomy for improved document retrieval.
+3. **Share**: This section explains how the Welsh Government shares its business information with third parties and the public, while adhering to legal requirements (e.g., Freedom of Information Act 2000). Key points include:
+	* Managing business information as a shared resource within the government organization.
+	* Using secure sharing tools (e.g., iShare Connect) when sharing information outside the Welsh Government.
+	* Avoiding hidden content in documents shared with third parties.
+
+
+Here is a summary of the text:
+
+The Welsh Government Information Management and Governance Policy outlines how to create, manage, protect, publish, and dispose of information within the government's organization. Key points include:
+
+* Protecting personal data and complying with relevant laws (e.g. GDPR)
+* Publishing information externally in accordance with standards and regulations
+* Applying copyright statements, secure publishing procedures, and proper disposal processes for information
+* Implementing a formal review and approval process for external publications
+* Complying with legal deposit legislation by providing copies of published works to the British Library and National Library of Wales
+* Disposing of information through a "whole-of-life" approach, retaining only what is necessary, and destroying sensitive information securely.
+
+Overall, this policy aims to ensure that Welsh Government information is managed responsibly and in accordance with applicable laws and regulations.
+
+
+The text appears to be a summary or index of a comprehensive Information Management Policy for the Welsh Government. It outlines 32 key points related to managing information across various formats (print, digital, online) and systems, including:
+
+* Managing records and documents
+* Handling sensitive personal information and data protection
+* Data sharing and international transfers
+* Litigation, legal discovery, and copyright issues
+* Retention, disposal, and archival of records
+* Public access to Welsh Government records and publications
+
+The policy covers the entire life cycle of information from creation to disposition, with a focus on ensuring that sensitive information is protected while also making information publicly available. It applies to all personnel working for the Welsh Government.
+
+No specific topic or theme is highlighted in this index; instead, it appears to be an exhaustive list of all the key points covered by the policy. The text does not provide an overall summary or overview of the policy but simply presents a structured list of its components.
+
+
+Here is a summary of the text:
+
+The Welsh Government has developed an Information Management and Governance Policy due to legislative obligations, including the Civil Service Code, Freedom of Information Act, Data Protection Regulation, and other laws. These laws require the government to ensure accurate record-keeping, transparency in information handling, and proper protection of personal and sensitive data. The policy aims to establish a framework for managing and retaining information across the organization, ensuring compliance with these legislative requirements. Key goals of the policy include:
+
+* Establishing clear expectations and responsibilities for employees and contractors regarding information management
+* Ensuring efficient, cost-effective, and legally compliant creation and management of information and records
+* Providing timely access to corporate memory through effective records management
+* Maintaining audit trails of evidence supporting important decisions
+
+The document also highlights the importance of managing information and records to agreed standards from creation, allowing for accurate understanding or reuse in the future. It cites ISO standards for electronic record keeping and notes that all personnel's work product remains the property of the Welsh Government under Crown Copyright.
+
+
+The text appears to be a section of an organizational policy document, likely related to the Welsh Government's information management practices. Here is a summary:
+
+**Purpose**: To establish guidelines for managing information and records within the Welsh Government.
+
+**Scope**: The policy applies to all personnel who create or receive information and records as part of their work in delivering the Welsh Government's objectives.
+
+**Definition of Records**: A record is defined as any piece of information, regardless of format or medium, created, received, or maintained by an individual or organization for evidence or business purposes.
+
+**Types of Information Covered**: The policy covers a wide range of digital and physical formats, including documents, emails, social media, audio recordings, and more.
+
+**Related Policies and Guidance**: Links are made to other relevant Welsh Government policies, such as access to information, security policy, procurement procedures, and data protection practices.
+
+**Corporate Information Management Systems**: The policy details approved hardware and software solutions for storing corporate records and information, including access to the internet, email, and specialized systems like iShare.
+
+
+Here is a summary of the text:
+
+The document outlines various corporate systems and storage locations for storing company records and sensitive information within Welsh Government. The approved systems include:
+
+* iShare (Electronic Document and Records Management System), which stores OFFICIAL, SECRET, and TOP SECRET information.
+* Shared drives (R: and S:drives) for storage of specific types of files that cannot be stored in iShare, such as complex spreadsheets and databases.
+* Other corporate systems, including:
+	+ HR Self Service
+	+ SAP Finance System
+	+ PPIMS (Project and Programme Information Management System)
+	+ CaSSI (Care Inspectorate Wales self-service system) which stores information in iShare using application-level integration.
+	+ EDDMS (Roads projects management system)
+* Other systems, including IRIS (Cafcass Cymru customer-focused IT system), which also stores information in iShare.
+
+The document also explains the responsibilities for organizing content on shared drives and using other corporate systems, as well as the requirements for storing various types of information.
+
+
+Here is a summary of the provided text:
+
+The Welsh Government has guidelines for managing electronic and hardcopy records. Key points include:
+
+* Personal iShare Home folders are for personal use only, not for storing corporate information.
+* Certain systems hold specific types of information (e.g. emails should be deleted or saved in iShare).
+* Hardcopy files with SECRET/TOP SECRET security classifications can be used as official records, but scanning is now the preferred method.
+* Original receipts for T&S claims and Welsh Procurement Card transactions must be retained electronically on iShare.
+* Only a small number of hardcopies may be kept for reference purposes, following security guidelines and destroying them when no longer needed.
+* Complete sets of material held on iShare should not be stored as "back-up" copies to avoid storage issues and potential GDPR breaches.
+
+Overall, the guidelines aim to ensure proper management and retention of electronic and hardcopy records within the Welsh Government.
+
+
+Here is a summary of the text:
+
+The Welsh Government has policies in place regarding the retention and disposal of public records, including digital ones such as websites, social media, and electronic messages like emails and texts. These records are either destroyed or preserved permanently at the National Archives after a specified period.
+
+Regarding digital communication tools:
+
+* Staff using government phones for messaging create "public records", which must be properly managed and preserved.
+* The ephemeral nature of text messages requires staff to be aware that they may be creating public records, which can cause record management challenges such as identifying, capturing, and preserving content, managing access and retrieval, and determining retention periods.
+
+Regarding specific digital tools:
+
+* Welsh Government websites are archived through the UK Web Archive and made accessible via the UK Government Web Archive.
+* Staff must use Microsoft Teams (which replaces instant messaging and other tools) to send messages that will be hosted by the Welsh Government and retained for 30 days. Business decisions, finance decisions, or policy decisions should not be made using this tool.
+
+The policies require staff to follow rules regarding social media usage, record management, and digital communication to ensure transparency, access, and preservation of public records.
+
+
+Here's a summary of the text:
+
+The text appears to be part of an information management policy document for Welsh Government. The main points covered are:
+
+1. **Information Asset Registers (IAR5)**: A list of all information assets across the organization has been compiled to maintain appropriate protection and identify responsibility.
+2. **Information Management measures**: When implementing new systems, key requirements include data protection, freedom of information, public records management, and auditing requirements. This will involve compliance with specific security standards and procedures.
+3. **Security Classifications**: Welsh Government uses the HMG Security Classification Policy for all records created from April 2014. Historical files retain their original classification system to preserve administrative history.
+4. **Naming Conventions**: A "Who-What-When" approach is used when creating new records, with a focus on clear and descriptive titles that can be cataloged using file metadata.
+
+Overall, the text emphasizes the importance of information management and security within Welsh Government, highlighting key requirements for protecting sensitive data and maintaining good practice in recordkeeping.
+
+
+Here is a summary of the text with a title "Standalone":
+
+**Standalone**
+
+This document outlines guidelines for managing files, closures, email, and other records within Divisions. Key points include:
+
+* File titles should be consistent and stand alone, allowing for easy identification and categorization.
+* Files are closed by contacting file plan managers through iShare, and re-opening requires approval from the Information & Records Management team.
+* Inactive paper records must be archived via the Information & Records Management team.
+* Emails with official record value must be saved in iShare immediately, and will automatically delete from Outlook after 12 months.
+* Sensitive information should only be shared through encrypted emails or secure email addresses.
+* Records created by Private Offices and the Office of the Permanent Secretary must be managed in accordance with the Public Records Act.
+* The onus is on Divisions to agree and adopt a suitable naming convention based on these guidelines, supported by the Information & Records Management team for consistency.
+
+
+The provided text discusses guidelines for record management within Welsh Government offices. The key points include:
+
+1. **Retaining Special Advisers' records**: Separate consideration is required for files related to Special Advisers (SpAds) who have a significant impact on official business. Records only mirroring existing files in the Welsh Government do not need to be kept.
+
+2. **Private Offices and EU Funded Records management**: The text advises that Private Offices must adhere to Welsh Government's information and records management policies and practices. Specifically, it outlines the necessity of retaining relevant information and supporting documents related to the work of the Welsh European Funding Office (WEFO) until WEFO confirms they are no longer required.
+
+3. **Retention periods for EU Funded Records**: For these records, retention is not linked to programme closure but instead averages around 5-10 years from when expenditure has been declared, with most operations' files kept for about 3 years after their end.
+
+4. **Protecting Sensitive Personal Information**: Adherence to data protection principles outlined in the GDPR and Data Protection Act 2018 is stressed, focusing on lawful processing that ensures transparency, accuracy, relevance, sufficiency, and non-retention beyond necessity.
+
+
+Here's a summary of the text:
+
+The Welsh Government has policies and procedures in place to protect sensitive personal data, in accordance with data protection legislation. Key aspects include:
+
+* Conducting Data Protection Impact Assessments (DPIAs) and Privacy Impact Assessments (PIAs) before handling personal data
+* Providing a clear Privacy Notice and being able to demonstrate compliance with the data protection principles
+* Granting subject access requests for information held about individuals, including children (with consideration of the child's best interests)
+* Managing CCTV footage in accordance with the ICO Code of Practice
+* Implementing secure sharing protocols for exchanging personal data with external organizations, specifying:
+	+ Who is involved
+	+ What data is being shared
+	+ How it will be managed and protected
+	+ When it will be disposed of or returned to its originator
+* Ensuring that personal data remains within the European Economic Area (EEA) when sent outside the UK, unless explicitly approved by the Data Protection Officer (DPO)
+* Managing records created through collaborative working or outsourcing, ensuring they are properly stored and protected
+
+
+Here is a summary of the text:
+
+The Welsh Government has policies for managing data, including:
+
+* Ensuring that data shared with other bodies or stored on behalf by others is managed according to this policy
+* Requiring contracts with third parties to include information management procedures and responsibilities
+* Protecting sensitive information and requiring third-party suppliers to follow minimum security standards
+
+Additionally, the Welsh Government:
+
+* Uses licensing frameworks (UKGLF and OGL) for publishing public sector data that can be reused
+* Manages changes in Machinery of Government or transfer of functions by involving the Departmental Records Officer throughout the process
+* Requires documentation and agreements for transferring records between departments or organizations
+
+
+The text discusses how to manage various types of government records, including Public Inquiries, Reviews, Tribunals, and legal cases. Here is a summary:
+
+* When the "Machinery of Government" process changes, it's essential to transfer information and records as part of the implementation.
+* Public Inquiries must maintain adequate records of their proceedings, evidence collection, deliberations, and findings. Inquiry papers should be dealt with immediately after the inquiry completes.
+* Records from Public Inquiries are typically transferred to The National Archives (TNA) for preservation.
+* For cases involving child or other abuse allegations, the Welsh Government must demonstrate robust procedures for handling such claims, including proper record-keeping and information sharing protocols with the police.
+
+Overall, the text emphasizes the importance of maintaining accurate and accountable records in various government contexts.
+
+
+The text provides a summary of procedures and guidelines related to litigation in the Welsh Government. Specifically:
+
+* When involved in an inquiry or legal proceedings, employees must contact the Director of Governance, Data Protection Officer, Chief Digital Officer, and Departmental Records Officer (DRO) to ensure preservation of relevant information.
+* A "litigation hold" is established to preserve records and information that may be relevant to pending or anticipated lawsuits or investigations.
+* Organizations are required by law to preserve information when anticipating a lawsuit or investigation, to prevent spoliation of evidence and comply with statutes such as the Sarbanes-Oxley Act.
+* Data Privacy Impact Assessments (PIAs) should be performed before releasing sensitive personal information to redact non-relevant data in compliance with GDPR/DPA regulations.
+
+Additionally, the text discusses two related topics:
+
+* Legal Discovery: The Welsh Government has an eDiscovery tool to assist in managing and coping with public inquiries, court cases, and internal investigations.
+* Candour: As a public authority, the Welsh Government has a duty of candour to provide full and fair accounts of decision-making processes, including information and documents that may be relevant to claims or challenges.
+
+
+Here is a summary of the text:
+
+The Welsh Government has policies in place to manage data retention and disposal. The duty of disclosure requires parties to search for documents and disclose their existence if they exist. Information and records are only retained as long as necessary for business requirements and legal obligations, after which they are destroyed or transferred to a permanent archive.
+
+The government also follows rules regarding the retention of personal data under the GDPR and Data Protection Act 2018. Once applicable retention periods expire, personal data can be anonymized instead of erased, and steps such as deletion, erasure, separation from identifying information, or aggregation can be taken.
+
+Additionally, the Welsh Government has a schedule for transferring records to archival storage based on their age, with a reduction in transfer ages from 30 to 20 years over time. The government reports annually on its progress in meeting record transfer objectives.
+
+
+Here is a summary of the text:
+
+The Government of Wales Act 1998 transferred responsibility for preserving Welsh records from the National Archives (TNA) in England to the UK's Department for Media, Culture and Sport (DCMS). However, an arrangement with TNA remains in place due to cost prohibitions on creating a separate national archive in Wales. The DCMS can create an Order under section 147 of the Act to transfer this responsibility, but for now, Welsh records are stored at TNA alongside UK government records.
+
+The situation is similar in Scotland and Northern Ireland, where the National Records of Scotland (NRS) and the Public Record Office of Northern Ireland (PRONI) respectively have custodianship of national archives. Similar arrangements exist with TNA, allowing public bodies to retain certain records while transferring others for preservation and storage.
+
+In Wales specifically, a review process is used to select which records are transferred to TNA, with input from relevant departments on what records have historical value or need retention for ongoing business use.
+
+
+Here is a summary of the text:
+
+This section appears to be part of an information management guide for the Welsh Government.
+
+**Retention and Preservation**: The Welsh Government must obtain permission from the Advisory Council if it wishes to retain records beyond the standard retention periods (unless they have a long-term business need or are subject to an ongoing inquiry). A Digital Continuity project was conducted to assess digital preservation requirements and ensure access to and integrity of digital information.
+
+**Intellectual Property**: The Welsh Government must obtain copyright permission before entering external intellectual property into its systems, such as iShare. Staff cannot scan or enter documentation without ensuring the Welsh Government owns or has obtained the copyright.
+
+**Public Access to Records**: The public can access Welsh Government records through:
+
+* The National Archives' online catalogue (for historical records over 30 years old)
+* Freedom of Information Requests (for less than 30-year-old information)
+
+Overall, this section highlights the importance of proper retention and preservation of records, managing intellectual property rights, and providing access to Welsh Government records through established channels.
+
+
+The text appears to be from an internal Welsh Government document related to access to information, publication management, and compliance with various regulations. Here's a summary:
+
+1. **Data Subject Access Requests**: The process for responding to requests for personal data is mentioned briefly, referring readers back to earlier guidance.
+2. **Publication Management**:
+   - The importance of publishing research reports and making them available on the corporate website or through a publications catalogue is highlighted.
+   - A specific section notes that electronic Crown Copyright published materials need to be sent to Library-Enquiries for cataloging within one month of publication.
+
+3. **Legal Deposit**: Every print and digital Welsh Government publication must be deposited with both the British Library and the National Library of Wales, as per UK legislation.
+
+4. **Training on Information Management**: All staff are required to complete a mandatory e-learning course every two years (or annually for Inspectorate and Advisory staff) which covers basic principles of good information management.
+
+5. **Monitoring Compliance**:
+   - Regular checks by The National Archives ensure compliance with information management practices.
+   - Internal reporting on records management is done through the Welsh Government's Internal Control Questionnaire.
+
+6. **Departing Staff Responsibility**: When leaving employment, personnel are expected to ensure all relevant information and records are handled correctly for accountability purposes.
+
+7. **External Compliance Reference**:
+   - The document mentions that compliance with GDPR, Data Protection Act 2018, Law Enforcement Directive, Freedom of Information, and PSI Regulations (Re-use of Public Sector Information) is followed by Welsh Government in handling requests and managing publications.
+
+
+This text appears to be guidance from the Welsh Government regarding how to retain records relating to payments made using Welsh Government Purchase Cards (WPCs). The key points are:
+
+* Cardholders must request and retain receipts for all WPC transactions, as well as electronic or scanned versions of these receipts in their iShare file.
+* Receipts should include itemized details of the transaction and be saved with a unique reference number on iShare.
+* Records should be retained for at least 7 years from the end of the financial year in which the payment was made (12 years if EU funding is involved).
+* Cardholders may need to provide receipts or explanations of transactions upon request by authorized officials, including Welsh Government auditors, HMRC, and other individuals with statutory powers.
+* In cases where receipts are not available, a clear explanation should be provided in a file note countersigned by the transaction approver.
+

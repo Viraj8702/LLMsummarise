@@ -1,0 +1,53 @@
+Title: INQ000383581 - Minutes of Precautionary SAGE Meeting on Wuhan Coronavirus (WN-CoV) regarding situation update, current understanding of WN-CoV, NERVTAG conclusions, transport-related issues, UK health readiness and planning and HMG response, dated 23/01/2020.
+
+Here's a summary of the text:
+
+This document is an update from a meeting held on January 22, 2020, regarding the Wuhan Coronavirus (WN-CoV) outbreak. Key points include:
+
+1. China has revised its case definitions, making comparisons difficult.
+2. Diagnostic testing in Wuhan is overwhelmed, and there's uncertainty around the data.
+3. WHO has received environmental sampling from Wuhan, which may provide information on the virus's zoonotic reservoir.
+
+The document also provides an overview of the current understanding of WN-CoV:
+
+1. Evidence of person-to-person transmission exists.
+2. The incubation period is unclear, but appears to be 5-10 days.
+3. The reproductive number is likely higher than 1.
+4. The mortality rate is currently estimated to be lower than SARS, but it's too early to quantify.
+5. No evidence on the genetic strain or origin of the virus exists yet.
+
+Finally, the document summarizes the conclusions from NERVTAG (an advisory group):
+
+1. Port of entry screening is not advised due to limited understanding of epidemiology.
+2. Public health information efforts via leaflets, posters, and broadcast messengers are supported.
+3. Temperature and other forms of screening are not recommended.
+
+The UK's readiness and planning for WN-CoV include:
+
+1. Good centralized diagnostic capacity exists, with a specific test scalable across the UK in weeks.
+2. The sensitivity of the test is currently unknown.
+
+
+Here is a summary of the text:
+
+The UK government has been working with experts to respond to the COVID-19 outbreak in Wuhan, China. The report discusses various aspects of the response, including:
+
+* Testing and detection of cases: The sensitivity of diagnostic tests is unknown, and there are conflicting reports from upper respiratory tract sampling.
+* Criteria for testing potentially infected individuals: The government's health and safety agencies have developed criteria for identifying potential cases, which include symptoms, signs of WN-CoV, and a history of travel to or living in Wuhan.
+* Isolation and contact tracing: Plans are being prepared to isolate potentially infected individuals and trace their contacts.
+* Communication and messaging: Consistent messages should be conveyed on travel advice to/from Wuhan, and uncertainty should be communicated clearly.
+
+The report also notes that there are no practical preventative actions that can be taken ahead of Chinese New Year. The government has established triggers for escalating the response, including:
+
+* Infection of healthcare workers
+* Sustained human-to-human transmission outside of Wuhan
+* Severe confirmed case in the UK
+
+If these triggers are met, the government's response will review and adapt accordingly.
+
+Finally, the report lists various actions to be taken, including:
+
+* Sharing the latest isolation plan with behavioral scientists for improvement
+* Considering how NHS primary care facilities might respond to an increase of cases and potential cases
+* Coordinating consistent messaging on travel advice with FCO
+

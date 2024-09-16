@@ -1,0 +1,29 @@
+Title: INQ000385719 - Email chain between Rob Orford (Chief Scientific Adviser for Health, Welsh Government), Frank Atherton (Chief Medical Officer for Wales), Tracey Cooper (Chief Executive of Public Health Wales) and colleagues, regarding PHW/WG - National assessment, dated between 10/11/2020 and 11/10/2020.
+
+This is an email exchange about a meeting discussing Wales' COVID-19 strategy. The initial email from Giri outlines key points for the discussion, including:
+
+**Strategic Intent:** Decide on a strategy for dealing with COVID-19 in Wales. Options include pursuing elimination (suppression followed by ambitious efforts) or aiming for an "acceptable baseline" of endemicity (living with manageable levels of virus). Each option has its own implications – elimination requires significant resources and potential economic/social disruption, while endemicity raises questions about protecting vulnerable groups and defining the acceptable level.
+
+**Current Situation:** 
+* Case incidence will continue to grow, potentially reaching 200 per 100,000 by October's end. 
+* Hospital admissions and intensive care cases will rise accordingly.
+* Deaths are projected to increase.
+   Outbreaks in healthcare settings and care homes are anticipated.
+   University outbreaks will contribute significantly to new case numbers.
+
+**Global Lessons:** Countries successfully pursuing elimination have:
+* Strict border controls, including halting non-essential travel and enforcing quarantines for returning travelers.
+* Effective test, trace, and isolate programs with rapid testing, prompt contact tracing, and isolation within 24 hours.
+* Financial incentives for people isolating to compensate lost income.
+* The capacity to handle a high number of cases (at least 2000 per day) and their contacts.
+* Clear communication and transparency with the public regarding restrictions and their purpose.
+
+**Options & Timeline:**
+* Continuing with current measures (local and hyper-local lockdowns), which will likely become ineffective soon.
+* Implementing additional national interventions: defining specific measures, enacting timelines, and durations.
+* Developing a longer-term strategy to manage COVID-19 in Wales.
+
+
+The email exchange also includes logistical information about the meeting time and platform. 
+
+

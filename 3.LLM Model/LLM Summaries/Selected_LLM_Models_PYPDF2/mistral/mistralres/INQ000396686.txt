@@ -1,0 +1,23 @@
+ This text is a notice from Welsh Government's Senior Information Risk Owner (SIRO) regarding changes in social media usage due to a recent security incident. The notice details new rules for using Welsh Government-owned devices for all official social media accounts and prohibits the sharing of passwords with third parties, among other things. It also emphasizes the responsibility of employees to ensure their personal social media activity does not bring the Welsh Government into disrepute. The notice advises employees who use personally owned accounts for work purposes to contact their managers before February 28, 2020, so that the government can understand how these accounts are being used and provide guidance accordingly.
+
+
+ The text discusses guidelines regarding the use of personal social media accounts by individuals working for the Welsh Government. By February 28, 2020, staff must disclose their personal social media accounts related to work matters to a designated Security Policy mailbox. The Digital Communications team will then assess these accounts to determine if they should be designated as official Welsh Government accounts. Staff are advised to remove anything suggesting a connection to the Welsh Government if this designation is not appropriate or desired.
+
+Regarding LinkedIn, while its use is encouraged for professional purposes, staff must comply with the Civil Service Code and ensure that their content is consistent with the platform's terms and conditions to avoid potential disciplinary action. The text also advises against sharing security vetting status on social media platforms.
+
+WhatsApp usage is not recommended for government business due to data control responsibilities, and personal WhatsApp accounts should not be used for such purposes. Staff are advised to take measures, like two-factor authentication, to secure their personal social media accounts and minimize the risk of compromise. The text also highlights the importance of being mindful of a digital footprint, as it exists even for those who don't use social media actively. Additional resources are provided for increasing social media account security.
+
+
+ Summary: The text presents two cases related to social media incidents involving Welsh Government employees and their use of personal accounts in a professional context.
+
+1. In Case Study A, an employee named Chris was encouraged by their line management to use a personal Twitter account for promoting work-related content. Subsequently, Chris's account liked offensive material that led media organizations to contact the Press Office seeking responses. The investigation found evidence that the account had been hacked and no action was taken against Chris. However, if it had not been possible to prove that Chris was not at fault, they would have faced disciplinary action, potentially leading to loss of their role in Welsh Government.
+
+2. In Case Study B, the UK Government in Wales Twitter account was hacked and used to re-Tweet pornographic content. The investigation findings, although not shared publicly, suggest that had two factor authentication (2FA) been implemented and activities restricted to devices owned by the organization, it is unlikely this incident would have occurred.
+
+The text also provides explanations about what 2FA is and how it adds a layer of security to accounts by requiring users to enter both something they know (password) and something they possess (such as a code sent to their pre-registered phone).
+
+Additional context provided in the annexes includes lists of Welsh Government Social Media Accounts and a brief description of 2FA, noting that while many service providers support its use, not all insist on it.
+
+
+ The text discusses the recommendation of using Two-Factor Authentication (2FA) for various online accounts, such as email, social media, and banking platforms, using authenticator apps like Microsoft and Google Authenticator over SMS-based authentication methods. While LinkedIn does not require 2FA, it is supported, and users are encouraged to use it if they have the option. The text also advises the reader to check the specific 2FA support for their providers by searching their name on websites that provide information about such services, and provides a list of common providers that offer 2FA support including Google (including Gmail), Twitter, Facebook, Instagram, LinkedIn, Amazon. If an account is hacked, immediate reporting to the provider through search queries like "how to report a hacked twitter account," etc., is suggested.
+

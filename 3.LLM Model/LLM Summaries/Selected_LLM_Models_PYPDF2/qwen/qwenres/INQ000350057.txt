@@ -1,0 +1,40 @@
+The text discusses the current situation in Wales regarding COVID-19 infections. The text sets out the technical and scientific rationale for introducing non-pharmaceutical interventions (NPIs) in Wales in the pre-Christmas period.
+
+Key takeaways include:
+
+- The virus spreads when an infected individual comes into contact with an uninfected individual( s). The likelihood of a contact between an infected individual and an uninfected individual resulting in a transmission is dependent upon, among other factors, the nature of the contact. Some environments and behaviors are more likely to enable the virus to transmit.
+- Social distancing and quarantining remains highly effective at reducing the risk of infecting others, if observed correctly. Pre-isolating (e.g. not mixing outside of the household) for one incubation period (10 days) would be an effective way of lowering your risk of infecting others. Self-isolation remains of paramount importance for anyone with COVID-1 9 symptoms.
+- The best way to protect older family members is not to expose them to potential infection, no matter how well-intention the reason for contact.
+
+
+preparation for isolation) may help reduce the risk of infecting others if observed correctly during the Christmas and winter season.
+
+It's important to note that while social distancing and quarantining remains highly effective at reducing the risk of infecting others if observed correctly, it is not a silver bullet. Invariably new lateral flow devices will help reduce the lag in test to result and may enable greater freedoms and flexibility of testing; however, they may lack comparable sensitivity to RT-PCR (Reverse transcription polymerase chain reaction),
+
+
+The text discusses the potential impacts of Christmas on the transmission of COVID-19. The author suggests that most transmission occurs due to prolonged, close interaction with familiar people in a home environment. The author also mentions that the disinhibitory effects of alcohol on judgement, movement, memory, and social interaction may exacerbate difficulties with social distancing and subsequent contact tracing. Finally, the text provides references to published outbreak clusters associated with bars and households, but few cluster were found in schools.
+
+
+This text appears to be a summary of findings from an epidemiological investigation into high-risk exposure settings for COVID-19 in England using data collected through enhanced contact tracing and a market research panel. The text states that certain occupational groups are associated with increased odds of being a COVID-19 case. The text also refers to the availability evidence indicating that schools being open is associated with higher rates of infection in the population, although there is no clear evidence of a causative relationship; the mechanism for any association may be complex  (potentially including many factors such as reopening of workplaces, parents returning to work, shops and hospitality, social mixing outside schools that links households and different networks together)
+
+
+This suggests that there may be gaps or areas where adherence is not as strong. It's worth noting that these behaviors and risk communication gaps can vary depending on individual factors such as age, gender, social status, education level, occupation, income, access to healthcare services, living environment, stress levels, and mental health status.
+
+
+In Wales, we are doing well. Despite the challenges brought by the pandemic, people in Wales remain committed to following the guidelines and recommendations set out by Welsh Government.
+
+Furthermore, as reported in the recent TAC paper29, many of the evidence-informed behavioural considerations remains the same as in a spring  (and outlined in the recent TAC paper29))
+
+
+to January. This estimate does not factor in any non-pharmaceutical interventions after Christmas, or likely COVID-19 deaths over the springtime.
+
+The figures below show the modelled effects of 6 different pre-Christmas policy scenarios:
+
+|Scenario| Effect on Deaths| Effect on NHS Occupancy| Effect on ICU Bed|
+|---|---|---|---|
+|Redistribute Capacity in Winter| +10% additional transmission to January| +30% additional occupancy to January| +40% additional bed requirement to January|
+|Increase Social Mixing During Christmas| +10% additional mixing during the Christmas period, estimated to result in a further 10% additional
+
+
+Tag ADVICE ONLY NOT WELSH GOVERNMENT POLICY ICU occupancy Pre-Firebreak R 200  - 150 Max 100  - f Curren ~ .. :  ~. 50  - ol 0' 200-Pre-Firebreak R + 10% 3000  - ` II p  ..  .. Dec Scenarios Dec_ Measures_ Only 3000-
+

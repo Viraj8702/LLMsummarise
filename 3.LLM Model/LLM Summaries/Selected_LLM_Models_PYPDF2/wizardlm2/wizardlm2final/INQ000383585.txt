@@ -1,0 +1,23 @@
+Title: INQ000383585 - Email from DHSC colleague to Sir Frank Atherton (Chief Medical Officer for Wales), Professor Chris Whitty (Chief Medical Officer for England), Catherine Calderwood (Chief Medical Officer for Northern Ireland) and Michael McBride (Chief Medical Officer for Nothern Ireland) regarding CMO Coronavirus briefing for DsPH, dated 05/02/2020.
+
+ The text is a summary of notes from a conference call between the UK Chief Medical Officers (CMOs) and Directors of Public Health (DsPH) on February 31, 2020, regarding the coronavirus outbreak. Here are the key points:
+
+1. The CMO outlined the current epidemiological situation of the outbreak, presenting two scenarios where containment might shift to mitigation strategies. However, it was stressed that this shift is not yet necessary at the present time. For planning purposes, the pandemic flu model is being used as a reasonable worst-case scenario.
+
+2. During the Question and Answer session, the CMO confirmed:
+   - The use of the pandemic flu model for planning.
+   - Uncertainties regarding whether surviving infection protects against re-infection.
+   - That NERVTAG (New and Emerging Respiratory Virus Threats Advisory Group) is working on advice for treatment options.
+   - The importance of planning for mitigation now.
+
+3. The CMO updated the participants on the situation with the plane bringing individuals back from China and discussed changes to both geographical and clinical case definitions.
+
+4. Deputy Chief Medical Officer (DCMO) took over as Chair and emphasized during the Q&A:
+   - The need for communications to be tailored to the audience.
+   - The identification of key groups to receive communications, including universities, boarding schools, and the Chinese community in the UK, with a focus on maintaining community cohesion.
+   - A specific request from the North East for clear public information about quarantine measures and better centrally led communication regarding the housing of repatriated individuals in Wirral and the choice of location. The DCMO committed to addressing these issues in a subsequent call and informed DHSC (Department of Health and Social Care) colleagues about this concern.
+
+5. The DCMO also committed to sharing the information from the call with the participants via email and pointed out that participants should keep a copy for their records if needed for audit purposes, as the CMO Private Office does not save these emails.
+
+6. The email concludes with a standard disclaimer regarding confidentiality, the unauthorized use of the email, and compliance with electronic communication policies monitored by the Department of Health and Social Care.
+

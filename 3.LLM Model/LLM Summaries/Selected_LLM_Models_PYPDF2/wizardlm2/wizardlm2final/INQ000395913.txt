@@ -1,0 +1,65 @@
+Title: INQ000395913 - Email chain between Dr Rob Orford (Chief Scientific Adviser for Health, Welsh Government), Reg Kilpatrick (Director General, Covid Crisis Coordination, Welsh Government) and colleagues, regarding Covid fire break, dated between 15/10/2020 and 18/10/2020.
+
+ The text is a series of exchanges between individuals discussing the challenges and strategies related to managing the COVID-19 pandemic, particularly from a public health and economic perspective in Wales. Here's a summary of the key points:
+
+1. **Testing and Isolation**: There is a consensus that the current approach to testing and isolation needs to be improved. There are high percentages (60-80%) of individuals who are not isolating or quarantining when they should be, which is contributing to the spread of the virus. The group is discussing the need for more comprehensive testing, including for asymptomatic individuals, and the possibility of incentivizing isolation through financial rewards.
+
+2. **Financial Incentives**: There is an ongoing effort to financially reward individuals who comply with isolation requirements, but this is facing delays due to local authority (LA) payment processes and potential overly restrictive policies. A swift implementation of this policy is seen as necessary.
+
+3. **Reproduction Number (R) Tracking**: The group is tracking the effective reproduction number (RWC) more closely to understand the likely case scenarios rather than relying on a 1 in 10 estimate. They are also aware that SAGE/TAG is developing a new RWC model.
+
+4. **Economic Analysis**: There is an acknowledgment that a detailed economic argument is missing from the current discussion and that this should be provided to better inform decision-making.
+
+5. **Balanced Discussion**: The importance of having a balanced discussion on the potential harms of all options is emphasized, as every choice carries some harm. A decision is needed, and while the public health perspective can provide recommendations, the final choice rests with the decision-makers.
+
+6. **Business Concerns**: There is an ongoing dialogue with businesses, particularly in retail, who are questioning the rationale behind closures when many have adapted to be COVID-secure. They are seeking evidence to support these decisions.
+
+Overall, the exchanges highlight the complex and multifaceted nature of managing the pandemic's spread through testing, isolation, and economic considerations, with a call for more data, faster implementation of financial incentives, and clearer communication with businesses.
+
+
+The text is a discussion among officials regarding the decision to implement a "firebreak" lockdown to curb the spread of COVID-19, particularly focusing on the economic implications and justifications for the decision. Here's a summary of the key points discussed:
+
+1. **Clarity of Decision**: Jonathan highlights the need for clear reasoning behind the decision to impose a firebreak, as there will likely be significant pushback, especially if the rationale includes preventing outdoor congregations while allowing outdoor gyms to remain open.
+
+2. **Economic Impact Assessment**: Tom agrees with Andrew's comments and notes that the impact of closing non-essential retail on the reproduction number (R) of COVID-19 is relatively low, given the high economic cost and the disproportionate impact on lower-paid employees. He also points out that the major benefits claimed for the firebreak are based on the Rapid Working Group on Covid-19 (RWC), which has a probability of being incorrect up to 10% in its projections.
+
+3. **Comparison of Benefits and Harms**: Tom suggests including an estimate of the benefits of a firebreak under a central case scenario to ensure a fair comparison with the social and economic harms, which could be much higher under a worst-case scenario. He emphasizes that the negative impacts on the economy and individuals are significant, particularly in light of the deepest recession in history.
+
+4. **Economic Recovery and Long-Term Effects**: The discussion notes that shutting down large chunks of the economy due to the firebreak will exacerbate the recession and could reduce GDP by as much as 5%. While some economic activity may recover, a portion of the losses is likely to be permanent.
+
+5. **Job Support Scheme (JSS)**: The JSS being proposed for this period is less generous than the Job Retention Scheme (JRS) that was in place previously, so individuals affected by the closures will experience a greater negative impact on their income, albeit for a shorter duration.
+
+6. **Societal Impacts**: There is a concern that worsening the recession could lead to long-term negative impacts on life chances, particularly for young people and the most disadvantaged in society, potentially leading to premature deaths.
+
+7. **Final Decision and Acknowledgment of Costs**: Although the discussion does not change the recommendation for a firebreak, it emphasizes the need for clarity about the significant negative impacts and acknowledges that a high price is being paid to save lives over the next few months.
+
+8. **Legal and Supporting Papers**: Helen and her LS (Legal and Social) colleagues are tasked with drafting papers for Cabinet to consider, which should include supporting legal advice.
+
+In essence, the discussion revolves around the difficult balance between public health and economic well-being during the decision-making process for implementing a firebreak lockdown. The officials are seeking to ensure that the rationale and implications of such decisions are transparent and thoroughly considered.
+
+
+ Tom, a member of the COVID-19 Project Team within the Welsh Government, is coordinating with colleagues, including Helen and LS, to finalize draft papers for Cabinet consideration regarding legal advice support. He requests that any significant revisions or comments be focused on tracked changes, especially for mistakes or errors in the main paper and Annex D, as these documents have not been extensively reviewed yet. He notes that there are ongoing discussions and issues with Annex B and Annex C that do not require further review at this stage. Tom asks for any digestible feedback by 10:30 AM so he can process it before sending the paper to the First Minister (FM) by around 11 AM, ahead of a meeting with Cabinet members at midday.
+
+Tom expects to be offline until at least 1 O'clock in the morning, which is why he emphasizes the importance of tracked changes over detailed comments, as it will be easier for him to address these quickly upon his return.
+
+Later, Tom reflects on the comments received that day and attachs a paper summarizing the issues that still need to be resolved. He requests any clarifications or adjustments by 11 AM on Saturday morning so he can submit the updated paper to the FM by the end of the morning, in preparation for a discussion at 2:30 PM.
+
+In a separate communication, Tom provides his notes from the Cabinet discussion earlier that day on the firebreak paper. All members of Cabinet agreed with the principle of a firebreak, subject to further work to ensure reassurances on several key points: business support arrangements, clarity about post-firebreak regimes, and what the two weeks will be used for. The Cabinet discussed various options and settled on a shorter, sharper two-week firebreak to run from the evening of Friday, October 23, until Monday, November 9. Tom highlights that there was a general agreement on this approach during the discussion.
+
+
+ The text appears to be a summary of points discussed in a meeting regarding the implementation of a firebreak lockdown in Wales due to COVID-19, specifically during the week starting October 20, 2020. The key takeaways and areas where further work and advice are needed include:
+
+1. **Secondary Schools**: There is a need to determine options and a preferred approach for managing schools and exams during the firebreak period. Teachers should continue working, but there are questions about which pupils might attend and how to manage exams, particularly resit exams which can potentially be delayed, while others, like those for medical/vet school admissions or entry into Oxford and Cambridge universities, cannot be delayed.
+
+2. **Outdoor Activities**: The meeting highlighted the need to decide whether to further restrict outdoor gatherings beyond the current 30-person limit and whether to allow any organized activities during the firebreak, such as Halloween celebrations, Guy Fawkes Night events, and Remembrance Sunday ceremonies.
+
+3. **Local Government**: Discussions are needed on how local governments should approach amenities like parks and whether playgrounds should remain open. Additionally, there is a decision to be made on the capacity of transport during this period.
+
+4. **Continuity of Certain Sectors**: The meeting noted that in the first lockdown, a number of sectors were not closed, including manufacturing, construction, offices, etc. There is a need to consider whether to adopt a similar approach this time. This also includes ensuring that hotels can remain open for specific purposes, such as accommodating the homeless or essential workers like construction and healthcare personnel.
+
+5. **Transport and Travel**: Assuming individuals working in England have a reasonable excuse to travel if their employers require it.
+
+The document is from Tom Smithson, a member of the COVID-19 Project Team at the Welsh Government, and was marked as "Irrelevant & Sensitive." It was distributed via a Microsoft Teams Meeting on October 16, 2020, at 08:45-09:30 (UTC+00:00) Dublin, Edinburgh, Lisbon, London time.
+
+The summary concludes that there are new issues to consider due to the stay at home steer, and it mentions that Liz is addressing some of these new considerations. The document also references a list of reasonable excuses but does not detail them in this summary.
+

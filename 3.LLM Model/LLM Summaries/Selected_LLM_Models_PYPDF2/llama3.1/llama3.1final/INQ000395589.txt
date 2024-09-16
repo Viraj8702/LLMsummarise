@@ -1,0 +1,73 @@
+Title: INQ000395589 - Email chain between Gill Richardson (Professional Advisor to the Chief Medical Officer, Welsh Government) and Welsh Government and Public Health Wales colleagues, regarding a DHSC/PHE/DA call, dated between 14/04/2020 and 15/04/2020.
+
+This text appears to be an internal email or briefing note among Welsh government and public health officials. Here's a summary:
+
+* The email discusses the need for transparency on COVID-19 related deaths within the NHS staff in Wales, with a decision on what can be shared being taken under Dr Heather's guidance.
+* It references a meeting with a minister where it was acknowledged that Public Health Wales (PHW) does not report on overall deaths by local authority area, unlike England. However, some health boards are reporting staff deaths, and families of deceased NHS staff may also disclose details.
+* The email mentions the following topics:
+	+ Reporting plan for NHS staff deaths: A reply to this is needed.
+	+ Oxygen issues in mental health trusts in England: This might be relevant for consideration in Wales.
+	+ COVID-19 update:
+		- Daily death numbers from across the UK are mentioned, including a notable number of 771 new cases with 12878 total (which needs verification).
+		- Staff deaths: The Department of Health and Social Care is asking directors of public health to confirm what they're doing about information on staff deaths.
+	+ Supply lines: Stock is being sent to local resilience forums, but there are issues with gown shortages and oxygen supply in some English hospitals.
+
+Overall, the email seems to be discussing internal operational details and COVID-19-related updates among Welsh government officials.
+
+
+Here's a summary of the text:
+
+The writer, Dr Anna Schwappach, is providing an update on the COVID-19 situation in the UK.
+
+Key points:
+
+* There is currently a body bag shortage, but efforts are being made to increase supply.
+* Oxygen issues are affecting some hospitals, particularly those that don't normally stock oxygen supplies.
+* A new Social Care Action Plan will be published and launched today by the Secretary of State, addressing workforce shortages among other issues.
+* Data discrepancies between different sources (e.g. National Health Service England vs. Office for National Statistics) continue to cause problems in tracking COVID-19-related deaths.
+* Workers in social care and health care professions are experiencing difficulties with PPE (personal protective equipment), testing, and antibody testing.
+
+Note: The writer is a Speciality Registrar in Public Health for Public Health Wales, and her work days are specifically on Tuesdays, Wednesdays, and Thursdays.
+
+
+Here is a summary of the text:
+
+**Data Collection and Sharing**
+
+* There was concern about collecting data on healthcare staff related to COVID-19, particularly to avoid accidental identification of individuals in small countries like Wales.
+* DHSC has been reviewing the approach to data collection with other parts of England (DAs) and neighboring authorities.
+
+**Adult Social Care Update**
+
+* An action plan is being prepared by DHSC regarding ways to improve infection control, support the workforce, and care for vulnerable groups.
+* ONS data released today shows a significant increase in COVID-19-related deaths in care homes, with 217 reported last week (actual number higher due to lag).
+* The home care sector is also under pressure with high staff absences.
+
+**Testing Update**
+
+* Testing numbers have decreased again but could reflect increased capacity and staff returning to work.
+* Problems with antibody testing were reported, including the lack of a reliable lateral flow test.
+* Efforts are being made to ramp up options for population sampling and increase demand to fill tests now available.
+
+**Workforce Status**
+
+* Numbers of professionals interested in returning to work or on clinical placements are increasing.
+* Returning staff may not be taken up by regions with lower demand, but efforts are being made to encourage them to consider short-term deployments.
+* Support is still needed for adult social care sector staff, and a recruitment drive is planned within the next 48 hours.
+
+**International Update**
+
+* There was no update available regarding international developments related to COVID-19.
+
+
+Here is a summary of the text:
+
+This appears to be an internal email sent by Dr Anna Schwappach, a Speciality Registrar in Public Health for Public Health Wales. The email covers several urgent matters related to COVID-19 response in Wales, including:
+
+* A recruitment drive into a service starting within 48 hours
+* Issues with international teams and communication channels being stood down
+* Changes to death and funeral guidance, with separate publication dates for different aspects of the guidance
+* Supply issues with ICU drugs, atracurium, and rocuronium, with an alert going out about these shortages
+
+The tone is urgent but informal, suggesting that this email was sent within a healthcare organization in response to rapidly evolving circumstances.
+

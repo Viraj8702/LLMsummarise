@@ -1,0 +1,73 @@
+ This document is a Technical Advisory Group Statement issued on December 2, 2020, about the introduction of non-pharmaceutical interventions (NPIs) in Wales during the pre-Christmas period. Here are the key points:
+
+1. The virus spreads through contact between an infected and uninfected person, with transmission likelihood depending on contact nature. Some environments and behaviors facilitate virus transmission more easily.
+
+2. Social distancing, quarantining, and pre-isolation (avoiding mixing outside the household) are effective in reducing infection risk, emphasizing self-isolation for anyone showing COVID-19 symptoms.
+
+3. Interacting with older family members should be limited as much as possible due to the potential risks of infection.
+
+4. Household mixing and indoor gatherings pose a significant risk of transmission, so the fewer households and individuals interact, the lower the risk of transmission, hospitalization, and deaths.
+
+5. Stricter measures like reducing social mixing and closing hospitality and entertainment venues before Christmas could help decrease COVID-19 hospital and ICU bed requirements and subsequent deaths.
+
+6. The current reproduction number (Rt) should be kept lower to significantly reduce expected death numbers and NHS pressure.
+
+7. Data suggests case numbers and hospital admissions are nearing those seen at the start of firebreak, with rates increasing across 15 out of 22 local authorities as of Dec 2, 2020. The firebreak had initially been effective in pushing back the epidemic by three to four weeks.
+
+In essence, the text advises stricter restrictions on gatherings and social mixing during the pre-Christmas period to help control the spread of COVID-19 and reduce hospital and ICU bed requirements and deaths.
+
+
+ The text discusses the current state of COVID-19 cases in Wales, focusing on the number of cases per 100,000 population across various local authorities and health boards. Several areas have high or very high case numbers, with some rural, smaller population areas having lower rates. A rise in cases among over-60s is noted, potentially due to care home outbreaks and intergenerational mixing. The Rt value, which estimates the spread of the virus, suggests an increase in hospital admissions and deaths in the next 2-3 weeks.
+
+Wales' current death rate is comparable to May, with a higher excess death rate compared to England and Scotland over recent weeks. Various analyses have been conducted on interventions during the pandemic, including those related to local health protection zones and the national firebreak. The text also mentions potential harms from non-pharmaceutical interventions and new technologies for rapid testing.
+
+The text warns of increased transmission risk due to winter celebrations like Christmas, particularly due to intergenerational mixing. More people may need to self-isolate or quarantine during the holidays as transmission rates rise beforehand. The core concept of non-pharmaceutical interventions is to reduce the risk of transmission by limiting contact between infectious and susceptible individuals.
+
+
+ The text discusses the need for self-isolation or quarantine during the Christmas period due to increased risks of COVID-19 transmission. Pre-isolating for ten days is advised as an effective measure to lower the risk of infecting others. Those who become symptomatic during this period should avoid seeing others and get a RT-PCR swab test immediately.
+
+The text also emphasizes that the current restrictions will likely be lifted once a vaccine has been widely distributed. Until then, individuals should follow precautions such as reduced length of stay, good hand hygiene, and ventilation when visiting older family members or those at higher risk. Most transmission occurs due to close, prolonged interaction with familiar people in a home environment, and pre-symptomatic and asymptomatic transmission is possible.
+
+The text also notes the impacts of hospitality on the epidemic and highlights that transmission risk is a combination of environmental and behavioral factors. Higher risk contacts are those that are close, prolonged, indoors, face-to-face, in poorly ventilated and/or crowded spaces, or involve "loud" activities, which are prevalent in the hospitality sector. The disinhibitory effects of alcohol on judgement, movement, and memory may exacerbate difficulties with social distancing and contact tracing. Numerous clusters associated with bars and households have been identified, but few with schools.
+
+
+ The text discusses findings from various studies regarding high-risk exposure settings for COVID-19. In the United States, the Centers for Disease Control found that individuals infected with SARS-CoV-2 were more likely to report dining at a restaurant (2.8 times more) or going to a bar/coffee shop (3.9 times more) than those in the control group. In England, certain occupations such as warehouse, construction, hospitality, health and social care, and entertainment activities have been associated with increased odds of being a COVID-19 case.
+
+In Wales, commercial workplaces, particularly pubs and restaurants, were found to be associated with infection clusters. Enforcement data indicates that hospitality is the most common setting for improvement and closure notices served due to non-compliance with regulations.
+
+In the context of schools, while cases and contacts among students and teachers are increasing as community cases rise, there isn't a definitive causative relationship established between schools being open and higher rates of infection. The mechanism behind any association may involve multiple factors such as reopening of workplaces, parents returning to work, increased social mixing, etc.
+
+In summary, workplaces like warehouses, construction sites, hospitality, and entertainment venues have been linked with increased risk of COVID-19 transmission. Dining at restaurants, going to bars/coffee shops, and engaging in entertainment activities have been identified as high-risk behaviors. Schools may also contribute to higher rates of infection based on complex factors like increased social mixing, but a causative relationship hasn't been clearly established.
+
+
+ The text discusses the impact of school closures during the pandemic and potential options for reducing educational and socio-economic harms caused by these closures. It's observed that closing schools is a last resort due to risks to children's physical, mental health, learning, and well-being. However, school closures during the autumn firebreak increased the risk of transmission within households, especially with the agreement for expanded Christmas bubbles.
+
+The risks associated with mitigations like remote learning or opening limited schools for essential workers and vulnerable children are discussed, with concerns about increasing inequality as online learning might not be accessible to lower socioeconomic groups. The need for a careful risk/benefit approach when considering school closures is emphasized. It's suggested that if learning transitions to a blended period before Christmas, the week should be used for isolation and reducing social contacts with a clear "stay at home" message for all age groups. The text also recommends continuing the pursuit of shared responsibility for long-term behavior change while acknowledging that some members of society are not adhering to guidelines in place.
+
+
+ The summary is as follows: The text highlights the importance of recognizing that minor breaches of guidelines can have a significant impact at a population level. Many people in Wales are adhering to the guidelines, but there are exceptions due to barriers like understanding of guidelines, lack of skills (e.g., saying no), and lack of support (financial, practical, emotional). Survey data suggests some mixing outside the extended household, confusion about viral transmission risks, and a return to pre-firebreak levels of travel which may increase community transmission risk. Current circumstances may exacerbate the risk due to changing behaviors after restrictions are relaxed, increased mixing during pre-Christmas periods (e.g., hospitality settings and non-essential retail), complacency with vaccine availability news, or continued caution as an end in sight is perceived by some people.
+
+The text also recommends that public communication about risk should be clear, simple to understand, and have a rational basis, especially if there are deviations from the post-firebreak national approach. Financial support for self-isolation and other forms of social and emotional support should continue. Communication channels should reflect demographic and cultural differences and interventions should be co-produced whenever possible. Enforcement should not be used without first attempting to engage, explain, and encourage, and any enforcement should be aware of the risk of inequitable deployment.
+
+
+ The summary states that during festive seasons, specific behaviors may increase, leading to potential higher risks of Covid-19 transmission. To minimize this risk, early intervention, short and sharp interventions, and adherence maintenance over time are crucial. Additionally, firebreaks and stricter restrictions (tier 3+) can help reduce community transmission levels.
+
+The text suggests that starting the Christmas period with a low community transmission level is advisable since high prevalence leads to outbreaks in hospitals, care homes, prisons, and communal living settings like multitudes houses. A new Reasonable Worst Case scenario will be published soon, detailing different policy options' potential impacts on Covid-19 during the pre and post-Christmas periods. Policy scenarios may represent either a Scottish level 2 or 3, or England tier 2 or 3 period before Christmas, focusing on transmission levels and social mixing.
+
+The analysis indicates that implementing tier 2 or tier 3 interventions could reduce deaths, NHS occupancy, and ICU bed usage significantly during the winter period. Maintaining lower levels of social mixing would further decrease Covid-19-related deaths from 1 December to 28 February. The modelled effects of six pre-Christmas policy scenarios indicate that additional Christmas mixing could result in a further 10% transmission increase, as shown in the included figures. The model estimates do not account for non-pharmaceutical interventions after Christmas or Covid-19 deaths in the springtime.
+
+
+ The text presents the results of a modeling study on the potential impact of COVID-19 transmission during the Christmas period in Wales. Four different scenarios were simulated, considering various levels of contact scaling (a measurement strategy) and background Rt values (Rt is the effective reproduction number).
+
+In the "No intervention" scenario with a background Rt of 1.3 (as of December 2, 2020), the estimated cumulative number of COVID-19 patients requiring hospital beds, ICU beds, and deaths would be 8,570, 1,030, and 2,520, respectively.
+
+In a Tier 2 contact scaling scenario with the same background Rt (1.3), the cumulative patient count for hospital beds, ICU beds, and deaths is estimated to be fewer at 6,920, 830, and 2,030, respectively.
+
+In case of a Tier 3 contact scaling scenario with background Rt (1.3), the number of patients requiring hospital beds, ICU beds, and deaths would be even fewer at 4,860, 11,410, and 580, respectively, with more people admitted to the ICU due to increased transmission during Christmas (an additional 10%).
+
+If the background Rt is higher, for example, at 1.4, then the cumulative patient count, hospitalization needs, and deaths in all models will be considerably higher overall.
+
+The text highlights that if no additional measures are taken from December to January (Scenario: Dec_Measures_Only), the highest number of deaths would occur in the "No intervention" scenario with a background Rt of 1.4, which is estimated to be 8,850 (vs. 2,520 under the baseline scenario with the same parameters).
+
+The text also includes figures that illustrate the estimated number of COVID-19 deaths per day and hospital bed occupancy between October and March 2021 in different pre-Christmas scenarios. These figures suggest a significant difference in mortality rates and required hospital resources across the various simulation scenarios. The source of the modeling is credited to Swansea University COVID-19 Modelling.
+

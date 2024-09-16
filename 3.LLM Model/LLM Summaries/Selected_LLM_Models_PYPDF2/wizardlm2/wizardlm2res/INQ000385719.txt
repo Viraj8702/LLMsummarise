@@ -1,0 +1,23 @@
+ The text is a pre-meeting summary intended to guide a discussion on COVID-19 strategy options for Wales, with the meeting scheduled for 2pm on October 11, 2020. The summary outlines key points for consideration ahead of the meeting.
+
+**Strategic Intent:**
+- The discussion will focus on the strategic approach for Wales: whether to aim for the elimination of COVID-19 or to manage the virus at an acceptable baseline level until effective vaccines or treatments are available.
+- If elimination is the goal, the discussion will include the potential collateral damage, such as economic impact, job losses, and interrupted education.
+- If the strategy involves managing a baseline endemicity, the meeting will determine what level of infection should be tolerated and how to protect vulnerable groups.
+
+**Current Projections:**
+- The summary projects a rise in case incidence, hospital admissions, ICU occupancy, and deaths in the coming weeks, with a potential 7-day rolling incidence of 200 per 100,000 by the end of October. It also notes outbreaks in healthcare settings, care homes, and university communities contributing to new case burdens.
+
+**Global Experience:**
+- Countries that have been successful in suppressing COVID-19 share three key factors: very stringent border controls, a highly functional test, trace, and isolate programme, and financial incentives for individuals to isolate effectively. The system capacity for Wales needs to be able to handle at least 2000 new cases per day and trace up to 10,000 contacts from those cases.
+- Clear messaging to the public regarding COVID-19 measures, their benefits, and their duration is crucial for community understanding and compliance.
+
+**Options and Implementation:**
+- The current approach of local and hyper-local lockdowns may soon become ineffective, prompting consideration for additional national interventions. The meeting will discuss what these interventions might be, when they should be enacted, and their duration.
+- Long-term strategies beyond the immediate response will also be addressed.
+
+**Meeting Details:**
+- The meeting is set to take place on Microsoft Teams from 2pm to 3pm Dublin, Edinburgh, Lisbon, London time on October 11, 2020. Huw, Giri, and Tracey are expected to join, with Huw and Giri tasked with preparing information based on the points outlined in Rob's email prior to the meeting.
+
+In summary, the meeting is set to explore and decide upon strategic options for managing COVID-19 in Wales, considering both the immediate impact of case projections and the global best practices, and planning for national interventions and long-term strategies.
+

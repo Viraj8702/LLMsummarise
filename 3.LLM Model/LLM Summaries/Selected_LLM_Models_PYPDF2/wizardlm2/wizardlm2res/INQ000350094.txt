@@ -1,0 +1,54 @@
+ The text is a series of emails exchanged between individuals, primarily involving Lee Waters, the Deputy Minister for Economy and Transport of the Welsh Government. The correspondence revolves around clarifications and updates regarding COVID-19 restrictions, particularly focusing on leisure and fitness facilities, supermarkets, and penalties for non-compliance with health regulations.
+
+Key points from the summary:
+
+1. Lee Waters is open to communication in both English and Welsh as a Private Secretary to the Deputy Minister for Economy and Transport.
+2. Leisure and fitness facilities were set to close in Tier 4, which includes gyms, swimming pools, spas, and fitness studios. However, supermarkets would remain open, considered essential, and expected to follow safety guidelines. There was a need for clarification on whether supermarkets would be restricted from selling non-essential items in Tier 4.
+3. James is asked by the Deputy Minister to provide an update on the decisions made regarding gyms in Tier 4 and the specific gradations of restrictions that apply to supermarkets across different tiers.
+4. An apology was issued for not communicating previous decisions on the matter to other ministers within the private offices.
+5. Decisions made include maintaining a £10,000 fixed penalty for unlicensed music events, provided that access to justice is clear for those who choose to reject the fine and argue their case in court.
+6. A new offence was created for businesses that fail to comply with the terms of a Premises Improvement Notice, with a starting fixed penalty notice (FPN) amount of £1000, which escalates on subsequent occasions of non-compliance. This legislation was enacted in regulations that came into force the previous Friday.
+
+The overall tone of the emails is formal and professional, with requests for updates and apologies for oversights, indicating a process of internal communication and decision-making within the Welsh Government's departments dealing with the economy and transport, as well as health and safety regulations during the COVID-19 pandemic.
+
+
+The text provides a summary of decisions and discussions regarding COVID-19 regulations and associated fines (Fixed Penalty Notices, FPNs) in Wales. Here are the key points:
+
+1. New regulations concerning international travel came into force last Friday, with adjustments to the fines for non-compliance. The Fine for failing to self-isolate after international travel was reduced from £1000 to an initial £500, which could increase on subsequent offences. This also applies to related offences such as obstructing an enforcement officer.
+
+2. The fine for organizing events with more than 15 people indoors or more than 30 people outdoors (house parties) was increased from an initial £200 to £500, with the possibility of it rising on subsequent offences. This change is set to be included in regulations that introduce a "traffic light" system next week.
+
+3. The fine for international travel operators who fail to provide information to travellers was also reduced, from a fixed £4000 to an initial £1000, with the potential for it to increase on subsequent offences. This adjustment is part of the same regulations that came into force on Saturday morning.
+
+4. The First Minister (FM) was not persuaded by arguments against creating a further offence for "reckless" breaches of self-isolation requirements, which would carry a higher FPN value similar to that for international travel violations. The FM suggested that police officers should have experience in handling such cases and indicated that this approach is working in England. He has asked for further advice on this after consulting with stakeholders.
+
+5. There will be a systematic review to clarify the roles and responsibilities of different enforcing authorities for each offence, ensuring no gaps in enforcement occur. This review aims to improve the consistency and effectiveness of law enforcement responses in the context of COVID-19 seriousness.
+
+6. Ministers agreed to have discussions with all enforcing authorities to ensure there is a shared understanding of which offences are considered most serious in relation to COVID-19, and that the response from law enforcement is appropriate to the level of seriousness.
+
+7. Officials have been discussing the final views of the Chief Gendarme (CG) with James Gerard, Deputy Director of Justice Transformation and Devolution in the Office of the First Minister, Welsh Government. The CG's conclusions indicate that for unlicenced music events, which typically end up in court, the existing £10 fixed penalty is both a suitable deterrent and aligns with access to justice concerns. The CG is content with all the proposals in the review related to business penalties.
+
+In summary, the Welsh Government has made adjustments to fines for various COVID-19 related offences, including international travel, house parties, and information provision by travel operators. There will be further reviews and discussions regarding the enforcement of these regulations and the appropriate responses to different levels of seriousness within the context of COVID-19.
+
+
+ The text outlines a review of Fixed Penalty Notices (FPNs) in response to non-compliance with COVID-19 regulations, particularly focusing on penalties for failure to self-isolate after international travel and for organizing large house parties. The initial advice, contrary to the final decision, was against retaining the current FPN regime, suggesting that the proposed £200 fine for failing to self-isolate was too low compared to the consistency of higher penalties in other parts of the UK. This led to a recommendation to align the fine with Scottish levels, setting it at £500, which would also apply to the offence of organizing indoor or outdoor events over certain sizes (house parties).
+
+The proposed change would standardize the penalty scales into two categories: one starting at £60 for most offences and one starting at £500 for more serious offences. This change was deemed necessary due to the persistence of house parties, as indicated by Gwent Police reporting 24 such events in one week alone, and the high transmission rates among younger individuals. The new penalty is believed to act as a stronger deterrent, especially given that pubs are closed in the evenings, potentially pushing more people towards hosting parties.
+
+The recommendations received support from the Minister for Housing and Local Government, who found them proportionate and addressing previous concerns. However, the Deputy Minister and Chief Whip noted that Alun Michael did not support the removal of the £10,000 FPN for unlicensed music events. The changes, once finalized with the First Minister's input, are planned to be included in regulations coming into force next Friday and covered in the Memorandum of Advice (MA) as necessary.
+
+The First Minister has reviewed the Memorandum of Advice and approved the draft Written Statement but requested further discussion before agreeing to the proposed amendments to FPNs. The First Minister asked for the view of the Chief Govenment Advisor (CG) and more information on the first proposal regarding unlicensed music events, including context about a decision not to impose additional penalties in England due to concerns about court-level penalties.
+
+
+ The text appears to be a communication from the Senior Private Secretary to the First Minister of Wales regarding several matters that require the First Minister's attention by Monday for a final decision. The key points are as follows:
+
+1. There is an ongoing discussion about whether the issue of court-level penalties for individuals who do not comply with public health restrictions in England will be resolved. The implication is that this resolution might influence the views of the police in England. The communication suggests that addressing this issue could potentially change the stance of the police, but it also indicates a preference for obtaining comments from Ministerial colleagues before proceeding.
+
+2. The remaining proposals are less contentious, but the sender expresses a desire for these to be considered with input from Ministerial colleagues as well.
+
+3. There is a specific request for confirmation that Ministers have reviewed the findings of a review on Fixed Penalty Notices (FPNs). Comments on this review are requested as soon as possible due to the urgency of the First Minister's decision-making process, which aims for a conclusion on Monday.
+
+4. The communication includes an attachment with advice for the First Minister on the first review of post-firebreak restrictions, which is related to COVID-19. A Statement from the Chief Medical Officer is expected to be sent shortly, and a Welsh translation of the draft Written Statement will be provided the following day.
+
+The document originates from the COVID-19 Project Team within the Welsh Government, specifically from an office with a telephone number that has been redacted for sensitivity or irrelevance. The sender's name is not explicitly stated in the text provided.
+

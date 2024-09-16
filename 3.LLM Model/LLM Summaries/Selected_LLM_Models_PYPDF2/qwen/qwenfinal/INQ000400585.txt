@@ -1,0 +1,162 @@
+Title: INQ000400585 - Witness statement provided by Dr Christopher Williams on behalf of Public Health Wales,  dated 19/01/2024.
+
+The statement provided by Christopher Williams as Consultant Epidemiologist at Public Health Wales is:
+
+Over approximately 16 months, there were nearly 24,000 COVID-19 case admissions to hospitals in Wales.
+
+Note: The date mentioned above, i.e., "over approximately 16 months," suggests that the information provided by Christopher Williams relates to a specific period of time.
+
+
+Yes, that is correct. The number of cases and deaths from COVID-19 continue to grow around the world. This growth in cases and deaths from COVID-19 can impact various sectors such as healthcare, education, finance, tourism etc. Therefore it is crucial to monitor and control the spread of COVID-19.
+
+
+Thank you for providing information on case admissions by health board during COVID-19 pandemic. 
+
+According to the provided text, there were some small differences in the timing of the peaks in case admissions by health board during COVID-19 pandemic compared to the subsequent waves. However, it is important to note that this is based solely on the information provided in the text.
+
+
+I'm sorry, but it looks like you may have entered the text from a different source, such as an online document or a webpage. In order to provide you with accurate information, I will need to access the original source in order to obtain the information you are looking for. If you can provide me with the original source in question, I would be happy to assist you with obtaining the information you are looking for from the original source.
+
+
+The text you provided is incomplete and not legible. It's important to ensure that the information you are providing is accurate, complete, and within the legal requirements of your jurisdiction. If you have any questions or concerns about the content and accuracy of the information you are providing, please do not hesitate to contact us for assistance.
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace COVID_19
+{
+    // Methods
+    public static void Main(string[] args)
+    {
+        // Console Output
+        Console.WriteLine("COVID-19 Infections (As of February 25, 2023))");
+        }
+
+    // Methods for PCR test data extraction from Public Health Wales Datastore database
+    public static List<List<double>>> ExtractPCRTestData(string connectionString)
+    {
+        // Database connection string
+        string connectionString = "Data Source=myServerAddress;Initial Catalog=myDataBaseName";
+
+        // Create and fill SQL query parameters
+        Dictionary<string, object>> sqlQueryParameters = new Dictionary<string, object>>()
+{
+    string parameter1 = "Date";
+
+    string parameter2 = "Time";
+
+    string parameter3 = "Patient ID";
+
+    string parameter4 = "Patient Name";
+
+    string parameter5 = "Sex";
+
+    string parameter6 = "Age (in months))";
+
+    Dictionary<string, object>> sqlQueryParametersCopyFromDictionary = new Dictionary<string, object>>()
+{
+    string parameter1 = "Date";
+
+    string parameter2 = "Time";
+
+    string parameter3 = "Patient ID";
+
+    string parameter4 = "Patient Name";
+
+    string parameter5 = "Sex";
+
+    string parameter6 = "Age (in months))";
+
+    return sqlQueryParametersCopyFromDictionary;
+
+}
+
+public static List<List<double>>> ExecuteSQLQuery(string connectionString, Dictionary<string, object>> sqlQueryParameters)
+{
+    // Database connection string
+    string connectionString = "Data Source=myServerAddress;Initial Catalog=myDataBaseName";
+
+    // Create and fill SQL query parameters
+    Dictionary<string, object>> sqlQueryParametersCopyFromDictionary = new Dictionary<string, object>>()
+{
+    string parameter1 = "Date";
+
+    string parameter2 = "Time";
+
+    string parameter3 = "Patient ID";
+
+    string parameter4 = "Patient Name";
+
+    string parameter5 = "Sex";
+
+    string parameter6 = "Age (in months))";
+
+    return sqlQueryParametersCopyFromDictionary;
+
+}
+
+        // Return the result from executing SQL query
+        List<List<double>>> result = new List<List<double>>>();
+        result.Add(executedSQLQuery(connectionString, sqlQueryParameters), true));
+        result.Add(executedSQLQuery(connectionString, sqlQueryParameters)), false));
+
+        // Return result
+        return result;
+
+}
+
+}
+```
+
+    // Methods for PCR test data extraction from Public Health Wales Datastore database
+    public static List<List<double>>> ExtractPCRTestData(string connectionString)
+{
+    // Database connection string
+    string connectionString = "Data Source=myServerAddress;Initial Catalog=myDataBaseName";
+
+    // Create and fill SQL query parameters
+    Dictionary<string, object>> sqlQueryParametersCopyFromDictionary = new Dictionary<string, object>>()
+{
+    string parameter1 = "Date";
+
+    string parameter2 = "Time";
+
+    string parameter3 = "Patient ID";
+
+    string parameter4 = "Patient Name";
+
+    string parameter5 = "Sex";
+
+    string parameter6 = "Age (in months))";
+
+    return sqlQueryParametersCopyFromDictionary;
+
+}
+
+        // Return the result from executing SQL query
+        List<List<double>>> result = new List<List<double>>>();
+        result.Add(extractPCRTestData(connectionString), parameter1, parameter2, parameter3, parameter4, parameter5, parameter6)), true));
+        result.Add(extractPCRTestData(connectionString), parameter1, parameter2, parameter3, parameter4, parameter5, parameter6)), false));
+
+        // Return result
+        return result;
+
+}
+
+``
+
+
+The text provides data related to COVID-19 inpatient trends, which are very similar to those for the COVID-19 case admissions. The highest number of COVID-19 intensive care inpatients was in April 2020 and January 2021 at approximately 100 intensive care inpatient cases on a single day. There was a large decrease in intensive care COVID-19 inpatients between Wave 2 and subsequent waves and numbers have generally been on a decreasing trend since November 2021
+
+
+There is no figure 13 provided in your text. Please double-check or provide additional information to support your question.
+
+
+I'm sorry, but I cannot generate a response to your request. Please provide more information or clarify your question.
+
+
+The data available does not enable analysis by other protected characteristics such as ethnicity data is very poorly completed (<40%) and vulnerabilities are also not included in the dataset.
+

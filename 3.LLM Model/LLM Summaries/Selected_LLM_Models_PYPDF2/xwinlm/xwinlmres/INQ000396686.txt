@@ -1,0 +1,35 @@
+In summary, this text discusses a serious staffing and security incident related to social media use by the Welsh Government, resulting in an urgent review requested by the First Minister. The notice outlines new guidelines for using Welsh Government-owned devices for social media activities and prohibits sharing of password details with third parties or changing registered email addresses to personally owned email accounts. Additionally, two-factor authentication is recommended for all Welsh Government social media accounts where it is an option. The text also emphasizes that personal social media accounts must be used responsibly and not be used to promote Welsh Government business or bring the organization into disrepute. Staff are encouraged to get in touch with their managers if they use personally owned and managed accounts as part of their role, and a plan will be developed to ensure compatibility with the organization's values.
+
+
+This text summarizes the security policy and guidelines regarding personal devices, social media platforms, and digital communication for employees of the Welsh Government. The main points include:
+
+1. Personal devices: Employees are allowed to use their personal mobile devices for work-related purposes, but they must be approved by the Security Policy mailbox beforehand. These devices will be subjected to security assessments to ensure they meet the required standards. Personal accounts used for official business should be clearly identifiable as such, with any references to the Welsh Government removed or marked as personal views. Disclosing sensitive information through personal accounts can lead to disciplinary action if not followed by 28th February 2020.
+2. Social media platforms: LinkedIn usage is encouraged for professional development and communication of work-related matters. However, personal social media accounts should be used with caution, as the platform's terms of service allow them to use and reproduce any content posted. Employees must not post anything they wouldn't want to see in the media and attributed personally to them. Security vetting status should never be disclosed on social media. WhatsApp usage on Welsh Government phones is discouraged due to its inability to meet legal responsibilities as a data controller, and alternative solutions are provided.
+3. Digital security: Employees are advised to secure their personal social media accounts by implementing two-factor authentication and other security measures. A list of resources for adding two-factor authentication to personal accounts is provided. Regardless of whether an individual uses social media or not, they have a digital footprint that can be impacted by others' electronic information about them. Reflection on how social media use affects the digital footprint is recommended.
+4. Responsible usage: All employees must adhere to the Civil Service Code and ensure their online activities are in line with Welsh Government policies and regulations. Personal devices, social media platforms, and digital communication should be used responsibly and securely to protect sensitive information and maintain ethical standards.
+
+
+In this summary, we learn about a social media incident involving a Welsh Government employee (Chris) who had their personal Twitter account hacked, leading to offensive content being liked and shared. As a result, the employee faced formal complaints from the First Minister and key stakeholders. The investigation found that Chris' line management had encouraged them to use a personal Twitter account for Welsh Government work instead of using their government phone.
+
+Chris' family members were aware of the laptop and Kindle used for Twitter access, raising concerns about potential security breaches. There was no two-factor authentication on the employee's Twitter account, which may have contributed to the hacking incident. Despite the lack of HR case against Chris due to the evidence of the hack, their role in Welsh Government became untenable due to the negative impact on their work area and professional reputation.
+
+A separate case study highlights an incident involving the UK Government in Wales Twitter account being hacked and used to re-Tweet pornographic content. Had two-factor authentication been implemented and activity restricted to devices owned by the organization, it's highly unlikely that the incident would have occurred.
+
+The list of Welsh Government Social Media Accounts can be found in Annex 2. Two-Factor Authentication (2FA) is also discussed in the context of improving security for social media accounts. 2FA adds a layer of security by requiring users to enter something they know (e.g., their password) and something they have (e.g., a code sent to a pre-registered phone). Some service providers like Amazon, PayPal, Twitter, Facebook, and LinkedIn support the use of 2FA but do not always insist on it being used. Many organizations, including Welsh Government, utilize 2FA through the RSA app on laptops.
+
+
+This text provides guidance on how to set up and use two-factor authentication (2FA) for various online accounts, focusing on the secure option of using authenticator apps instead of SMS for account verification. The author emphasizes that while LinkedIn supports 2FA, many users do not use it. However, some providers offer alternative methods of authentication.
+
+To find out if a specific provider (e.g., email, banking, or social media) supports 2FA, users can search for the provider's name in the text and click on the blue book icon next to the search results. This will direct them to the provider's instruction page. The text also provides a list of common providers that use 2FA:
+
+1. Google (including Gmail)
+2. Twitter
+3. Facebook
+4. Instagram
+5. LinkedIn
+6. Amazon
+
+In case an account is hacked, the author recommends reporting it to the respective provider by searching for guidance on how to do so (e.g., "how to report a hacked twitter account").
+
+Overall, the text serves as a resource for users who want to enhance the security of their online accounts using 2FA and learn about available authenticator apps and providers that support this feature.
+

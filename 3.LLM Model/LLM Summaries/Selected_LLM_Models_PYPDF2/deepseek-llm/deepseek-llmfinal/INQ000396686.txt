@@ -1,0 +1,28 @@
+Title: INQ000396686 - Notice from Senior Information Risk Officer, Welsh Government titled Social Media, dated 28/01/2020.
+
+The text is a notice from the Senior Information Risk Owner (SIRO) at the Welsh Government regarding changes to security procedures for social media use within the organization. The notice was issued in response to a serious staffing and security incident that occurred through social media use. Following this incident, the First Minister requested an urgent review of Welsh Government's social media use. 
+
+As a result of this investigation, several new policies have been implemented with immediate effect:
+
+1. All usage of Welsh Government social media accounts must only occur on devices owned by the Welsh Government. Usage from personally-owned devices will cease.
+2. Members of staff are prohibited from changing the registered email address associated with a Welsh Government social media account to a personally-owned one.
+3. Any shared password details with third parties must be changed immediately, and third parties should not have access to passwords for Welsh Government social media accounts.
+4. Two-factor authentication must be enabled for all Welsh Government social media accounts where possible.
+
+The notice also emphasizes the importance of ensuring that personal social media activity does not bring the Welsh Government in disrepute and reminds staff of the Civil Service Code and security policies related to commenting on politically sensitive matters in a private capacity. The use of personally-owned social media accounts for promoting the work of the Welsh Government has been brought under scrutiny, with line managers being reminded that they should not pressure or persuade staff into using personal accounts to promote Welsh Government business. Finally, the notice encourages members of staff to get in touch if they are using personally owned and managed accounts as part of their role or to communicate their work by a certain date, so that the organization can understand how these accounts are being used and provide guidance accordingly.
+
+
+The provided text outlines the Welsh Government's guidelines and recommendations on using personal accounts for official purposes, social media security measures, and managing one's digital footprint. It emphasizes the importance of understanding how personal accounts are being used and provides advice to staff members regarding their responsibilities when it comes to official business and data protection. Staff members have until February 28th, 2020, to provide details about their personal social media accounts that may be considered official Welsh Government accounts, and must remove any content on these accounts if deemed inappropriate. The text also discusses the use of WhatsApp for official purposes, as it poses legal responsibilities for data controllers; therefore, its usage is not allowed. Finally, it advises users to secure their personal social media accounts with two-factor authentication to minimize risks related to account compromises and emphasizes that every individual has a digital footprint regardless of their use of social media platforms.
+
+
+The text describes a media incident where a member of staff (Chris) at the Welsh Government was criticized for liking offensive material on their personal Twitter account while promoting their work with the Welsh Government. The material wasn't illegal, but it was deemed incompatible with their role in the government. Key stakeholders and media organizations demanded responses from the Welsh Government regarding Chris's activity.
+
+An investigation ensued into whether this incident was deliberate or accidental, if a family member had done it on purpose, or if the account had been hacked. Evidence of hacking emerged during the investigation, which absolved Chris of blame. Without proof that Chris wasn't at fault, they would have faced formal disciplinary action and potentially lost their job.
+
+The text goes on to discuss how this incident could have been prevented by implementing two-factor authentication and restricting account activities only to approved devices owned by the organization. The UK Government in Wales Twitter account had reportedly been hacked earlier without these security measures, which likely led to its own hacking incident involving pornographic content re-tweets.
+
+The text concludes with an annex listing various social media accounts managed by the Welsh Government, an annex on two-factor authentication (2FA) as a layer of added security for user accounts, and mentions that 2FA is used in some services providers but not all.
+
+
+The text discusses the importance of two-factor authentication (2FA) for online accounts and provides guidance on how to set it up. While some websites, such as LinkedIn and Twitter, may not insist on using 2FA, others like email and financial services do. The author recommends using an authenticator app, which is more secure than text message (SMS)-based authentication. Free apps from Microsoft and Google can be used with many providers. To find out if a provider supports 2FA, search their name along with terms like "supports 2FA," visit the provider's instruction page by clicking on the blue book icon in search results, or check lists of common services that support it. If an account is hacked, promptly report it to the provider and follow their guidance for resolving the issue, such as searching online for instructions specific to your type of account.
+

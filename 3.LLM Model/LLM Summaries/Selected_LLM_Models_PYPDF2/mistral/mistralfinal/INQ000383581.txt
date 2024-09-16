@@ -1,0 +1,28 @@
+Title: INQ000383581 - Minutes of Precautionary SAGE Meeting on Wuhan Coronavirus (WN-CoV) regarding situation update, current understanding of WN-CoV, NERVTAG conclusions, transport-related issues, UK health readiness and planning and HMG response, dated 23/01/2020.
+
+ The text provides an update on a Precautionary SAGE meeting regarding the Wuhan Coronavirus (WN-CoV), held on January 23, 2020.
+
+Key points from the update include:
+1. Currently declared cases, deaths, and geographic spread were updated by DHSC. Comparisons are difficult due to China's recent revision of case definitions.
+2. Diagnostic testing capability in Wuhan is overwhelmed, suggesting many unreported cases.
+3. There is evidence of person-to-person transmission, but it's unknown if it's sustainable.
+4. The incubation period may be between 5 to 10 days, with 14 days being a sensible outer limit.
+5. The reproductive number (R0) of WN-CoV is currently above 1.
+6. The mortality rate for WN-CoV is lower than SARS, but it's too early to quantify reliably.
+7. There appears to be very little genetic diversity in WN-CoV based on available sequences so far.
+8. Individuals returning from Wuhan are no longer at risk if they show no symptoms after 14 days.
+
+NERVTAG, a subgroup of SAGE, has made the following recommendations:
+1. No port of entry screening, use of questionnaires, confirmation of exit screening, or requests for declarations at Wuhan.
+2. Emphasis on public health information efforts via leaflets, posters, and broadcast messengers to passengers.
+3. SAGE supports NERVTAG's position but may review it if a simple, specific, and rapid test is available.
+
+The European Centre for Disease Prevention and Control (ECDC) advises use of MERS guidelines for the current outbreak, acknowledging the limitations of its evidence base. The UK currently has good centralized diagnostic capacity for WN-CoV and is close to deploying a specific scalable test in weeks.
+
+
+ This text discusses the UK government's actions and strategies concerning the Wuhan coronavirus (WN-CoV) outbreak as of a specific point in time. The document outlines that healthcare workers and potentially infected individuals are being tested, with current unknown sensitivity of the test. The testing criteria for these individuals are to have symptoms or signs of WN-CoV, a history of travelling to or living in Wuhan within the 14 days prior to symptom onset, including those who accessed Wuhan healthcare facilities.
+
+Strategies for isolating potentially infected individuals and following up their contacts have also been developed. The Chief Medical Officer (CMO) shares the latest iteration of the PHE isolation plan with behavioral scientists to receive feedback on its proportionality and advice on uncertainty communication. NHS primary care facilities are also being prepared for an increase in cases and potential cases, with the CMO, DHSC, and FCO working together to maintain consistent travel advisories to or from Wuhan.
+
+In the event of WN-CoV spreading among people outside China, confirmed severe cases in the UK, or possibly needing SAGE to reconvene, there are certain actions that HMG might undertake. At the time this document was written, there had been limited infection of healthcare workers and some human-to-human transmission, but no localized geographical spread unrelated to Wuhan. It is also mentioned that attending the meeting were multiple SAGE participants and observers, namely; Patrick Vallance, Chris Whitty, Charlotte Watts, Jonathan Van-Tam, Jeremy Farrar, Phil Blythe, Pasi Penttinen, David Lalloo, Maria Zambon, Tasha Grant, Kavitha Kishen, Stuart Wainwright, Samantha Harris, and others. The text concludes with a note about the secretariat but is incomplete.
+

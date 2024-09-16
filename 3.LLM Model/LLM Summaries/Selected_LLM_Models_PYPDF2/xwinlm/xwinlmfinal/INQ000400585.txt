@@ -1,0 +1,104 @@
+Title: INQ000400585 - Witness statement provided by Dr Christopher Williams on behalf of Public Health Wales,  dated 19/01/2024.
+
+In this corporate witness statement, Dr. Chris Williams, a Consultant Epidemiologist at Public Health Wales, provides data on COVID-19 cases admitted to hospital and intensive care from February 1, 2020, to June 26, 2022. The data is divided into two periods: before May 25, 2022 (when the de-duplication period was 42 days), and after May 26, 2022 (when it increased to 90 days). The hospital admissions may not be directly related to the patients' SARS-CoV-2 positive tests.
+
+The statement includes the following information:
+
+1. A COVID-19 case is defined as a person with a positive SARS-CoV-2 PCR test taken in Wales.
+2. Hospital admissions are counted for at least one night within 28 days after a positive SARS-CoV-2 PCR test, or up to two days after admission if the day of admission is counted as day 1.
+3. Admissions within 28 days after a positive test are counted, regardless of whether the patient tested positive in the community or during a previous inpatient stay.
+4. An evaluation of COVID-19 admissions estimated that one out of every five SARS-CoV-2 positive hospital admissions had a diagnosis consistent with COVID-19.
+5. Data was extracted from the Public Health Wales Datastore database for PCR test data and the hospital patient administrative system (PAS) via ICNET for hospital admission data. Patient and test data have been linked using the patient's NHS number.
+6. Residential addresses used for assigning deprivation quintiles are extracted from a live system and may not be the address of the case at the time of their SARS-CoV-2 test.
+7. Health board resident populations are provided in the Appendix to support interpretation of counts by health board.
+8. The first recorded COVID-19 case in Wales was confirmed on February 27, 2020; thus, the data is presented up to June 26, 2022 (rather than June 28, 2022).
+9. Table 1 shows the number of confirmed COVID-19 cases admitted to hospital and intensive care by health board of admission from March 1, 2020, to June 26, 2022. The table includes the following health boards: Aneurin Bevan UHB, Bets! Cadwaladr UHB, Cardiff and Vale UHB, Cwm Taf Morgannwg UHB, Hywel Dda UHB, Powys Teaching Hospital (PTH) Board, Swansea Bay University Health Board, and Velindre NHS Trust.
+10. Over approximately 16 months, there were nearly 24,000 COVID-19 case admissions to hospitals in Wales. Cwm Taf Morgannwg UHB had the highest number of case admissions to its hospitals, comprising 21% of total cases admitted. Aneurin Bevan, Betsi Cadwaladr, and Cardiff and Vale University Health Boards (UHB) had similar numbers of admissions to their hospitals, comprising between 18 and 20% of total case admissions.
+
+
+Summary:
+The text provides information on the case admissions and intensive care unit (ICU) admissions of COVID-19 patients in Wales from March 2020 to June 2022. It highlights that Swansea Bay and Hywel Dda University Health Board (UHB) had lower numbers of cases admitted to hospitals, while Cwm Taf Morgannwg UHB had the highest number of cases admitted to its intensive care units. The text also discusses how the size of the population in a health board's catchment area, the incidence of COVID-19 within that population, and bed capacity of hospitals and ICUs can impact these admissions.
+
+Figure 1 illustrates the weekly number of confirmed COVID-19 cases admitted to hospital from March 2020 to June 2022, while Figure 2 shows the weekly number of confirmed COVID-19 cases admitted to intensive care during the same period. The text mentions that case admissions have varied considerably over the 16-month period, with an initial peak at the end of March 2020, a second peak in late December 2020/early January 2021, and smaller peaks from Autumn 2021 onwards.
+
+The text also discusses that various factors can influence case admissions, such as changes in the underlying incidence of COVID-19 over time, the availability of testing, the severity of disease associated with different variants, the roll-out of the vaccination campaign, and improvements in community management of the disease. Additionally, the notch in the chart in autumn 2020 was likely caused by the "fire-break" intervention from 23 October 2020 to 9 November 2020 (National coronavirus firebreak to be introduced in Wales on Friday ).
+
+The text highlights that peaks in ICU admissions correspond to the peaks in case hospital admissions, indicating that these trends are closely related. The size of the population, incidence of COVID-19, and bed capacity all play a role in determining case admissions and ICU admissions within health boards.
+
+
+The text provides a summary of the weekly number of confirmed COVID-19 cases admitted to hospital by Health Board from March 2020 to June 2022, as well as the weekly number of confirmed COVID-19 cases admitted to intensive care by Health Board during the same period. The height of the peaks in intensive care admissions reduced with every wave, reflecting improved patient treatments and management and widespread vaccine rollout, resulting in better patient outcomes and reduced requirement for intensive care support.
+
+Broadly, all health boards experienced peaks at the same time. Case admissions to Hywel Dda UHB were consistently lower over all waves. Cwm Taf Morgannwg UHB had the highest number of case admissions to its hospitals in wave 2 and early in Autumn 2021, but subsequently higher case admissions were observed in Betsi Cadwaladr UHB. There were larger differences in health board case admissions in wave 2 compared to the subsequent waves.
+
+Small numbers of weekly intensive care admissions make data difficult to interpret, particularly after the first two waves. Betsi Cadwaladr and particularly Hywel Dda UHBs had comparatively fewer admissions to their intensive care units in the first wave than the other major health boards.
+
+
+Summary of the text:
+The text provides a comprehensive analysis of COVID-19 cases admitted to hospital and intensive care in Wales from September 2021 to June 2022. It discusses the impact of age group on case admissions, with the 60-79 age group being most affected. The report also highlights that the two younger age groups (0-19 and 20-39) experienced a consistent increase in cases over time, while the older age groups generally showed a decrease.
+
+The analysis is split into hospital admissions and intensive care admissions. For hospital admissions, the highest number of cases were among those aged 60-79 years (over a third), followed by the 40-59 age group (almost one-fourth). The fewest hospital admissions were in the 0-19 age group, accounting for only 6% of total cases. In intensive care admissions, the 60-79 age group had the highest number of cases at 45%, followed by the 40-59 age group (17%). The fewest intensive care admissions were in the 80+ age group, making up only 3%.
+
+The distribution of hospital and intensive care admissions by age group is influenced by factors such as the age distribution of the underlying population and the age-specific severity of disease. Older individuals may not necessarily have more severe disease but could be less likely to benefit from intensive care support due to other complexities associated with increasing age, co-morbidities, and related factors.
+
+Over time, cases admitted in the two younger age groups (0-19 and 20-39) generally increased, while older age groups experienced a decrease after wave 2. The report suggests that this pattern might be due to a combination of changes in immunity through vaccination and infection, changes in the virus and its epidemiology, along with other factors related to the age distribution of the underlying population.
+
+
+The text provided is a summary of the data and analysis conducted for the Imperial College COVID-19 Response Team, focusing on case admissions to hospital and intensive care in England. The main points include:
+
+1. There was a overall decline in the number of cases admitted to both hospital and intensive care following the first wave (from March 2020 to May 2020).
+2. The numbers of case admissions were highest among those aged 40-59 and 60-79, with substantial reductions in these age groups after the second wave.
+3. More cases were admitted to hospital overall, with a majority (51%) being female and 63% of those admitted to intensive care being male. However, there was an increase in the number of female cases admitted to both hospital and intensive care from early 2022 onwards.
+4. The data provided in tables and figures represents the first two waves (March 2020 to May 2020 and September 2020 to November 2021) and the week ending data for both hospital admissions and intensive care admissions by sex.
+
+
+Summary:
+The text discusses the differences in the number of male and female COVID-19 cases admitted to intensive care in Wales, with males generally having a higher likelihood of being admitted compared to females. The reduction in cases admitted to intensive care observed in the Autumn 2021 wave was primarily due to a decrease in male cases.
+
+The Welsh Index of Multiple Deprivation (WIMD) serves as a measure of relative deprivation for small areas in Wales, and case admissions to hospitals and intensive care increased with higher levels of deprivation. However, the percentage difference between the highest and lowest quintile was larger in intensive care admission. Within each deprivation quintile, a similar percentage of cases admitted to hospital were also admitted to intensive care, though the highest percentage was observed in the most deprived quintile, while the lowest was in the least deprived quintile.
+
+COVID-19 hospital inpatients and intensive care inpatients are defined based on SARS-CoV-2 PCR test results and hospital stays. Case counts refer to a "point prevalence" survey, capturing patients in beds on the Sunday but not including those admitted or discharged between those points.
+
+The data used for the analysis was extracted from the Public Health Wales Datastore database.
+
+
+The text summarizes the trends of COVID-19 admissions, including both inpatients and intensive care patients, in hospitals in Wales from March 2020 to June 26, 2022. It provides a graphical representation of the data for better understanding.
+
+Key observations include:
+
+1. The highest number of COVID-19 inpatients was in Winter 2020/2021, with approximately 2,000 cases. This can likely be attributed to increased incidence in the community as a result of the Omicron variant and increased transmissibility in hospital settings.
+2. The peak in intensive care COVID-19 inpatients was in April 2020 and January 2021, with approximately 100 cases on a single day. There was a large decrease between Wave 2 and subsequent waves, and the numbers have generally been on a decreasing trend since November 2021.
+3. The data is presented from 1 March 2020 to 26 June 2022, with continuous data stored as aggregate weekly counts. Due to the request date being 28 June 2022, the provided data represents the nearest Sunday (26 June 2022) instead of the actual date.
+4. The trends are similar for both inpatients and intensive care patients, with a noticeable increase in cases during Wave 3 (Early Spring 2021), Wave 4 (Summer 2021), and Wave 5 (Winter 2021/22). These waves correspond to the emergence of the Delta and Omicron variants, respectively.
+5. The data suggests that hospitalizations and ICU admissions have generally been on a decreasing trend since November 2021, possibly due to increased vaccination rates, improved treatment options, and community-wide immunity resulting from prior waves and ongoing vaccination campaigns.
+
+
+Here is a summary of the text you provided:
+
+Starting in November 2021, intensive care COVID-19 inpatients began to decrease in most health boards. There were some differences between health boards in terms of the timing and severity of peaks during the first wave, with Cwm Taf Morgannwg UHB experiencing a higher number of patients in Winter 2020/21. In later waves, intensive care COVID-19 inpatients were generally similar across larger health boards, with Betsi Cadwaladr UHB experiencing slightly higher numbers in January and April 2022.
+
+Counts of overall COVID-19 hospital inpatients by Health Board showed a general decreasing trend since November 2021. Cwm Taf Morgannwg UHB reported more than 500 patients in November 2020, while Hywel Dda UHB had approximately double the number at the same time. Betsi Cadwaladr UHB experienced considerably higher numbers of COVID-19 inpatients in January and April 2022 compared to other health boards.
+
+The highest number of COVID-19 intensive care hospital inpatients by Health Board was in Cardiff and Vale, Aneurin Bevan, Swansea Bay, and Betsi Cadwaladr UHBs during the first wave, with approximately 25 patients each in a single week. There were similar peaks in counts in Cwm Taf Morgannwg, Cardiff and Vale, and Betsi Cadwaladr UHBs in Winter 2020/21. Intensive care inpatient cases were much lower in all health boards during the peaks following wave 2.
+
+Please note that this summary is an interpretation of the text and not a direct quotation.
+
+
+I am unable to provide a summary of the text you have provided due to the extensive use of intentionally blank spaces and inconsistencies in formatting, making it difficult to extract relevant information. However, I can give you an overview based on what I can understand from the text:
+
+This document presents data on COVID-19 hospital inpatients by age group, sex, and day of the week in Wales from August 2020 to June 2022. It is organized into 13 figures, each illustrating a different aspect of the data. The main points discussed include:
+
+1. Trends in COVID-19 hospital inpatients by age group: Hospitalizations were highest in the 60-79 age group and lowest in children (<18 years) and young adults (18-24 years). Older age groups experienced peaks in inpatient cases over time, while younger age groups saw a slight increase.
+2. Trends in COVID-19 hospital inpatients by sex: The number of male patients consistently exceeded female patients throughout the study period. This pattern was consistent across all age groups and waves.
+3. Age-specific rates of admission to critical care units: Inpatients in intensive care were predominantly from the 60-79 and 40-59 age groups, with very few cases from the youngest and oldest age groups.
+
+Please note that this summary is based on what I could understand from the text, which was limited due to the formatting and intentionally blank spaces used in the original document. If you require a more detailed summary or would like me to provide specific data points from the figures, please let me know.
+
+
+The summary of the text provided is as follows:
+
+The analysis focuses on COVID-19 hospital inpatients by sex and over time, with a particular emphasis on understanding the trends for males and females. The data spans from week ending August 3rd, 2020 to June 26th, 2022. It is evident that during the first two waves, there were more male COVID-19 hospital inpatients than female. However, this difference decreased significantly as the pandemic progressed. The percentage of females among COVID-19 hospital inpatients increased over time, while the percentage of males remained relatively stable.
+
+The text also mentions that data is not available to analyze trends by ethnicity or vulnerabilities, as the dataset does not include this information. A possible breakdown by index of multiple deprivation may require a large amount of new analysis due to the data being a series of point prevalence data on current inpatients each Sunday.
+
+Lastly, the text states that Powys Teaching Health Board does not have acute or general hospitals in their region, and residents may have been admitted to hospitals in England. The analysis excludes admissions of Welsh residents to hospitals outside of Wales.
+

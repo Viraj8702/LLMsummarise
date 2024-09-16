@@ -1,0 +1,44 @@
+This document summarizes a January 2020 meeting of SAGE (Scientific Advisory Group for Emergencies) and NERVTAG (New and Emerging Respiratory Virus Threats Advisory Group) regarding the novel coronavirus (WN-CoV, later known as COVID-19).
+
+**Key Points:**
+
+* **Limited Data:** There is significant uncertainty surrounding the true number of cases and deaths due to China's revised case definitions and limited testing capacity in Wuhan.
+* **Person-to-person Transmission:** Evidence suggests person-to-person transmission, but the sustainability and incubation period are unclear. A conservative estimate for the incubation period was 14 days.
+* **Reproduction Number:** The reproductive number is likely above 1, indicating potential for rapid spread.
+* **Mortality Rate:** While estimated lower than SARS, it's too early to reliably quantify the mortality rate.
+
+**Recommendations from NERVTAG and SAGE:**
+
+* **No Port Screening:** Despite limited understanding of the outbreak epidemiology, they advised against port screening due to its low effectiveness and potential for false positives/negatives. 
+* **Public Health Information:** They supported public health information efforts through various channels to educate passengers about WN-CoV.
+* **Testing Development:** The UK is developing a specific and scalable test for WN-CoV within weeks.
+
+**Other Points:**
+
+* Wuhan imposed restrictions on transport, including outbound flights and trains.
+* ECDC suggested using their MERS guidelines as a guide, acknowledging the limitations due to data scarcity.
+
+
+
+This document reflects an early stage understanding of the virus. Subsequent developments would provide more clarity on its transmissibility, severity, and effective prevention and control measures.
+
+
+This document summarizes a meeting of the Scientific Advisory Group for Emergencies (SAGE) regarding the then-novel coronavirus (Wuhan virus, later named COVID-19).
+
+**Key takeaways:**
+
+* **Limited Testing and Information:** Diagnostic tests for the virus were newly developed and their sensitivity was unclear. There were conflicting reports on the effectiveness of testing methods.
+* **Strict Testing Criteria:** The UK's Department of Health and Social Care (DHSC) and Public Health England (PHE) had established strict criteria for testing individuals suspected of infection, focusing primarily on those with symptoms who had recently traveled to Wuhan or had contact with affected healthcare facilities. 
+* **Preparedness Measures:** Plans were underway for isolating potentially infected individuals and tracing contacts. SAGE emphasized the need to revise testing criteria as the situation evolved and to consider how primary care facilities might respond to an influx of cases.
+* **Communication and Travel Advice:**  The UK government was coordinating with the Foreign and Commonwealth Office (FCO) to ensure consistent messaging about travel advice to and from Wuhan. 
+* **Potential Escalation Triggers:** The meeting discussed triggers for escalating the UK's response, including sustained human-to-human transmission within the country, infection of healthcare workers, or cases outside of China with no clear link to Wuhan.
+
+**Actions:**
+
+* The Chief Medical Officer (CMO) was tasked with sharing the latest isolation plan with behavioral scientists for feedback on its effectiveness and communication strategies.
+* CMO/DHSC and PHE were asked to consider NHS primary care's readiness for an increase in cases. 
+* The CMO/DHSC and FCO were directed to work together for consistent travel advice messaging.
+
+
+This document highlights the UK government's early efforts to monitor and respond to the growing threat posed by the novel coronavirus, emphasizing a cautious approach based on available information and evolving scientific understanding.
+

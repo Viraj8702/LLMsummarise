@@ -1,0 +1,713 @@
+INQ000412042_0001 
+
+Daily deaths with Covid-19 on the death certificate 
+
+Wales 
+
+UK 
+
+Source: UKHSA 
+Covid dashboard, 
+as of 06/02/2024 
+
+0 
+
+— 
+
+1 Apr 2020 
+
+,u12020 
+
+1 Oct 2J20 
+
+1 Jan 2021 
+
+1 Apr 2021 
+
+1 Jul 2021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+1500 
+
+1000 
+
+500 
+
+0 
+
+1 Apr 2020 
+
+1 Ju12020 
+
+1 Oct 2020 
+
+1 Jan 2021 
+
+1 Apr 2021 
+
+1 Ju12021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+INQ000412042_0002 
+
+Excess weekly deaths, Wales 
+
+is 
+
+aQ7i 
+
+1000 
+
+800 
+
+600 
+
+400 
+
+200 
+
+Five-year average of all 
+
+♦~ 
+
+0 
+Jan  20  Mar 20  May 20 
+
+Jul 20  Sep 20  Nov 20 
+
+Jan 21  Mar 21  May 21 
+
+Jul 21  Sep 21  Nov 21 
+
+Jan 22  Mar 22 
+
+Deaths not involving covid 
+
+Deaths involving Covid 
+
+---Five-year average - average daily deaths 
+
+Deaths involving  Covid-19 
+Excess deaths 
+% excess 
+
+Wave I 
+(15103120201031/05/2020) 
+2,109 
+2,251 
+32% 
+
+Wave 2 
+(0111012020 to 2810212021) 
+4,429 
+3,187 
+21% 
+
+Source: ONS Monthly 
+mortality analysis, July 
+2023 
+
+INQ000412042_0003 
+
+Weekly Covid-19 patients in hospital 
+
+Wales 
+
+UK 
+
+1500 
+
+1000 
+
+500 
+
+0 
+
+1 Apr 2020 
+
+1 Jul 2020 
+
+1 Oct 2020 
+
+1 Jan 2021 
+
+1 Apr 2021 
+
+1 Jul2021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+40k 
+
+30k 
+
+20k 
+
+10k 
+
+Source: UKHSA 
+Covid dashboard 
+
+1 Jul2020 
+
+1 Oct 2020 
+
+1 Jan 2021 
+
+1 Apr 2021 
+
+1 Jul2021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2021 
+
+INQ000412042_0004 
+
+New cases of Covid-19 per day by specimen date 
+
+Wales 
+
+UK 
+
+Source: UKHSA 
+Covid dashboard 
+
+5k 
+
+0 
+
+250k 
+
+200k 
+
+150k 
+
+100k 
+
+50k 
+
+0 
+
+i Apr 2020 
+
+1 Jul 2020 
+
+1 Oct 2020 
+
+I Jan 2021 
+
+1 Apr 2021 
+
+1 Ju12021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+1 Apr 2020 
+
+1 Jul 2020 
+
+1 Oct 2020 
+
+1 Jan 2021 
+
+1 Apr 2021 
+
+1 Ju12021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+I 
+
+I 
+
+I 
+
+I 
+
+INQ000412042_0005 
+
+Estimated percentage of the population testing positive for Covid-19 
+
+10% 
+
+—England 
+
+8% 
+
+6% 
+
+"r° 
+
+2% 
+
+0% 
+May 2020 
+
+Source: ONS Covid 
+Infection Survey 
+
+Sep 2020 
+
+Feb 2021 
+
+July 2021 
+
+Nov  2021 
+
+Apr 2022 
+
+I NQ000412042_0006 
+
+-
+'
+r
+ 
+N  Age-specific death rates involving Covid-1 9 by five-year age group, 
+
+March 2020 to June 2022, Wales 
+
+2500 
+
+a 
+0 
+0  2000 
+0 
+a1 a 
+
+1500 
+
+ro
+a 
+(1 
+
+0  1000 
+
+0
+n) 
+W  500 
+m 
+
+0 
+
+—  —  —  — 
+
+-
+
+ae(A ' 0~' 
+
+O 
+
+~~   
+c" -°
+
+p 
+
+  © 
+
+p 
+
+` p  ©gyp 
+
+  0 
+
+o 10  NibVp 
+
+p 
+
+'  ~b10 
+
+'Q\ ©  6b\ p 
+
+-o  
+
+Source: I N Q000396876, 
+Table 2 
+
+'II.'
+
+I ~  ,O  $O`O
+
+~ 
+
+$D
+
+INQ000412042_0007 
+
+Excess deaths by place of occurrence - change compared to usual 
+levels, March 2020 to June 2022, Wales 
+
+30% 
+
+20% 
+
+0) 
+
+10% 
+
+E 
+0 
+
+-10% 
+
+-20% 
+
+-30% 
+
+Source: I N Q000396876, 
+Table 10 
+
+ob
+
+Home 
+
+Hospital 
+
+Hospice 
+
+Care home  Other communal 
+
+Elsewhere 
+
+establishment 
+
+INQ000412042_0008 
+
+j
+o
+%
+ 
+Weekly mortality rates compared to 2015-19 average 
+
+80 
+
+60 
+
+a) 
+0'  40 
+w C-
+
+20 
+
+0 
+
+-20 
+
+Feb 20  May 20  Aug 20 
+
+Nov 20  Feb 21  May 21  Aug 21  Nov 21  Feb 22 
+
+Source: ONS, age standardised mortality rates 
+
+INQ000412042_0009 
+
+Cumulative mortality for 2020-22 compared to 2015-19 
+
+—England 
+
+20 
+
+15 
+
+T 
+
+-10 
+
+-15 
+
+Feb 20 
+
+May 20  Aug 20  Nov 20  Feb 21  May 21  Aug 21  Nov 21  Feb 22 
+
+Source: ONS - age-standardised 
+mortality rates 
+
+INQ000412042_0010 
+
+Daily deaths with Covid-19 on the death certificate 
+
+Wales 
+
+60 
+
+40 
+
+20 
+
+0 
+
+-
+
+1 Apr 2020 
+
+1 Ju12020 
+
+1 Oct 2020 
+
+i jar. '~  i 
+
+Apr 2u2 i 
+
+1,u. zuz i 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+England  1200
+
+1400 
+
+tl
+
+1000 
+
+800 
+
+600 
+
+400 
+
+200 
+
+Source: UKHSA 
+Covid dashboard 
+
+1 Apr 2020 
+
+1 Ju12020 
+
+1 Oct 2020 
+
+021 
+
+1 Oct 2021 
+
+1 Jan 2022 
+
+1 Apr 2022 
+
+INQ000412042_0011 
+
+Estimated percentage of the population testing positive for Covid-19, 
+May 2020 to May 2022 
+
+—Wales  —England 
+
+95% credible 
+intprvnl 
+
+10% 
+
+8% 
+
+6% 
+
+4% 
+
+2% 
+
+0% 
+
+May 
+2020 
+
+Jul 
+Nov 
+Sep 
+2020  2020  2020 
+
+Source: ONS Covid 
+Infection Survey 
+
+Jan  Mar  May 
+Jan  Mar  May 
+Sep 
+2021  2021  2021  2021  2021  2021  2022  2022  2022 
+
+Nov 
+
+July 
+
+INQ000412042_0012 
+
+Estimated percentage of the population testing positive for Covid-19, 
+Aug 2020 to Feb 2021 
+
+—Wales  —Enaland 
+
+95% credible 
+interval 
+ti
+
+2.5% 
+
+2.0% 
+
+1.5% 
+
+1.0% 
+
+0.5% 
+
+0.0% 
+
+02/08/2020 
+
+M117L11~.~f► IN1  w"167'7Y~+Y_~i> MMA117PZIYZIIMWAIIIWINPZI 
+
+.01AIFaP•-11rZ+1<iU111FPRPA 
+
+Week ending 
+
+Source: ONS Covid 
+Infection Survey 
+
+I NQ000412042_0013 
+
+Data sources, accessed 06/02/2024 
+
+Measure 
+
+Page(s)  Source 
+
+Link 
+
+Daily deaths with Covid 
+on the death certificate 
+by date of death 
+
+Excess Deaths (by date 
+of death) 
+
+Covid in hospital 
+
+New cases 
+
+Infection survey 
+
+2 
+
+3 
+
+4 
+
+5 
+
+UKHSA covid dashboard 
+
+https://coronavirus.data.gov.uk/details/deaths?areaType=nation&areaName=Wales 
+
+ONS Monthly mortality analysis, July 2023 
+edition. Sheet 16b 
+
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/d 
+eaths/datasets/monthlymortalityanalysisenglandandwales 
+
+UKHSA covid dashboard 
+
+https://coronavirus.data.gov.uk/details/healthcare?areaType=nation&areaName=Wal 
+es 
+
+UKHSA covid dashboard 
+
+https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=Wales 
+
+6, 12, 
+13 
+
+ONS Covid-19 Infection Survey. 2023 edition 
+of dataset. 
+
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditi 
+onsanddiseases/datasets/coronaviruscovid l 9infectionsurveydata 
+
+Age Specific Death 
+Rates by Age Group 
+
+Excess Deaths by Place 
+
+Weekly mortality rates. 
+(Relative age- 
+standardised mortality 
+rates) 
+
+7 
+
+8 
+
+9 
+
+Cumulative mortality - 
+(Relative cumulative age 
+standardised mortality 
+rates) 
+
+10 
+
+IN0000396876, Table 2 
+
+IN0000396876, Table 10 
+
+N/A 
+
+N/A 
+
+ONS 'Comparison of all cause mortality 
+between European countries and regions'. 
+2023. Sheet 7. Chart shows 5-week moving 
+average. 
+
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/d 
+eaths/datasets/comparisonsofallcausemortalitybetweeneuropeancountriesandregion 
+s 
+
+ONS 'Comparison of all cause mortality 
+between European countries and regions'. 
+2023. Sheet 14. 
+
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/d 
+eaths/datasets/comparisonsofallcausemortalitybetweeneuropeancountriesandregion 
+s 
+
+Daily deaths with Covid 
+on the death certificate 
+by date of death 
+(England) 
+
+11 
+
+UKHSA covid dashboard 
+
+https://coronavirus.data.gov.uk/details/deaths?areaType=nation&areaName=Englan 
+d 
+
+INQ000412042_0014 
+
+

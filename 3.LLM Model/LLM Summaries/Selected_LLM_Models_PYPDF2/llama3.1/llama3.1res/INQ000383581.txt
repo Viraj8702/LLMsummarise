@@ -1,0 +1,30 @@
+Here is a summary of the text:
+
+**SAGE Meeting Update**
+
+The SAGE meeting on January 22, 2020 updated the situation regarding the Wuhan Coronavirus (WN-CoV). Key points include:
+
+* Cases and deaths are rising in China, with many more cases likely than reported
+* The incubation period is unclear, but transmission appears person-to-person
+* The reproductive number is believed to be above 1, indicating rapid spread
+* Mortality rate is currently lower than SARS, but too early to quantify
+* Travel restrictions and public health information efforts are recommended, but port screening is not advised due to limited understanding of epidemiology or lack of a specific, simple, and rapid test.
+
+**Key Points**
+
+* WHO has environmental sampling from Wuhan, which may provide more insight into the virus's origin
+* Authorities in Wuhan announced suspension of public transport on January 23
+* The UK has good centralized diagnostic capacity for WN-CoV and is near developing a scalable, specific test
+
+
+There is no text to summarize other than a document detailing discussions and actions related to the response of the UK government (DHSC) and Public Health England (PHE) to a potential or actual outbreak of a new coronavirus (WN-CoV). 
+
+Some key points from the text include:
+
+* The sensitivity of tests for the virus is unknown, and there are conflicting reports on its effectiveness.
+* Guidelines are being developed for healthcare workers to identify and test potentially infected individuals.
+* DHSC, PHE, and other agencies are preparing plans for isolating potentially infected individuals and following up contacts.
+* The UK government (DHCS) is considering plans for the NHS primary care facilities in case of a surge in cases.
+
+However, please note that this seems more like an agenda or minutes from a meeting rather than a full text to summarize.
+

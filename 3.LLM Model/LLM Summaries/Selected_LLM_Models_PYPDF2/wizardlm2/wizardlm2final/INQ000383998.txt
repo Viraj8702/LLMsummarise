@@ -1,0 +1,26 @@
+Title: INQ000383998 - Email chain between Dr Rob Orford (Chief Scientific Adviser for Health, Welsh Government), PS Minister of Health and Social Services and colleagues, regarding Welsh National COVID 19 Test Plan, dated 27/03/2020.
+
+ The text is a communication between individuals, likely within a government or health department context, regarding the progress and planning of the COVID-19 testing strategy in Wales. Here's a summary:
+
+- Rob has outlined the need for agility and regular updates as the plan proceeds. He emphasizes that the Minister has agreed to the recommendations but requires answers to several questions before the publication of the plan.
+
+- The Minister is particularly interested in how testing numbers are generated, their robustness, and the timeline for capital procurement and receipt of testing equipment and reagents. Specific milestones include:
+  - Capital procurement for four "Starlet" platforms and six "Nimbus" platforms has been ordered.
+  - Delivery of testing reagents for the current "Nimbus" platform at UHW by March 27, 2020.
+  - Various dates for the receipt of additional Starlet units and the go-live dates for the "Biofire" test, "4th Starlet," "Eplex" systems across Wales, with a focus on expanding testing capacity from 500 to 3000 tests per day by late April.
+
+- The Minister had previously mentioned an expectation of an extra 5000 tests, which was not met due to Roche's letdown. However, the Minister also noted that there would be an additional 1000 tests the following week and a progressive increase in testing capacity through early May, reaching up to 3000 more tests per day without reliance on Boots/Amazon.
+
+- The Minister is aware of potential collaborations with universities and other pharmaceutical offers that could further enhance capacity, which is being explored as an additional option.
+
+- The data linking for the testing plan is positive, and it's noted that Wales is in a better position than other UK nations. It's suggested that this should be highlighted in a press release and that lessons learned will be shared with other nations in the fight against COVID-19.
+
+- A decision report has been prepared, detailing the agreed-upon Welsh National COVID-19 Test Plan, which should be factually and technically accurate before publication. Officials are reminded to maintain a full and formal record of all advice related to their areas of responsibility.
+
+- The communication ends with instructions for the recipient to review the attached decision report, ensuring it is ready for publication and to be sent to the appropriate address (DecisionReports@gov.wales) once approved. A link to the document has been provided for easy access.
+
+
+ The text you've provided appears to be a set of instructions or steps for opening an attachment from within a system or application, specifically one that can be navigated and has a feature to open attachments with a double-click action. The sequence begins by instructing the user to "Open in Navigator," followed by a double-click on the attachment. After performing these actions, the attachment will open "In Your Browser." The text also includes placeholders for "Latest" and "Published," which seem to be prompts or fields where the most recent version of the document or the date it was published would be inserted. These details are typically used to ensure that users are working with the most up-to-date information.
+
+In summary, the instructions guide the user to navigate to the appropriate location (Open in Navigator), select and double-click on the attachment they wish to open, and then view it in their web browser. The text also suggests that there is a need to be aware of the latest version or publication date of the document being accessed.
+

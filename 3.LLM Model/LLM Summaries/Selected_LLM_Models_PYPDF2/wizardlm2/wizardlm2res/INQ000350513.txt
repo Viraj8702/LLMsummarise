@@ -1,0 +1,16 @@
+ The text appears to be an exchange of emails among high-level officials discussing strategies for managing the COVID-19 pandemic in the UK. Here's a summary of the key points and proposals:
+
+1. Frank has provided a summary of the current strategy against COVID-19, as outlined by CW. There is some disagreement with the "end-game" approach proposed by others, which is not aligned with the current SAGE (Scientific Advisory Group for Emergencies) twin peak model.
+
+2. Rob suggests an alternative approach that involves a strategy of "maximum short term suppression" coupled with aggressive and refined testing, isolation, and release strategies. He emphasizes the need for immediate action to contain the virus within households by eliminating societal mixing. This would involve the closure of all non-essential businesses and limiting individuals to one person for essential activities like food shopping or urgent business. Rob proposes that this intensive measure should be in place for a defined short period, with an end goal of reducing new hospital admissions from Wales to below 5 per day and establishing a detailed community testing and control program within 4-8 weeks if there is compliance.
+
+3. The public needs to be informed about what "going vertical" in hospitals means, as seen in countries like Italy, and understand the critical role they play in controlling the outbreak.
+
+4. Rob anticipates that this approach will require a hard and uncertain effort but suggests it's preferable to the alternatives of overwhelming the NHS or prolonging suppression measures for 18 months. He acknowledges that this strategy may need to be repeated in the future, ideally with a successful mass vaccination program.
+
+5. Chris is drafting a document outlining the strategic goals and tactical pillars of the approach to COVID-19 management, which aims to inform No10 (the British Prime Minister's office) thinking. He requests that the document remain within government circles until it has been fully cleared, as indicated by his "SofS [Senior Official Sponsoring the Agreement] is happy for me to share with you" remark.
+
+6. The email concludes with a standard disclaimer about the confidential nature of the communication and its intended recipients.
+
+In essence, the discussion revolves around finding a more effective and swift strategy to suppress the COVID-19 virus through immediate and intensive measures, with a focus on community testing and control, and preparing for future challenges, including potential vaccination programs. The officials are looking for a way to avoid the strain on healthcare systems seen in other countries and are considering a strategy that, while challenging, offers a clear path forward with measurable outcomes.
+

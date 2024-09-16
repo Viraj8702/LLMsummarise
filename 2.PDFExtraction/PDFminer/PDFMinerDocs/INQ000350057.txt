@@ -1,0 +1,1062 @@
+Technical Advisory Group 
+
+Statement regarding NPIs in 
+the pre-Christmas period 
+
+02 December 2020 
+
+(XL  0  Crown copyright 2020 
+
+INQ000350057_0001 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+Technical Advisory Group 
+
+Statement regarding NPIs in the pre-Christmas period 
+
+21 December 2020 
+
+The purpose of this paper is to set out the technical and scientific rationale for the introduction 
+
+of non-pharmaceutical interventions (NPIs) in Wales in the pre-Christmas period. 
+
+Take home messages 
+
+•  The virus spreads when an infected individual comes into contact with an 
+
+uninfected individual(s). The likelihood of a contact between an infected individual 
+
+and an uninfected individual resulting in a transmission is dependent upon the 
+
+nature of the contact. Some environments and behaviours are more likely to 
+
+enable the virus to transmit. 
+
+•  Social distancing and quarantining remains highly effective at reducing the risk of 
+
+infecting others, if observed correctly. Pre-isolating (e.g. not mixing outside of the 
+
+household) for one incubation period (10 days) would be an effective way of 
+
+lowering your risk of infecting others. Self-isolation remains of paramount 
+
+importance for anyone with COVID-1 9 symptoms. 
+
+•  The best way to protect older family members is not to expose them to potential 
+
+infection, no matter how well-intended the reason for contact. 
+
+•  Survey data suggests evidence of household-mixing with those outside of the 
+
+extended household. This is accompanied by a misunderstanding of the risks of 
+
+transmission associated with mixing.  Evidence suggests that increased mixing of 
+
+households and individuals in indoor settings poses a substantial risk of 
+
+transmission. Therefore, the fewer households and individuals mix, the lower the 
+
+risk of transmission, hospitalisation and deaths. 
+
+•  Policy modelling illustrates that keeping Rt' lower (e.g. by the reduction of social 
+
+mixing of people generally) would significantly reduce numbers of expected deaths 
+
+and pressure on the NHS. 
+
+•  Policy modelling suggests that introducing the equivalent of Tier 3 restrictions (e.g. 
+
+closure of hospitality and entertainment, reduction in mixing) prior to the relaxation 
+
+1  R, (Rat time t) is the current reproduction number, as opposed to Ro, the initial reproduction number of the virus. 
+
+2 
+
+I NQ000350057_0002 
+
+IV
+
+t
+
+P1T1[
+
+]1V
+
+1• 
+
+1 
+
+■ 
+
+i 
+
+i111  l 
+
+'~ 
+
+of  restrictions before Christmas will  reduce the number of  hospital and  ICU  beds 
+
+required for COVID-19 patients, and subsequent deaths. 
+
+HT 
+
+The most recent daily surveillance report (02 December 2020) shows a national  picture of 226 
+
+cases per 100,000  with  a  13.3%  positivity.  For over 60s the national  seven  day case rate is 
+
+176  cases  per 100,000  with  positivity  of  14.4%.  Blaenau  Gwent  and  Torfaen  are over  400 
+
+cases per 100,000 with a positivity rate of 17.7 and 19.1 % respectively, which is growing closer 
+
+to the pre-firebreak peak. 
+
+The ONS  infection  survey data  shows that  test  positivity appears to  have  levelled  off  in  the 
+
+most recent week (22 to 28 November 2020), after falling from a peak at the end of October2. 
+
+The firebreak  had  the  intended  impact  of  a  short  sharp early  intervention  to  push  back  the 
+3,4,6  The benefits of this period of  negative growth  have nearly 
+
+epidemic by three to four weeks
+
+been  lost,  with  case  numbers  and  hospital  admissions  nearly  reaching  levels  seen  at  the 
+
+beginning of  the firebreak.  Rates of  transmission  are again  increasing across 15 of  22  local 
+
+authorities.  Four  health  Boards areas (Aneurin  Bevan,  Cwm  Taf  Morgannwg  and  Swansea 
+
+Bay) in  the very high category (200+ cases per 100K); Hywel  Da,  Powys and Betsi Cadwaladr 
+
+would  be classed as high  (50+ cases per 100K). Whilst some areas, with  more  rural, smaller 
+
+populations,  are  lower  (Gwynedd,  Anglesey,  Conwy),  Wales as a whole  is  very  high  (200+ 
+
+cases per 100,000,  over 10%  positivity).  Increases  in  over 60s cases  per 100,000  reported 
+
+across all  health  boards,  some of  which  will  be  accounted  for  by care  home outbreaks and 
+
+also population  intergenerational mixing. 
+
+The Official SAGE estimate of  Rt,  which  is a composite of several  models puts the national  Rt
+
+in  confirmed  cases and  mobility since the firebreak which  suggests that  hospital  admissions 
+
+and deaths may increase in  the next 2-3 weeks depending on the age structure of cases. 
+
+Deaths  are  currently  as  high  as  May,  with  the  excess  death  rate  in  Wales  higher  than  in 
+
+England and Scotland over recent weeks, and tracking above our reasonable worst case. NHS 
+
+2https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcareiconditionsanddiseases/bulletinsicoronaviruscovid 
+19infectionsurveypilot/4december202O4number-of-people-in-wales-who-had-covid-19 
+
+https:llgov.wales/sites/default/files/publications/2020-10/technical-advisory-group-fire-breaks_2.pdf 
+
+4  https://gov.wales/sites/default/files/publications/2020-12/technical-advisory-group-effectiveness-of-non-pharmaceutical-
+interventions-i n-the-local-health-protection-zones-and-the-fi robreak-in-wales. pdf 
+e  https://gov.wales/sites/default/files/publications/2020-11/technical-advisory-cell-summary-of-advice-20-november-2020.pdf 
+
+3 
+
+I NQ000350057_0003 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+beds,  admissions and hospitalisations  during  the  coronavirus (COVID-19) pandemic  have 
+
+been considered separately and are presented here. 
+
+The modelled impact of non-pharmaceutical interventions on the growth of the epidemic in 
+
+Wales have been described previously by TAG here. A TAG analysis of the effectiveness of 
+
+the  local  health  protection  measures  and  the  Firebreak  in  Wales  can  be  found  here.  A 
+
+comparison of the effectiveness of autumn interventions in the four nations by SAGE can be 
+
+found  here.  Other  harms,  notably  socioeconomic  harms,  are  widely  acknowledged  to  be 
+
+associated  with  non-pharmaceutical interventions.  A separate TAG  paper  considers  these 
+
+harms alongside mitigation measures and can be found here. 
+
+Christmas and winter celebrations 
+
+Winter celebrations, like Christmas, will likely lead to increased intergenerational mixing and 
+
+opportunities for the virus to spread to new networks of contacts, from pre-Christmas social 
+
+mixing to extended household mixing at Christmas6. This is highly likely to provide increased 
+
+opportunities for transmission of the disease. Increases in infections in older adults is likely to 
+
+lead to higher deaths and hospitalisations after Christmas'. 
+
+Whilst there are new technologies that will enable more rapid testing, these are not a silver 
+
+bullet. Invariably new lateral flow devices will help reduce the lag in test to result and may 
+
+enable  greater  freedoms  and  flexibility  of  testing;  however,  they  may  lack  comparable 
+
+sensitivity to RT-PCR (Reverse transcription polymerase chain reaction), the primary front line 
+
+test for diagnosis of Covid-19 using a nasal swab from the nose or back of the throate'9. Social 
+
+distancing and quarantining remains highly effective at reducing the risk of infecting 
+
+others if observed correctly. 
+
+The  central  premise  of  non-pharmaceutical  interventions  (NPIs)  is  to  reduce  the  risk  of 
+
+transmission from infectious  people  to those  who are susceptible  to infection  by reducing 
+
+mixing; this in turn reduces the risk of spread and large outbreaks. As rates of infection in the 
+
+community rise before the Christmas period, it is likely that more people will need  to self-
+
+isolate  or  quarantine  over  Christmas.  Pre-isolating  (e.g.  not  mixing  outside  of  the 
+
+household) for one incubation  period (10  days) would  likely  be  an effective way of 
+
+ehftps://assets. publishing. service.gov. uk/government/uploads/system/uploads/attachment_dataffle/939073/50922_EMG_and_ 
+SPI-B  -_Mitigating_risks_of  SARS-CoV-2_transmission_associated  with  household  social  interactions.pdf 
+https://thopsc.co. uktnews-insights/entry/loaming-from-flu-outhrooks-and-covid-outbreaks-in-care-homes/ 
+  https://www.ecdo.europa.eu/entpublications-dataloptions-use-rapid-antigen-tests-covid-l9-eueea-and-uk 
+L'https://www.ox.ac.uk/sites  lestoxford/media_wysiwyg/UK%20evaluation_PHE%20Porton%2ODown%20%2OUniversity%20of 
+%200xford_final.pdf 
+
+4 
+
+1N0000350057_0004 
+
+e
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+lowering your risk of infecting others. If people become symptomatic during this period 
+
+they should not see others and apply for a RT-PCR swab test immediately10. If people can 
+
+avoid seeing others over the Christmas period, perhaps postponing celebrations until later 
+
+next year or meeting remotely, then this is strongly advised. 
+
+Pre-isolation may be a helpful consideration for families with children  before  visiting older 
+
+relatives.  Similarly,  in  occupations  where  there  is  a  higher  odds  ratio  of  infection  (e.g. 
+
+warehouse and factory workers, health and social care workers)", pre-isolation before mixing 
+
+with older adults may reduce the risk of transmission 12. The best way to protect older family 
+
+members is not to expose them to potential infection, no matter how well intended the 
+
+reason for contact. It is likely that once a vaccine has been widely distributed the current 
+
+restrictions will no longer be required. Until widespread  vaccination is undertaken, it will be 
+
+important to equip people with some sensible advice about how to visit family members as 
+
+safely as possible (e.g. reduced length of stay, good hand hygiene and ventilation). However, 
+
+evidence  suggests  that most transmission  occurs due to prolonged,  close interaction  with 
+
+familiar  people  in  a  home  environment,  and  that  pre-symptomatic  and  asymptomatic 
+
+transmission can occur13. 
+
+Recent  SAGE  papers  highlights  how  to  approach  Christmas  and  festivals  during  the 
+
+pandemic14,15
+
+Hospitality and Entertainment 
+
+SAGE has considered the impacts of the hospitality on the epidemic and the associated risks; 
+
+a summary can be found here. Work of the SAGE Environmental Modelling Group highlights 
+
+that transmission risk is a combination of environmental and behavioural factors: higher risk 
+
+contacts are those that are close, prolonged, indoors, face-to-face, in poorly ventilated and/or 
+
+crowded spaces, or involve "loud" activities16. These are all prevalent in the hospitality sector 
+
+(but not unique to it). The disinhibitory effects of alcohol on judgement, movement, memory 
+
+t0 https:Nwww.gov. 
+
+uk/govemment/uploads/system/uploads/attachment_data/file/938977/S0909_Sixty-
+
+ https://www.gov.uk/govornmonVpublicabons/emgspi-b-mitigating-risks-of-sars-cov-2-transmission-associated-with-
+
+SPI-B  - Mitigating_risks_of  SARS-CoV-2_transmission_associated  with  household  social  interactions.pdf 
+14 https://www.gov.uk/government/publications/spi-m-o-oovid-19-notes-on-the-festive-period-l9-november-2020 
+15
+household-social-interactions-26-november-2020 
+1ehttps: //assets.publishing.service.gov.uk/govemmeni/uploads/system/uploads/attachment_data/file/933225/50824_SARS-
+CoV-2_Transmission_routes_and_environments.pdf 
+
+INO000350057_0005 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+and  inhibitions  are  likely  to  exacerbate  difficulties  with  social  distancing  and  subsequent 
+
+contact tracing. 
+
+A review  of published  outbreak  clusters  conducted  in  April  2020  also  identified  numerous 
+
+clusters associated with bars and households, although few clusters were found in schools". 
+
+A report from  the  United  States  Centre  for Disease Control found  that  those  infected  with 
+
+SARS-CoV-2  without  known  close  contact  with  a  person  with  confirmed  COVID-19,  case-
+
+patients were 2.8 x more likely to report dining at a  restaurant (adjusted Odds Ratio; aOR = 
+
+2.8, 95% Confidence Interval; Cl = 1.9-4.3) or 3.9x more likely to report going to a bar/coffee 
+
+shop (aOR =  3.9, 95%  Cl  =  1.5-10.1) than were  control participants18.  Results  of the third 
+
+Public  Health  England  epidemiological  investigation  into  high-risk  exposure  settings  for 
+
+COVID-19 in  England using  data  collected  through  enhanced  contact tracing  and a  market 
+
+research panel showed that certain occupational groups are associated with increased odds 
+
+of  being  a  COVID-19  case,  including  working  in  warehouse  settings,  construction,  and 
+
+hospitality,  as  well  as  health  and  social  care19.  Additionally,  there  was  strong  statistical 
+
+evidence that engaging in entertainment activities was associated increased odds of disease. 
+
+Test, Trace and  Protect (TTP) teams  collect exposure data  from  cases  and  contacts which 
+
+relies  on  the  recall  of  those  being  interviewed  and  should  be  viewed  with  caution  in 
+
+establishing  cause  and  effect.  Contact  tracing  was  not  designed  as  a  research  tool  or 
+
+surveillance  system,  but  the  data  that  is  collected  does  provide  an  indicator  of  potential 
+
+exposures that can then be evaluated for evidence of clustering. In a  recent survey of local 
+
+authority (LA) cluster data undertaken between 21/09/20 and 20/10/20, a total of 176 clusters 
+
+associated with commercial workplaces were reported by 10 LA environmental health teams 
+
+in Wales. In the same TTP system, individual cases report exposure to pubs and restaurants 
+
+relatively infrequently (<10%  of reported location exposures). Wet pubs and clubs (i.e. those 
+
+venues predominantly serving alcohol) were the most common commercial setting associated 
+
+with infection and accounted for 41 (23%) clusters. Enforcement data can provide an indication 
+
+of  the  likelihood  of  infection  risk  associated  with  specific  commercial  settings.  Since  the 
+
+introduction of the Restrictions  Regulations on 9th August (up to 20th November) a  total of 
+
+295  Premises  Improvement  Notices  and  80  Premises  Closure  Notices  have  been  served, 
+
+hospitality is  consistently the most common setting for service of these notices —  179 (61 %) 
+
+improvement notices and 62 (78%) closure notices. Despite much effort from the industry to 
+
+provide COVID secure environments, it is not possible to uncouple the linking activities that 
+
+also  confer higher risks  of  transmission  (e.g.  transport  to  venue,  mixing  between  venues). 
+
+"  https:l/www.ncbi.nlm.nih.gov/pmc/articles/PMC73277241 
+1e https://www.gov.uk/government/publications/transmission-risk-in-the-hospitality-sector/transmission-risk-in-the-hospitality-
+sector 
+19  https://www.gov.uk/government/publications/sage-69-minutes-coronavirus-covid-19-response-19-november-2020 
+
+I NQ000350057_0006 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+Further interpretation will require more accurate and detailed  recording of TTP data going 
+
+forwards. 
+
+Schools and education 
+
+Cases and contacts identified  in school students  and teachers are increasing20. It is to be 
+
+expected  that  numbers  of  school  students  and  school  staff in  self-isolation  as  a  'bubble' 
+
+contact will continue to grow as cases in the community rise. 
+
+The available evidence indicates that schools being open is associated with higher rates of 
+
+infection in the population, although there is no clear evidence of a causative relationship; the 
+
+mechanism for any association may be complex (potentially including many factors such as 
+
+reopening  of  workplaces,  parents  returning  to  work,  shops  and  hospitality,  social  mixing 
+
+outside schools that links households and different networks together)21. It is also the case 
+
+that during the pandemic, closing schools has been one of the NPIs most often deployed at a 
+
+late stage i.e. when transmission was already at a high level. Movement data from the first 
+
+and second week of the autumn firebreak in Wales suggests that schools being open is likely 
+
+to lead to increased mobility22. 
+
+Ordinarily closing schools should be the last intervention to be considered, due to the balance 
+
+of risks of short term and longer term harm to children in terms of physical, mental health and 
+
+well-being  and  learning.  However,  agreement  for  the  formation  of  extended  Christmas 
+
+bubbles increases the risk of transmission within extended and intergenerational households 
+
+during this period. The decision to partially close schools in the second week of the autumn 
+
+firebreak took account of earlier SAGE advice on the modelled impacts23. In November, SAGE 
+
+endorsed  a  paper  which  stated  "As  the  prevalence  of infection  in  children  aged  12-16 
+
+increased between September and October, ONS analysis suggests that children aged 12-16 
+
+played a significantly higher role in introducing infection into households (medium confidence). 
+
+The difference is less marked for younger children (medium confidence)'rz4. A period of pre-
+
+isolation for families with children as a result of school closures could reduce the level of social 
+
+mixing ahead of 23-28 December if school attendance and wider social mixing associated with 
+
+schools being open was not replaced by other social mixing activities. 
+
+20 https://public.tableau.com/profile/public.health.wales.heafth.protection#!/vizhome/RapidCOVID-19virology-
+Public/Schoolssurveillance 
+2' https://gov.walestsites/default/files/publications/2020-111technicabadvisory-group-evidence-review-on-children-and-young-
+people-under-18-in-preschool-school-or-college-following-the-firebreak.pdf 
+22 https://gov.wales/sites/default/files/publications/2020-11/technical-advisory-cell-summary-of-advice-20-november-2020.pdf 
+23 https://gov.wales/technical-advisory-group-fire-breaks 
+L4 https://www.gov.uk/government/publicationsttfc-children-and-transmission-4-november-2020 
+
+IN0000350057_0007 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+Potential  options  for reducing  the  significant  educational  and  wider  socio-economic  harms 
+
+resulting  from  school  closures  have  been  set  out  elsewhere  in  advice  to  Ministers  and 
+
+considered previously, such as remote learning for some or all school pupils, opening a limited 
+
+number of  hub' schools for children of essential workers and vulnerable children, or shortening 
+
+school holiday periods over the summer to allow for more learning. However, the risk remains 
+
+of  these  mitigations  increasing  inequality  as  online  learning  is  less  accessible  to  lower 
+
+socioeconomic groups. The deliverability and effectiveness of any mitigating measures should 
+
+be considered in a careful risk/benefit approach. 
+
+For decisions on whether any school closures should take place beyond the Christmas period, 
+
+it will be important to consider further evidence as this becomes available, given the significant 
+
+wider harms caused by school closures. 
+
+If learning transitioned to a blended period for the final week of term, consideration would need 
+
+to  be  given  to  displacement  activities  that  could  see  more  mixing  (e.g.  through  leisure  or 
+
+shopping). If agreed, the week should be used for isolation and reducing social contacts, with 
+
+a clear  stay at home' message for all age groups. 
+
+Behaviours and Risk Communication 
+
+Whilst  we  would  recommend  continuing  to  pursue  the  agenda  of shared  responsibility  for 
+
+longer  term  behaviour change,  it is  clear that  some  members of society, for a  multitude  of 
+
+reasons, are not adhering to aspects of the guidelines in place. This adherence is required for 
+
+individuals to protect themselves and others and it is important to recognise that what might 
+
+be considered minor breaches may have a bigger impact at population level when compared 
+
+to a small minority taking significant risks25. 
+
+Evidence to date suggests many people continue to adhere to the guidelines in Wales, with 
+
+exceptions  largely  being  thought  to  be  associated  with  barriers  such  as  understanding  of 
+
+guidelines, lack of skills (e.g. ability to say no) and  lack  of access to support (e.g. financial, 
+
+practical and emotional). Furthermore, while confidence in Welsh Government remains high, 
+
+an important consideration given it has been found to be a key predictor of adherence26, there 
+
+will be some people who disagree with the restrictions that have been in place and are less 
+
+likely to comply.  Survey data also suggest a  degree of mixing in the home with those 
+
+G1 https://www.gov.uk/government/publications/spi-b-key-evidence-and-advice-on-celebrations-and-observances-during-covid-
+19-5-november-2020 
+26 https://wrNw.medrxiv.org,'content/10.1101!2020.10.19.20215376v1 
+
+8 
+
+I NQ000350057_0008 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+outside the extended household and misunderstanding in the population of the risks 
+
+of transmission associated with such mixing (e.g. reporting they  are more likely to be 
+
+exposed to the virus from strangers than family/friends 27). Objective mobility data also 
+
+indicate returns to pre-firebreak levels of travel. 
+
+While a little more speculative, current circumstances may exacerbate the risk of transmission 
+
+in the community. For example: 
+
+•  Changing  behaviours  following  the  relaxing  of  restrictions  post-firebreak  (largely 
+
+anecdotal but survey data will allow this to be routinely monitored). 
+
+•  Greater mixing in the pre-Christmas period is likely, in for example, hospitality settings 
+
+and non-essential retail. 
+
+•  Possible  complacency  with  the  welcome  news  on  the  forthcoming  availability  of 
+
+vaccines, a recent qualitative study noting the possibility of people relaxing28, (although 
+
+a counter-argument is feasible, where people continue to be cautious as they can now 
+
+see an end in sight). 
+
+While  the  trajectory  of the  pandemic  has  changed  over  time,  in  part  due  to  the  various 
+
+interventions put in place, many of the evidence-informed behavioural considerations remain 
+
+the same as in the spring (and outlined in the recent TAC paper29). These include: 
+
+•  The importance of public communication around risk that is both simple to understand 
+
+and accompanied by a clear rationale. This would be particularly pertinent were there 
+
+to be a deviation from the post-firebreak national approach (e.g. to localities in different 
+
+tiers as in England and Scotland). That said, perceived consistency across the UK 
+
+would likely be viewed positively, as has been agreed for the Christmas period. 
+
+•  Financial support in place should be continued (e.g. £500 self-isolation payments) and 
+
+other  forms  of social  and  emotional  support  encouraged  (e.g.  family,  friends  and 
+
+volunteers keeping in touch and providing practical support such as shopping). 
+
+Use  of  appropriate  communication  channels  reflecting  demographic  and  cultural 
+
+differences and interventions co-produced wherever possible. 
+
+•  Recognising enforcement should not be a  focus of any activity without having first 
+
+attempted  to  engage,  explain  and  encourage  and  remaining  aware  of  the  risk  of 
+
+inequitable deployment. 
+
+27 https://phw.nhs.waIes/topics/Iatest-information-on-novel-coronavirus-covid-  9/how-are-you-doing/how-are-we-doing-in-wales-
+reports/week-31 -how-are-we-doing-in-wales! 
+28 https://www.medrxiv.org,content/10.1101(2020.11.17.20233486v1 
+29 https://gov.wales/technical-advisory-group-behavioural-insights-support-post-fire-break-wales 
+
+9 
+
+IN0000350057_0009 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+The importance of  considering those behaviours more likely during the festive season, some 
+
+of which are drawn  out above, also need to be factored in, with a number of SAGE/SPI-B 
+
+papers  that  should  be  drawn  on  in  order  to  minimise  the  risk  of  transmission  and  the 
+
+behavioural insights to assist  in doing so30
+
+Policy modelling 
+
+From analysis  we  have  undertaken  and  comparisons  of interventions  across  the  UK  with 
+
+SAGE, we can see that: it is better to intervene early than late; short and sharp interventions 
+
+work; adherence wanes over time; and firebreaks and harder restrictions (e.g. tier 3+) can 
+
+reduce levels of transmission in the community. Rules must be simple, understandable and 
+achievable —  with an agreed beginning and end31.32.3334,35 
+
+SAGE agree that it is better to enter into the Christmas period with a low level of community 
+
+transmission as opposed to high36. As we have seen from our hospitals, care homes, and 
+
+prisons, high community prevalence leads to outbreaks in these settings and outbreaks spread 
+
+quickly. The same logic can be applied to residential settings — if an infectious individual enters 
+
+a multiple occupancy home is it likely that more than one other person will become infected. 
+
+A new Reasonable Worst Case scenario has been produced and will be published shortly. 
+
+An analysis of different policy options has been undertaken by Swansea University to model 
+the potential impact of non-pharmaceutical interventions37 38 in the pre and post-Christmas 
+period. The policy scenarios considered transmission levels indicative of either a Scottish level 
+
+2 or 3 or England tier 2 or 3 period before Christmas. Herein tier 2 and tier 3 are used to 
+
+describe a similar level of transmission and mixing to that associated with Tier 2 and Tier 3 
+
+restrictions described  in the SAGE paper on four nations NPI analysis here (page 5). The 
+
+transmission rate scenarios were chosen based on a pre-firebreak (as at 16 October) Rt value 
+
+30 https:!/www.gov.uk/governmenttpublications/spi-b-key-evidence-and-advice-on-celebrations-and-observances-during-covid-
+19-5-november-2020 
+31 https:/ANww.gov.uk/government/publicationstimpact-of-interventions-ffg-the-Uks-4-nations-autumn-interventions-update-26-
+november-2020 
+az https://www.gov.uk/government/publications/f fty-eighth-sage-meeting-on-covid-19-21-september-2020 
+
+https://www.gov.uk/government/publicafions/npis-table-' 7-september-2020 
+
+3e https://b6bdcbO3-332c-4ff9-8b9d-28f9c957493a.filesusr.com/ugd/3d9db5  29a5ae83bod74ebaa238f75fb2d5O735.pdf 
+:5 https://gov.wales/sites/default/files/publications/2020-12/technical-advisory-group-effectiveness-of-non-pharmaceutical-
+interventions-in-the-local-health-protection-zones-and-the-firebreak-in-wales. pdf 
+lhttps: tta ssets. publishing. service. gov. uk/govemment(u ploadstsystem/upload s/attachment_data/file/938977/S0909_S ixty-
+ninth_SAGE_meeting_on_Covid-19.pdf 
+37 https://www.gov.uk/governmenVpublications/summary-of-the-effectiveness-and-harms-of-different-non-pharmaceuNcal-
+interventions-16-september-2020 
+:e https://gov.wales/technical-advisory-group-fire-breaks 
+
+10 
+
+1N0000350057_0010 
+
+tP 
+
+]  1 
+
+1• 
+
+l 
+
+r 
+
+• 
+
+►1111  l' ',  '~ 
+
+of  1.3,  and  a 10% higher value  representing  increased seasonal transmission going  into the 
+
+winter. 
+
+The analysis was helpful as it illustrated the potential  benefits in  terms of  reduction  in  deaths, 
+
+NHS occupancy and ICU bed for tier 2 and 3 scenarios. The model also illustrates that keeping 
+
+Rc  generally  lower  (e.g.  by  the  reduction  of  social  mixing  of  people  generally)  would 
+
+significantly impact on  deaths: Rt1.3 (2,520 deaths) versus R1 .4 (3,270 deaths), if  we include 
+
+deaths  from  1  December  until  28  February.  The  estimates  do  not  factor  in  any  non-
+
+pharmaceutical interventions after Christmas, or likely COVID-19 deaths over the springtime. 
+
+The  Figures  below show the  modelled  effects of  6  different  pre-Christmas  policy scenarios. 
+
+Each  of  the scenarios can  be  read  from  left  to  right,  from  the  recent date  of  2/12/20,  to the 
+
+start of  the  period  of  reduced  restrictions (23/12/20),  up  until  the  end  of  the  post-Christmas 
+
+period of reduced restrictions (28/12/20). The red section of the line indicates additional mixing 
+
+during the Christmas period, estimated to result in  a further 10% additional transmission. 
+
+For example, in the first 'No intervention' scenario, where the background Rt is assumed to be 
+
+1.3 (as of  2/12/20), the cumulative  number of  COVID-19  patients  requiring  hospital and  ICU 
+
+beds is estimated  to  be 8,570 and  1,030  respectively,  with  2,520 deaths. In  the third  'Tier 3' 
+
+• 
+
+•  * 
+
+•1 
+
+• 
+
+i 
+
+• 
+
+~•1 a -
+
+If  the background  Rt is higher, at 1.4, then the number of  hospital and  ICU  beds required, and 
+
+deaths, will  be higher overall, as per last 3 scenarios in  the Figure below. 
+
+11 
+
+I NQ000350057_0011 
+
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+Pre-Christmas Policy Modelling 
+
+2/12 
+
+No intervention, 
+contact scaling o.7 
+
+23/12 
+
+28/12  Background Rt1.3 
+
+28/2 
+
+Cumulative 
+
+Hospital 
+ICU 
+admissions Admissions  Deaths 
+only 
+(incl. ICU) 
+
+8,570 
+
+1,030  2,520 
+
+2/12 
+
+Dec Tier 2, 
+contact scaling 0.7 
+
+23/12 
+
+28/12  Background RtL3 
+
+28/2 
+
+6,920 
+
+830 
+
+2,030 
+
+2/12 
+
+Dec Tier 3, 
+contact scaling 0.7 
+
+23/12 
+
+28/12  Background Rt1.3 
+
+28/2 
+
+4,860 
+
+580 
+
+1,460 
+
+2/12 
+
+23/12 
+
+28/12  Background Rt1.4 
+
+28/2 
+
+11,410 
+
+1,370 
+
+3,270 
+
+2/12
+
+Dec Tier
+
+2, 
+
+contact scaling  0.75 
+
+23/12 
+
+28  12 
+/  
+
+Background Rt1.4 
+
+28/2 
+
+8,850  1,060  2,510 
+
+2/12 
+
+Dec Tier 3, 
+contact scaling  0.75 
+
+23/12 
+
+28/12  Background Rt1.4 
+
+28/2 
+
+6,400  770 
+
+1,820 
+
+Figure 1. Pre-Christmas policy modelling scenarios. 
+
+Deaths 
+
+60- 
+
+Pre-Firebreak R 
+
+Pre-Firebreak R + 10 
+
+. . . 1sl Peak I . . .. . . . . . . . . . . ....... . ....... . . . . . .  . .. 
+
+40• 
+
+20-
+
+0-
+
+m 
+>  60-
+
+40- 
+
+20-
+
+Dec  Scenarios 
+
+Dec_Measuras_Only 
+
+No Additional Dec or Jan Measures 
+
+o 
+
+ti
+
+Gct 
+
+Nov 
+
+Dec 
+
+J r 
+
+Feb 
+
+Mar  Oct 
+Date 
+
+Nov 
+
+Dec 
+
+Jan 
+
+Feb 
+
+Mar 
+
+Figure 2. Deaths per day between October and March 2021 in different pre-Christmas scenarios (Source: Swansea 
+University COVID-19 Modelling) 
+
+12 
+
+IN Q000350057_0012 
+
+ 
+TAG ADVICE ONLY 
+
+NOT WELSH GOVERNMENT POLICY 
+
+ICU occupancy 
+
+Pre-Firebreak R 
+
+Pre-Firebreak R + 10% 
+
+200 - 
+
+150 ---Max  ..... . .................  .......... .... . . 
+
+100 - 
+
+f 
+
+... Curren  .... ~  .. ...... :..................... ~. 
+
+......
+
+50 - 
+
+ol 
+
+0' 
+
+200 -
+
+Dec Scenarios 
+
+—  Dec_Measures_Only 
+
+—  No Additional Decor Jan Measures 
+
+............. . ...
+
+........ 
+
+..........,...  .........................  .. , ........ 
+
+.. 
+
+0 
+0 n 
+
+100 - 
+
+.......... ... ~  .. ...
+
+......... ..
+
+. 
+
+......... ~......... .... 
+
+.........0 .......... ...... 
+
+50 
+
+Oct 
+
+Nov 
+
+Dec 
+
+Jan 
+
+Feb 
+
+Mar  Oct 
+Date 
+
+Nov 
+
+Dcc 
+
+Jan 
+
+Feb 
+
+Mar 
+
+Figure 3. 1CU Occupancy between October and March 2021 in different pre-Christmas scenarios (Source: Swansea University 
+COVID-19 Modelling) 
+
+Hospital Occupancy (inc ICU) 
+
+Pre-Firebreak R 
+
+Pre-Firebreak  R + 10% 
+
+3000 - 
+
+` 
+
+` II 
+
+p 
+
+..................... ...
+
+ ..  ... ....... .................... 
+
+3000- 
+
+2000 - 
+
+Dec  Scenarios 
+
+Dec_ Measures_ Only 
+
+—  No Additional Dec or Jan Measures 
+
+0 
+
+1000 _ .... ....... ..  .. "  .... \  ... 
+
+ter ... ............ ..  ... ..........  . ............ 
+
+Oct 
+
+Nov 
+
+Dec 
+
+IJan 
+
+Feb 
+
+Meer  Oct 
+Date 
+
+Nov 
+
+Dec 
+
+Jan 
+
+Feb 
+
+Mar 
+
+Figure 4. Hospital bed occupancy between October and March 2021 in different pre-Christmas scenarios (Source: Swansea 
+University COVID-19 Modelling) 
+
+13 
+
+IN Q000350057_0013 
+
+ 
+

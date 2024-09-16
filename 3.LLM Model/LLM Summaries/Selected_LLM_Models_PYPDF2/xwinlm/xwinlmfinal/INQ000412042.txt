@@ -1,0 +1,30 @@
+Title: INQ000412042 - Presentation from UK Covid-19 Inquiry, titled module 2B data and charts, dated between 01/01/2020 and 01/04/2022.
+
+The summary of the text provided is as follows:
+
+In Wales, daily deaths with COVID-19 on the death certificate have increased over time since April 2020, reaching a peak in January 2022. The five-year average of excess weekly deaths was also higher during this period, indicating an overall increase in mortality rates.
+
+In May 2020, daily deaths with COVID-19 on the death certificate were around 600, and by January 2022, they had reached about 1,400. Excess weekly deaths increased significantly, reaching a high of approximately 3,187 in September 2020 and January 2021, with the five-year average percentage of the population testing positive for COVID-19 remaining relatively stable at around 6%.
+
+Wave I (April 15, 2020) and Wave II (July 2020) deaths are both attributed to COVID-19. Excess deaths were higher during Wave II (32%), while the percentage of the population testing positive for COVID-19 was lower around 2%. In Wave I, daily deaths with COVID-19 on the death certificate were in the range of 400 to 600.
+
+During the second wave (Wave II), daily deaths with COVID-19 on the death certificate reached a peak of approximately 2,109 in January 2021 and excess deaths reached over 3,000. The five-year average percentage of the population testing positive for COVID-19 was in the range of 5% to 8%.
+
+As of April 2, 2022, new cases of COVID-19 per day by specimen date in Wales were around 150, indicating a decrease from previously reported figures. The estimated percentage of the population testing positive for COVID-19 was approximately 10% in May 2020 and reached 20% in September 2020 before decreasing to around 6% in December 2021.
+
+Age-specific death rates involving COVID-19 by five-year age group in March 2020 to June 2022 showed a general increasing trend, particularly among older age groups. Excess deaths by place of occurrence from March 2020 to June 2022 also indicated higher mortality rates, with a significant proportion due to home and hospice deaths.
+
+Weekly mortality rates compared to the 2015-2019 average were highest in February 2021 at around 8%; however, this figure has since decreased to about 2% as of May 2022. Cumulative mortality for 2020-2022 compared to the 2015-2019 average showed a slight increase.
+
+In conclusion, daily deaths with COVID-19 on the death certificate in Wales have increased over time since April 2020, reaching a peak in January 2022, while excess weekly deaths reached highs during Wave II. Age-specific death rates involving COVID-19 show an increasing trend among older age groups. Excess deaths and mortality rates have shown a general decreasing trend since February 2021, but remain higher than pre-pandemic levels.
+
+
+
+The summary of the text is as follows:
+
+1. The week ending June 2nd, 2024 featured data from various sources related to COVID-19. Information was gathered from the UKHSA covid dashboard, ONS Monthly mortality analysis, and IN0000396876 tables for excess deaths, age-specific death rates, and cumulative mortality rates among other sources.
+2. Key metrics included daily deaths with COVID (source: UKHSA covid dashboard on the death certificate by date of death), excess deaths (source: ONS Monthly mortality analysis, July 2023 edition, sheet 16b), new cases (source: UKHSA covid dashboard), infection survey data (source: ONS Covid-19 Infection Survey), age-specific death rates (source: IN0000396876, Table 2), excess deaths by place (source: IN0000396876, Table 10), weekly mortality rates (source: ONS 'Comparison of all cause mortality (Relative age- specific death rates) between European countries and regions', sheet 7), cumulative mortality rates (source: ONS 'Comparison of all cause mortality (Relative cumulative mortality rates) between European countries and regions', sheet 14), and daily deaths with COVID (England-specific, source: UKHSA covid dashboard on the death certificate by date of death).
+3. The text provides a comprehensive overview of various data sources related to COVID-19 in England during the week ending June 2nd, 2024, highlighting important metrics such as daily deaths, excess deaths, new cases, and age-specific death rates. Additionally, it mentions that data for cumulative mortality rates and weekly mortality rates was also available from corresponding sources.
+
+Please note that the information is based on data accessed up to June 2nd, 2024, and might not reflect the latest developments in COVID-19 metrics.
+

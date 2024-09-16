@@ -1,0 +1,43 @@
+This dataset presents a comprehensive overview of COVID-19 impacts in Wales from April 2020 to February 2024.  
+
+**Key insights:**
+
+* **Mortality:** Daily deaths directly attributed to COVID-19 on death certificates peaked during the first and second waves, gradually decreasing afterward.
+* **Excess Deaths:** While direct COVID-19 deaths declined, there were still periods of "excess deaths" (deaths above the five-year average), indicating potential indirect impacts of the pandemic.
+* **Hospitalizations:**  Weekly hospital admissions for COVID-19 followed similar trends to death counts, with peaks coinciding with surge waves.
+* **Case Numbers:** New daily COVID-19 cases fluctuated significantly throughout the period, mirroring hospitalization and death trends. 
+* **Testing Positivity:** The percentage of the population testing positive for COVID-19 also demonstrated waves corresponding to case surges.
+
+**Additional Data Points:**
+
+*  Age-specific mortality rates highlight vulnerable groups impacted by COVID-19.
+*  Data on "excess deaths" by location (home, hospital, etc.) reveals potential variations in pandemic impact across settings. 
+
+
+**Overall, the data paints a picture of fluctuating but generally declining COVID-19 pressures in Wales over time.** However, residual excess deaths suggest continuing ramifications and the need for ongoing monitoring.
+
+
+
+This document outlines data sources used for tracking COVID-19 and its impact in the UK. 
+
+**Key Metrics:**
+* **Daily Deaths with COVID**: Source: UKHSA COVID Dashboard, based on death certificates.
+* **Excess Deaths**: Source: ONS Monthly Mortality Analysis, comparing deaths to expected levels.
+* **COVID Infections in Hospitals**: Source: UKHSA COVID Dashboard.
+* **New Cases**: Source: UKHSA COVID Dashboard.
+* **Infection Survey**:  Source: ONS Covid-19 Infection Survey, provides data on infections in the population.
+
+**Additional Data Sources:**
+* **Age Specific Death Rates**: IN0000396876 dataset.
+* **Excess Deaths by Place**: IN0000396876 dataset.
+
+**Comparative Analysis:**
+*  ONS datasets "Comparison of all cause mortality between European countries and regions" provide UK death rates within a European context.
+
+**Specific Data Points**:
+* One entry relates specifically to daily COVID deaths in England from the UKHSA dashboard. Five-week moving averages are used for tracking excess deaths trends, as well as cumulative mortality data.
+
+
+In summary, this document acts as a reference guide detailing the specific data sources and methodologies used to track various COVID-19 indicators within the UK.
+
+

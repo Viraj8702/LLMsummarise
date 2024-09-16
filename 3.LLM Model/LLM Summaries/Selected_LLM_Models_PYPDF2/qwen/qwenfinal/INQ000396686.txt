@@ -1,0 +1,17 @@
+Title: INQ000396686 - Notice from Senior Information Risk Officer, Welsh Government titled Social Media, dated 28/01/2020.
+
+Thank you for bringing this to our attention. We understand the importance of maintaining social media accounts in a professional manner. Therefore, we have taken the necessary steps to ensure that all Welsh Government social media accounts remain in good working order and continue to serve as valuable platforms for promoting the work of the Welsh Government.
+
+
+The text describes a situation where a colleague's personal social media account has been compromised due to the lack of two-factor authentication on the account.
+
+The text goes on to explain that the lack of two-factor authentication greatly reduces the risk of an account being compromised.
+
+Finally, the text reminds us that even if we don't use social media, we have a digital footprint as others hold electronic information about us.
+
+
+such as username and password or multi-factor authentication. However, not all providers offer such choices. It's worth noting that even if you choose to authenticate using a username and password method, there is still the risk of your account being hacked. Therefore, it's important to always use strong passwords, avoid using public Wi-Fi to access sensitive information and regularly check for any suspicious activity related to your social media accounts.
+
+
+The text describes how two-factor authentication (2FA) works and some popular providers that support 2FA. The text also provides some advice on how to report a hacked account if this occurs.
+

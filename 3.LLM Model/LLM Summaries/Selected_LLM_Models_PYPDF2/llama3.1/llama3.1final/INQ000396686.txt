@@ -1,0 +1,34 @@
+Title: INQ000396686 - Notice from Senior Information Risk Officer, Welsh Government titled Social Media, dated 28/01/2020.
+
+The text is a notice from Welsh Government's Senior Information Risk Owner (SIRO) concerning the security of social media use within the organization. Following a recent serious security incident over staff using personal devices and sharing login details for social media accounts, SIRO has mandated several immediate changes to how the government uses its social media. 
+
+Key changes include:
+
+*   Using Welsh Government-owned devices to access social media
+*   Not sharing social media passwords with third parties
+*   Activating two-factor authentication for all work-related social media accounts where it's an option
+
+SIRO also reminds staff that using personal social media accounts to promote their role or activity as a Welsh Government employee is not recommended. Staff are asked to disclose any personally owned social media accounts used for work purposes by February 28th, and the government will then work with them to understand how these accounts are being used and ensure they comply with security policies.
+
+
+Here's a summary of the text:
+
+The Welsh Government is reminding employees about their responsibilities regarding personal social media accounts. Staff members are expected to provide information about their personal social media accounts, such as LinkedIn and WhatsApp, by February 28th. The Digital Communications team will review these accounts to determine if they should be official Welsh Government accounts. If not, staff are advised to remove anything that suggests employment with the Welsh Government from their personal accounts. Failure to comply may result in disciplinary action.
+
+The document also provides guidance on:
+
+* Using LinkedIn, including ensuring compliance with the Civil Service Code and being mindful of what content is posted
+* Not using WhatsApp for official business due to data controller responsibilities
+* Securing personal social media accounts by adding two-factor authentication (links provided)
+* Considering one's digital footprint, even if not a social media user
+
+Overall, the Welsh Government is emphasizing the importance of maintaining professional boundaries on social media and protecting personal and work-related information.
+
+
+Here is a summary of the text:
+
+The Welsh Government faced a media incident when a member of staff (Chris) was accused of liking offensive material on their personal Twitter account, which had also been used for work purposes. An investigation found that Chris' account had actually been hacked, and evidence suggested that no one in Chris' household was responsible. The incident led to concerns about data security and the use of social media accounts for official business. A key takeaway from the case is the importance of implementing two-factor authentication (2FA) on social media accounts and restricting access to trusted devices. Without 2FA, a hack like this could easily happen again.
+
+
+The text discusses Two-Factor Authentication (2FA) and its support by various online services such as LinkedIn, email providers, banking sites, and social media platforms like Twitter, Facebook, and Instagram. It notes that while some service providers do support 2FA, not all require or even offer it. The text encourages users to check with each of their providers if they support 2FA and recommends using authenticator apps (such as Google or Microsoft Authenticator) over SMS texts for added security. If an account is hacked, the user should immediately report it to the service provider.
+

@@ -1,0 +1,52 @@
+Dear colleagues, 
+I hope you are all well. I wanted to share some key points from the conference call earlier regarding reporting of NHS staff deaths and oxygen supply in mental health trusts in England.
+
+1. Reporting of NHS Staff Deaths: The Welsh Government has agreed to hold their line that there is no reporting on NHS staff deaths by Public Health Wales (PHW). However, Health Boards are still reporting on staff deaths, and in some cases, the families of deceased NHS staff are disclosing details in the public domain.
+2. Oxygen Supply: I mentioned the oxygen supply issue in mental health trusts in England and suggested that this might need consideration in Wales. To date, there haven't been any reported issues with oxygen supply in Wales, but it is essential to remain vigilant and adaptable in case any challenges arise.
+3. Death Data: I will compile a comprehensive list of COVID-19 deaths for all UK countries (England, Northern Ireland, Scotland, and Wales) based on the information shared during the call. Please note that these figures are subject to verification, but they should provide an accurate overview of the situation.
+4. Interim Supplies: England has received additional stock drops this week, with deliveries expected on Friday and Saturday. The "clipper" supply is up and running, albeit only for a small number of people at present. It will take approximately four weeks until it is fully operational. However, interim reactive work will still be necessary during this time.
+5. Ventilator Shortages: There have been issues with body bags but steps are being taken to increase the supply. Approximately 8,000 body bags were distributed today, and efforts are underway to resolve any remaining shortages.
+
+Please note that Peter was also on the call, and he may have more detailed notes. As the need for a reply regarding the plan for reporting of NHS staff deaths arises, I will provide further information as necessary.
+
+Best regards,
+Chrishan
+
+
+This text summarizes an email exchange between Public Health Wales' Dr. Anna Schwappach and other stakeholders, discussing the current situation regarding the COVID-19 pandemic in the UK. Key points include:
+
+1. Shortage of body bags and challenges with oxygen supply in mental health trusts in England, requiring urgent attention to ensure continuity of care.
+2. A draft Social Care Action Plan is being published and launched by the Secretary of State at a press conference later that day. The plan includes measures to address workforce issues and improve communication between different data streams.
+3. Antibody testing reports from Oxford University are expected today, which may require reactive lines for media coverage.
+4. Public Health Wales is working on a speciality registrar in public health position and operates under the name Dr. Anna Schwappach. They encourage communication in Welsh and will respond promptly to any messages sent in that language.
+5. The United Kingdom has experienced a significant increase in COVID-19 related deaths, with England showing an increase of 7,744, Scotland increasing by 9, Wales by 19, Northern Ireland by 6, and the overall UK figure rising by 7,800 daily for distribution.
+6. ONS (Office for National Statistics) and NHSE (NHS England) data are not consistent, leading to a gap of approximately 1/3 in community deaths, 1/3 related to those not picked up or tested in hospitals as COVID-19 cases, and 1/3 due to delays. This issue is being discussed and reviewed, with a meeting scheduled for later that afternoon to address the problem.
+7. NHSE and PHE (Public Health England) are developing a new process for capturing deaths in healthcare workers (HCWs) and adult social care workers (SCWs) who die outside of hospitals, as well as identifying ways to capture extended groups such as pharmacists, NHS office staff, dentists, when they pass away in hospital or not. The process will include verifying data sources before collecting and releasing the information.
+
+
+In this summary, the National Health Service (NHS) England, Public Heath England (PHE), and the Department of Health and Social Care (DHSC) are working together to collect and release data related to healthcare workers (HCWs). Wales has raised concerns regarding the identification of individuals in a small country when using NHS staff as a bracket for all identified HCWs. The other Devolved Administrations (DAs) have also expressed concern about this approach, and they will continue to review the best approach going forward.
+
+Adult Social Care Update: The DHSC is preparing an action plan that will be published tomorrow. It includes improvements for infection control, workforce support, and vulnerable group support. This includes expanding testing, supporting discharges, recruitment, training, and support for the workforce. A care home deaths update from the Office of National Statistics (ONS) reveals that there were 217 care home deaths in the past week, with a 11-day lag. Since then, approximately one thousand additional care homes have reported an outbreak, bringing the total to around 2100 care homes currently experiencing an outbreak, which represents about 14% of care homes in England. The ONS data also shows that there were 217 care home deaths in the 11 days since the 217 figure was reported.
+
+Chair's inquiry regarding the percentage increase in death rates for home care compared to care homes also experiencing a higher percentage increase, has been addressed. The DHSC confirmed that caution is needed when analyzing changes in death rates due to high fluctuations in deaths before COVID-19. However, they noted that the home care sector is under immense pressure with staff absences and limited availability of other support services such as visiting services, day centers, etc. The DHSC is monitoring this situation closely.
+
+Regarding testing, there has been a significant decrease in both patients tested and staff tested in hospitals over the past week, which could be a positive sign reflecting increased capacity to bring on more staff. However, the DHSC will review numbers again after the Easter weekend lag. They are also looking into rolling out lateral flow testing, known as LISA, along with antibody testing to increase awareness and understanding of how COVID-19 is being transmitted in the community. Lastly, efforts are underway to ramp up options for population sampling.
+
+The workforce situation has shown an increasing number of professionals expressing interest in returning to work, as well as students preparing to go onto clinical placements. However, some areas with available staff are not experiencing the increased demand yet, leading to a reluctance among potential returning workers to accept the offer due to short-term thinking rather than long-term strategizing for service needs. The DHSC is addressing this issue by messaging employers in these areas and encouraging them to think mid-term instead of short-term. Additionally, they are ensuring that support is directed towards the adult social care sector, where the workforce is still concerning. A recruitment drive for this service will begin within the next 48 hours.
+
+Lastly, no one from international organizations was present on the line.
+
+
+This text is a communication regarding public health matters, including the impact of the COVID-19 pandemic on various services. The summary highlights several key points:
+
+1. The Public Health Wales team is starting a recruitment drive for the service within 48 hours due to staffing concerns and increased workload.
+2. There is a stand down of the main standalone international team, which has not been operational in recent days.
+3. Communications are affected due to staff shortages and no one being available on the line.
+4. The guidance for death and funerals is being split into two parts, with rapid publication of the part related to attendance at funerals (end of week), and delaying the rest until next week due to lack of resources.
+5. There are shortages of ICU drugs and alternative muscle relaxants such as rocuronium, which are also in limited supply. An alert is being sent out regarding this issue today.
+6. Working days for the recipient are Tuesday, Wednesday, and Thursday.
+7. The Welsh Government requests that correspondence is written in Welsh to ensure a prompt response.
+8. Public Health Wales takes data protection seriously and ensures that all emails are scanned for viruses before being sent out.
+9. If you have any concerns or need assistance, the Welsh Government recommends contacting them through their official channels, as they take privacy seriously and have measures in place to protect your data.
+10. The message concludes with best wishes from Dr. Anna Schwappach, a Speciality Registrar in Public Health at Public Health Wales.
+

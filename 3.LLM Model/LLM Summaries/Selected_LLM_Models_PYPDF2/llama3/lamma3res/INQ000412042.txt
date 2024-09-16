@@ -1,0 +1,27 @@
+This text appears to be a dashboard or report on COVID-19 data for Wales, UK, as of February 6th, 2024. The data includes:
+
+1. Daily deaths with COVID-19 on the death certificate: This shows a steady decline from an initial peak in April 2020 to around 20 cases per day by July 2022.
+2. Excess weekly deaths: There is a slight fluctuation over time, but generally, the excess deaths (above the five-year average) have decreased since March 2021.
+3. Weekly COVID-19 patients in hospital: This shows a significant decline from an initial peak of around 30,000 cases per day to less than 10,000 by July 2022.
+4. New cases of COVID-19 per day: The number of new cases has declined significantly since the initial peak in April 2020 to around 250 cases per day by December 2021.
+5. Estimated percentage of the population testing positive for COVID-19: This shows a significant decline from an estimated 10% of the population testing positive in May 2020 to less than 2% by August 2020 and then stabilizing at around 2%-4%.
+6. Age-specific death rates with COVID-19: The data shows that older age groups (75+ years) have been disproportionately affected.
+7. Excess deaths by place of occurrence: This shows a higher percentage of excess deaths occurring in care homes rather than hospitals or hospices.
+
+The report also includes cumulative mortality data for 2020-22 compared to the five-year average, which shows that Wales had an elevated death rate during this time period.
+
+
+This text appears to be a table or chart description, providing information on various data sources and measures related to COVID-19 in the United Kingdom, specifically for England. The sections include:
+
+1. Daily deaths with Covid: A measure from the UK Health Security Agency (UKHSA) tracking deaths with COVID-19 based on death certificates.
+2. Excess Deaths (by date): Data from the ONS Monthly Mortality Analysis, showing excess deaths by date of death.
+3. Covid in hospital: A measure from the UKHSA tracking COVID-19 cases in hospitals.
+4. New cases: Another measure from the UKHSA tracking new COVID-19 cases.
+5. Infection survey: Data from the ONS COVID-19 Infection Survey, showing infection rates.
+6. Age-specific death rates by age group: Table 2 of a dataset (IN0000396876) provides mortality rates by age group.
+7. Excess Deaths by place: Table 10 of the same dataset shows excess deaths by location.
+8. Weekly mortality rates: A chart from ONS comparing weekly mortality rates across European countries and regions, with a 5-week moving average.
+9. Cumulative mortality: Similar to point 8, but showing cumulative rather than weekly mortality rates.
+
+These measures provide insights into COVID-19-related mortality trends in England.
+

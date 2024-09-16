@@ -1,0 +1,97 @@
+Title: INQ000395589 - Email chain between Gill Richardson (Professional Advisor to the Chief Medical Officer, Welsh Government) and Welsh Government and Public Health Wales colleagues, regarding a DHSC/PHE/DA call, dated between 14/04/2020 and 15/04/2020.
+
+This email discusses the COVID-19 pandemic situation in the UK, focusing on death statistics, staff deaths, supply lines and oxygen shortages.
+
+**Key Points:**
+
+* **Death Statistics:** The number of deaths is rising across all UK regions. While there was an agreement that Public Health Wales (PHW) wouldn't report NHS staff deaths, it’s a continuing concern being addressed by the Department of Health & Social Care (DHSC) and Public Health England (PHE).
+* **Staff Deaths:** 
+    * PHW is not reporting on NHS staff deaths in Wales.
+    * English health boards are reporting, with families sometimes disclosing details publicly.
+    * DHSC/PHE urge regional authorities to confirm their plan for reporting staff deaths.
+
+* **Supply Lines:**
+    *  Supplies are busy but additional drops of essential equipment like oxygen are expected in England for this week. 
+    * "Clipper" supply (an interim solution) is being set up, taking 4 weeks to become fully operational.
+    * Issues with gown shortages and wrong types being delivered are being resolved.
+    * Though previously a concern, the body bag shortage is being addressed with an increased supply of 8000 being distributed.
+
+
+* **Hospital Oxygen:** There's a specific issue reported about oxygen supplies in English mental health trusts, requiring consideration in Wales as well.
+
+
+The email highlights several issues requiring urgent attention and further discussion: reporting on NHS staff deaths, addressing the "clipper" supply challenges, resolving ongoing supply chain issues like gowns and body bags, and considering the potential for oxygen shortages in Welsh hospitals as well.
+
+
+This document summarizes a call briefing from April 14, 2020, focused on the UK's response to the COVID-19 pandemic. 
+
+**Key points:**
+
+* **Shortages:** A shortage of body bags exists but efforts are being made to increase supply (8,000 being distributed today).
+* **Oxygen Issues:** Some English hospitals, particularly mental health trusts, are experiencing oxygen shortages due to reliance on bottled cylinders. Ensuring continuity of supply is a priority.
+* **Social Care Action Plan:** A plan published and launched by the Secretary of State at midday, addressing workforce issues (a major concern) among other things.
+* **Communication:** Planned communication campaigns regarding social care plans, PPE provision in social care sectors, testing updates, and John Bell's report on antibody testing.
+* **Death Data Discrepancies:** England's Office for National Statistics (ONS) and National Health Service (NHSE) death figures continue to differ significantly. 
+    * The potential contributing factors are: deaths in the community not being captured, missed COVID-19 diagnoses in hospitals, and data reporting delays. Experts are meeting to address this issue.
+
+
+A new process is being developed to capture deaths among healthcare workers (HCWs) and adult social care workers (SCWs), aiming to extend data collection beyond hospital settings. Challenges include identifying appropriate data sources and verifying information within these complex groups.
+
+
+
+
+This briefing provides a snapshot of the ongoing efforts and challenges faced in managing the COVID-19 pandemic across the UK. 
+
+
+
+The text summarizes a meeting focused on various aspects of the COVID-19 crisis response in England. Key points include:
+
+**Data Collection:**
+* Concerns were raised by Wales about data collection practices, particularly potential for accidental identification.
+* There's ongoing work to refine data collection strategies, balancing privacy with needs for meaningful analysis.
+
+**Adult Social Care Update:**
+* DHSC is preparing an action plan to address challenges in adult social care, focusing on infection control, workforce support, vulnerability support.
+* ONS data reveals significant care home deaths, with approximately 2100 care homes now registering outbreaks.
+* Home care sector also faces pressures, with increased death rates and staffing shortages due to scaled-back support services.
+
+**Testing:**
+* Testing numbers have decreased likely due to Easter weekend.
+* Antibody testing remains problematic, with no lateral flow test meeting requirements yet.
+* Efforts are underway to implement LISA testing and population sampling strategies alongside antibody testing.
+
+ **Workforce:**
+* While more professionals are expressing interest in returning to work and students are preparing for clinical placements, there's an issue in some areas where returned staff aren't being utilized due to a lack of immediate demand. Efforts are underway to encourage mid-term thinking and workforce placement.
+* The adult social care sector workforce remains a concern, with a recruitment drive starting soon.
+
+**International:**
+
+
+No specific international updates were shared in this meeting summary.
+
+
+
+Overall, the meeting highlights ongoing challenges in managing the COVID-19 crisis, particularly in data collection, adult social care, and workforce availability.
+
+
+The text provides specific details about actions underway and concerns raised by various stakeholders involved in the response effort.
+
+
+This is a brief email update from Dr. Anna Schwappach, Speciality Registrar in Public Health at Public Health Wales.  Here are the key points:
+
+* **Recruitment Drive:** A recruitment drive for a new service is beginning within the next 48 hours. 
+
+* **Understaffing:**
+    * International team is fully stood down with no one available.
+    * Communications team is also understaffed with no one available. 
+
+* **Death and Funeral Guidance:** The existing PHE guidance on funerals will be published separately this week, while the rest of the guidance will follow next week.
+
+* **Supply Issues:**
+    * There is a shortage of ICU drugs, which Dr Anna is discussing with the CMO (Chief Medical Officer).
+    * Atracurium (a drug used for sedation) is in short supply (4 days left) due to a European-wide issue. The alternative, rocuronium, is also limited. An ALERT will be issued today regarding this issue. 
+
+
+Essentially, the email highlights staffing shortages, upcoming changes to medical guidance, and critical medication shortages requiring immediate attention. 
+
+

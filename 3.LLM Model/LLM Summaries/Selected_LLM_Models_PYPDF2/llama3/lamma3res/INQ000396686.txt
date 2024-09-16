@@ -1,0 +1,31 @@
+The Welsh Government has issued a SIRO (Senior Information Risk Owner) notice to address security incidents related to social media use by staff. A recent serious incident involving poor practice and policy breaches led the First Minister to request an urgent review of social media use. The notice requires that:
+
+1. All use of Welsh Government social media accounts must only be done from Welsh Government-owned devices, not personal devices.
+2. No staff member can change their registered email address on a Welsh Government social media account to a personal one.
+3. All Welsh Government social media passwords shared with third parties must be changed immediately and third-party access revoked.
+4. Two-factor authentication must be activated for all Welsh Government social media accounts where possible.
+
+The notice also emphasizes that staff are responsible for not bringing the Welsh Government into disrepute through their personal social media activities. Staff who use personally owned social media accounts to promote their work as a Welsh Government employee are reminded that this activity is publicly viewable and may be incompatible with their role if it reflects poorly on the organization. The notice asks staff to notify their line managers if they are using personally owned social media accounts for work-related purposes, and plans to work with them to understand how these accounts are being used.
+
+
+The text is guidance from the Welsh Government on staff's use of personal social media accounts. It emphasizes the importance of securing personal accounts, particularly if they are used for work-related purposes or contain information that could compromise national security.
+
+To comply with data protection and security requirements, staff are advised to remove anything that suggests they work for the Welsh Government from their personal social media accounts. Failure to do so may result in disciplinary action being taken.
+
+The guidance specifically addresses:
+
+1. LinkedIn: Staff are encouraged to use LinkedIn to aid professional development, but must ensure they meet their responsibilities within the Civil Service Code and avoid sharing sensitive information.
+2. WhatsApp: The use of WhatsApp for Welsh Government business is not permitted due to data protection concerns.
+3. Social media security: Staff are advised to take measures to secure their personal social media accounts, including enabling two-factor authentication (e.g., password and fingerprint) to reduce the risk of account compromise.
+4. Digital footprint: The guidance highlights the importance of being aware of one's digital footprint, even if they do not use social media. It recommends staff read a guide published by the Centre for Protection of National Infrastructure.
+
+Staff are reminded that their personal social media accounts can be used as an entry point to access Welsh Government information and must take steps to secure them accordingly.
+
+
+Here's a summary of the text:
+
+A Welsh Government employee (Chris) was encouraged to promote their work on Twitter using a personal email address instead of the government-issued phone. Despite this, Chris' Twitter account liked offensive material, which sparked media interest and concerns from colleagues and key stakeholders. The employee realized that the incident could damage their reputation and role in the government. An investigation ensued, and evidence was found suggesting that Chris' Twitter account had been hacked, rather than them intentionally liking undesirable content. As a result, there was no HR case to answer against Chris, as they were not at fault. The situation highlights the importance of two-factor authentication (2FA) to prevent unauthorized access to social media accounts. The Welsh Government uses 2FA on its laptops, and many service providers also support it.
+
+
+The text discusses the importance of using two-factor authentication (2FA) for online accounts and provides information on how to set it up. It notes that while some providers support 2FA, not all insist on its use. The recommended approach is to use an authenticator app, such as Microsoft or Google's, rather than relying on text messages (SMS). The text also provides a list of common providers that support 2FA, including Google, Twitter, Facebook, Instagram, LinkedIn, and Amazon. In the event of account hacking, the text advises immediately reporting the incident to the provider and providing instructions on how to do so using search terms such as "how to report a hacked [provider name] account".
+

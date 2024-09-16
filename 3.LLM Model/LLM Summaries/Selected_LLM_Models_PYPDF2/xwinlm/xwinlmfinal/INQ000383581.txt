@@ -1,0 +1,36 @@
+Title: INQ000383581 - Minutes of Precautionary SAGE Meeting on Wuhan Coronavirus (WN-CoV) regarding situation update, current understanding of WN-CoV, NERVTAG conclusions, transport-related issues, UK health readiness and planning and HMG response, dated 23/01/2020.
+
+
+Summary of the text:
+
+The text discusses a Precautionary SAGE meeting held on January 22nd, 2020, to address the Wuhan Coronavirus (WN-CoV) outbreak. The meeting was held at 10 Victoria St, London SW1H ONN. Officials provided an update on current cases, deaths, and geographic spread. China has revised its case definitions, making comparisons difficult. Diagnostic testing capabilities in Wuhan are overwhelmed, leading to significant uncertainty around the data. WHO has received some environmental sampling from Wuhan, which may provide insights into the zoonotic reservoir.
+
+Following the meeting, authorities in Wuhan announced the suspension of public transport, including outbound trains and flights, starting at 0200 GMT on January 23rd. The current understanding of WN-CoV includes:
+
+1. Evidence of person-to-person transmission with no clear data on its sustainability.
+2. An unclear incubation period between 5 and 10 days, with a sensible outer limit of 14 days after contact.
+3. A high probability that the reproductive number is currently above 1.
+4. A lower-than-for-SARS mortality rate, but without reliable quantification.
+5. Insufficient information on the genetic strain to comment on WN-CoV's origin.
+6. No evidence that individuals are infectious prior to showing symptoms.
+7. Limited evidence suggesting increased infectiousness when symptoms are more severe but with no clear data.
+8. Very limited genetic diversity in WN-CoV based on available sequences.
+
+NERVTAG and SAGE have advised against port of entry screening, arguing that the current understanding of the epidemiology does not support it. They recommend public health information efforts via leaflets, posters, and broadcast messengers to passengers instead. If a simple, specific, and rapid test becomes available, SAGE might reconsider its position on port screening.
+
+The European Centre for Disease Prevention and Control (ECDC) has published "Risk assessment guidelines for infectious diseases transmitted on aircraft (RAGIDA) - Middle East Respiratory Syndrome Coronavirus (MERS-CoV)". They advise using MERS guidelines for the current outbreak, acknowledging the limitations of its evidence base.
+
+The UK currently has good centralized diagnostic capacity for WN-CoV and is days away from a specific test that will be scalable across the country in weeks. However, the sensitivity of the test is currently unknown. The text concludes with recommendations for transport-related issues and UK health readiness and planning.
+
+
+The text below provides a summary of the discussions and actions taken during a meeting related to the ongoing outbreak of the novel coronavirus (WN-CoV) in Wuhan, China, which took place within the UK Department of Health and Social Care (DHSC), Public Health England (PHE), and the Scientific Advisory Group for Emergencies (SAGE). The meeting was held on January 24, 2020.
+
+1. Status of the outbreak: Cases have been rising across China, with a total of 45 confirmed cases outside of Wuhan as of January 23. The sensitivity of diagnostic tests for WN-CoV is not known, and there are conflicting reports on test sensitivity from upper respiratory tract sampling.
+2. Testing individuals: DHSC is developing advice for UK healthcare workers on testing potentially infected individuals. PHE criteria include those with symptoms or signs of WN-CoV, as well as a history of travel to or living in Wuhan within the 14 days prior to symptom onset, including those who accessed Wuhan healthcare facilities.
+3. Planning for isolation and contact follow up: DHSC and PHE are preparing plans for isolating potentially infected individuals and following up with their contacts. The Chief Medical Officer (CMO) will share the latest iteration of the PHE isolation plan with some SAGE participants, particularly behavioral scientists, to review its proportionality and offer advice on how to communicate uncertainty effectively.
+4. NHS response: CMO/DHSC and PHE should consider how NHS primary care facilities would respond to an increase in cases and potential cases.
+5. Travel advice: The UK Foreign and Commonwealth Office (FCO)should work with DHSC to ensure consistent messaging on travel advice related to Wuhan, as the Chinese New Year approaches.
+6. HMG response triggers: As of now, there has been no geographical spread unconnected to Wuhan. However, if there is sustained human-to-human transmission beyond China or a severe confirmed case in the UK, HMG should review its response.
+7. SAGE Reconvene: SAGE participants cannot say at this stage whether they would need to reconvene.
+8. Actions summary: Improve communication on uncertainty, enhance NHS preparedness, and maintain consistent travel advice.
+

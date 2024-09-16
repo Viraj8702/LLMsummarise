@@ -1,0 +1,95 @@
+Title: INQ000396684 - Guidance from the Cabinet Office / The National Archives titled Guidance on Private Office Records, dated 17/06/2009.
+
+Summary of Guidance on Private Office Records:
+
+This guidance document outlines the management of records in Ministers', Permanent Secretaries' and other senior public servants' offices. It updates previous versions issued in April 2001 and June 2004, taking into account new technologies and evolving practices. The guidance is intended to supplement but not replace other related documents.
+
+Key points include:
+
+* Records should be created of all meetings/events with Ministers or officials present where decisions are made on departmental or government policy (Chapter 3).
+* The definition of Private Offices includes Ministers' and Permanent Secretaries' offices but can also apply to other senior public servants like Director Generals, the Chief Medical Officer, the Chief Nursing Officer, the Chief Scientific Adviser, Agency Chief Executives, and Regional Directors (Chapter 4).
+* Special Advisers may have separate record management requirements. If their records only mirror those existing elsewhere in the department, there is no need to keep them as part of the official record. All papers concerning party or parliamentary business should be managed separately by the Special Adviser (Chapter 5).
+* This guidance applies to all information created in any medium and includes new technologies like instant messaging, blackberries, and texts. The Public Records Act 1958, Freedom of Information Act 2000, Data Protection Act 1998, Environmental Information Regulations 2004, and Copyright, Designs, and Patents Act 1988 are some relevant statutes and regulations (Chapter 6).
+* Departments must agree with the Departmental Records Officer (DRO) and The National Archives (TNA) on the period for which records need to be kept and ensure this guidance is implemented within their departments.
+* Electronic systems may need to be developed and changed as departmental practices evolve, so the guidance will continue to be reviewed and updated (Chapter 7).
+
+
+This text provides guidance on managing information and records pertaining to private offices within government departments, specifically focusing on the Freedom of Information Act 2000 (FOIA), Data Protection Act 1998 (DPA), and Environmental Information Regulations 2004 (EIRs). It aims to ensure that records created or held by private offices can be accessed in response to information requests, while also emphasizing the importance of proper management practices.
+
+Key takeaways include:
+
+1. Adherence to the Code of Practice under Section 46 of FOIA, which provides guidance on desirable practice for public authorities in relation to information disclosure.
+2. Private offices should adopt records management policies and procedures that align with their department's practices, including accreditation regimes to ensure data integrity and availability.
+3. Information in private office records can be subject to access requests under FOIA, DPA, and EIRs. The guidance highlights the importance of maintaining accessible records to support transparency and accountability.
+4. Records management procedures aim to ensure that information is easily retrieved when required, reducing risks associated with litigation and ensuring accountability.
+5. The guidance covers various types of records, such as letters or minutes from external sources, submissions from policy areas, annotated originals or copies, documents related to a minister's area of responsibility, outgoing correspondence, exclusive private office records, Cabinet documents, meeting records, and instant messaging conversations.
+6. Separate guidance applies to constituency and party political records, as well as those pertaining to a minister's personal interests, which should be managed according to the minister's wishes.
+7. The Code of Practice emphasizes the importance of keeping records that reflect the course of a minister's day, including their interactions with policy areas and other relevant stakeholders.
+
+
+The summary of the provided text is as follows:
+
+This document provides guidance on the creation, maintenance, and retention of records related to UK government ministries. It outlines the occasions when records should be created, specifically for meetings or events involving ministers and/or officials where decisions are made or follow-up actions are required. Records should cover topics such as ministerial diaries, responses to policy areas, meetings with various parties, telephone conversations, instant messaging, and text discussions related to official business.
+
+The document also identifies situations when records do not need to be created, such as purely informal or social meetings, briefing sessions for specific events, confidential phone calls or meetings, party political meetings, and some cases where immediate action leads to the record itself.
+
+In addition, special categories of records like ministers' official diaries, formal meeting records with outside interest groups/lobbyists, Private Secretaries' notes, exclusively internal Private Office papers, declined invitations, and Ministers' and Private Secretaries' notebooks are discussed, along with guidance on how to manage these records.
+
+The document emphasizes that records should be created for key meetings and events where decisions or policy views are exchanged, but it also acknowledges the need for maintaining privacy and confidentiality in certain situations, such as party political discussions or strictly private conversations.
+
+
+Text Summary:
+The text outlines guidelines for managing private office records in UK government departments, with a focus on the Committee on Standards in Public Life's recommendations. It highlights the importance of maintaining records to ensure accountability and transparency while balancing the need for privacy and sensitivity.
+
+Key points include:
+
+1. Sensitive papers: Private Offices may hold sensitive non-mainstream internal papers that should be passed to the Departmental Record Officer (DRO) at a mutually agreed time, with some being kept in the Private Office until needed.
+2. Registered files: If registered files are not kept elsewhere, the Private Office may need to keep them for a specified period, after which they can be destroyed.
+3. Declined invitations: Declined invitations should be retained for an agreed period before destruction.
+4. Private Secretaries' notebooks and Ministers' notebooks: Both types of notebooks are not public records but must be destroyed after six months, with relevant information transferred to official records or ministerial correspondence.
+5. Copies (and collections) of outgoing correspondence relating to official business: Private Office copies should be destroyed at a time agreed with the DRO.
+6. Best Practice Models: The guidelines recommend one of three best practice models for managing private office records, depending on the department's needs and resources. Regardless of the chosen model, it is essential to maintain an adequate audit trail to demonstrate accountability.
+
+
+Summary of the text:
+
+This document discusses two models for managing records and correspondence in government departments, focusing on how information is stored and maintained. The recommended approach involves both Private Offices (POs) and policy areas retaining their own records while working together to ensure that all relevant information is captured and preserved. The alternative model relies solequently on policy areas to store and manage complete and accurate records without the involvement of POs.
+
+Key points include:
+
+1. Recommended approach: Both POs and policy areas should maintain their own records, with POs responsible for handling correspondence and policy areas accountable for storing and managing information. This model aims to balance risk management with efficient record-keeping to minimize the likelihood of major risks to ministers and senior officials.
+2. Rationale: The recommended approach prioritizes transparency, accountability, and evidence of decision-making processes. It ensures that essential information is easily accessible in case it's needed for future reference or audits.
+3. PO role: In the recommended model, POs are responsible for capturing and storing records in their departmental records system, while policy areas must maintain a full record for evidential and knowledge management purposes. Both parties should ensure proper storage and accessibility of all key records.
+4. Communication between POs and policy areas: Under the recommended approach, when a minister examines a submission but makes no comment, the PO will need to add a note (electronically or in paper) to record that it has been "seen by the Minister." Private Offices must determine, in agreement with the DRO (Director of Records Office), whether original annotated submissions should be retained in the PO or returned to the policy area.
+5. Action flow and responses: When a submission is received, both electronic and paper versions need to be kept as records by the PO, along with any subsequent action or comments from the minister. The Private Secretary must transmit an electronically annotated submission (or copy of the annotated paper submission) to the policy area, recording the response and necessary follow-up actions.
+6. Record transfer: Records not captured in the departmental records system should be passed into the keeping of the DRO upon a change of administration or upon request from the DRO. The DRO will handle any weeding or disposal of records.
+7. Model 2 (Policy areas-reliant record management): In this alternative model, policy areas are solely responsible for maintaining complete and accurate records, including both electronic and paper elements. POs do not need to concern themselves with capturing records into the departmental records system; instead, they delegate this responsibility to the relevant policy areas.
+
+Both models have their pros and cons, but the recommended approach is considered more effective for managing records and correspondence in government departments due to its focus on transparency, accountability, and risk management.
+
+
+Summary of the provided text:
+This document outlines records management guidelines for Private Offices, which are responsible for maintaining and disposing of records related to their department's policies. These guidelines apply to both paper-based files and electronic documents. The Records Management Team (RMT) works with the Departmental Retention and Disposal Officer (DRO) to ensure proper handling of records throughout their lifecycle, from creation to final disposal.
+
+The document outlines various types of records, such as notebooks, engagement diaries, files of correspondence, outgoing material, and more. It then provides specific guidance on how long to retain each type of record and when to pass them on to the DRO for disposal or preservation. For example:
+
+* Minister's notebooks and paper volumes should be passed to the DRO at the end of their tenure in office.
+* Private secretaries' notebooks, engagement diaries, and close ERM folders should be passed to the DRO at the end of each year or other agreed interval, and again at the end of the Minister's tenure in office.
+* Files of correspondence (paper) and electronic versions should be kept for a specific period before being passed to the DRO for permanent preservation or destruction.
+* Outgoing material (paper) such as invitations with either declined or accepted responses, along with official outgoing mail, should have their retention periods agreed upon with the DRO.
+
+The document emphasizes the need for Private Offices to ensure that the record management procedures in their department and other departments where there is cross-departmental working are sufficiently high. It underscores the potential for major reputational damage if proper records management practices are not followed, highlighting the importance of responsible policy areas addressing this requirement. Finally, it states that guidance can be obtained from TNA (The National Archives) if additional advice is needed, and that the document will be updated regularly.
+
+
+This text outlines a comprehensive record-keeping strategy for a government organization, focusing on various types of documents and digital media that need to be preserved. The summary is as follows:
+
+1. Events: The organizational structure details how different events' records should be managed. This includes media such as photos, videos, meeting minutes, briefings, wikis, blogs, social networking posts, and instant messages. Records are stored in multiple formats (paper, electronic versions held on various systems) and can originate from both official and unofficial government sites, as well as internal communications and updates.
+2. Document Retention: There is a detailed outline of which documents need to be preserved and for how long. This includes ministerial briefings, paper files, electronic versions of shared drives, personal drives, email, USB sticks, and palm-tops. Electronic records from official/unofficial sites should be passed to the Departmental Records Officer (DRO) at regular intervals. Draft content for published material can also be found in files of correspondence.
+3. Meetings: Guidelines are provided for managing records related to formal meetings, outside interest groups/lobbyists, and non-fixed information exchange methods like phone calls, live web feeds, and web chats with ministers. Records must be kept in a registered file when discussions include significant phone calls, and retention periods should be agreed upon with the DRO.
+4. Private Office - Model 1 Handy Hints: This section outlines the specific record-keeping requirements for Model 1 of the Private Office, which involves ensuring that records are stored in the departmental records system. Records kept outside this system must be passed to the DRO at an agreed time.
+
+The overall strategy emphasizes the importance of preserving various types of documents and digital media to maintain a comprehensive record of events, meetings, and other aspects of government operations. This will enable transparency, accountability, and compliance with regulations and policies.
+
+
+Summary: The text discusses record-keeping practices for private offices within government departments, focusing on ensuring accountability in policy decisions. It emphasizes the importance of maintaining accurate records of correspondence, submissions, and meetings with external parties or other departmental staff. Records should be stored in the department's records system, and copies retained for administrative convenience must be sent to the Departmental Records Officer (DRO) or destroyed after a specified period agreed with the DRO. Material coming into private offices from outside the department and being sent out from those offices also need to be managed according to specific guidelines. The text highlights the need for thorough records management to demonstrate accountability in policy decision-making processes.
+

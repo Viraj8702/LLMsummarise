@@ -1,0 +1,25 @@
+Title: INQ000395589 - Email chain between Gill Richardson (Professional Advisor to the Chief Medical Officer, Welsh Government) and Welsh Government and Public Health Wales colleagues, regarding a DHSC/PHE/DA call, dated between 14/04/2020 and 15/04/2020.
+
+The text presents a summary of communication between multiple parties discussing various aspects related to the COVID-19 pandemic in Wales and England. Topics include the need for information on healthcare worker (HCW) deaths, data sharing policies, and reporting practices in both countries. The conversation also highlights issues with supply lines for personal protective equipment like gowns and body bags as well as oxygen shortages in English mental health trusts and hospitals. They mention a call between various individuals where they discussed the death of a patient at the Nightingale facility in London and shared updated numbers for COVID-19 related deaths across England, Scotland, Northern Ireland, and Wales. DHSC/PHE seeks to understand how Devolved Administrations (DAs) manage information about HCW deaths.
+
+
+The text details various updates related to the ongoing COVID-19 crisis. There is a shortage of body bags, but efforts are being made to increase supply, as 8000 were distributed today. In some English hospitals, such as mental health trusts, oxygen issues arise due to not having typical oxygen supplies, relying instead on bottled cylinders. Work is being done to ensure continuous supply in these institutions.
+
+Regarding social care, an action plan was to be published and launched by the Secretary of State at a press conference. The workforce remains a significant issue, which is addressed in the action plan. The launch of this social care plan coincides with the Secretary of State's appearance at a 5 pm press event. General communications focus on differences between data streams, ongoing PPE support, especially in social care sectors, and drive-through testing sites. Additionally, John Bell's antibody test report from Oxford University was set to be released on that day.
+
+
+The text discusses data collection efforts by NHSE, PHE, DHSC, and collaboration with colleagues from Devolved Administrations (DAs). Wales raised concerns regarding accidental identification of individuals in small countries. They suggested using "NHS staff" as a bracket for all identified healthcare workers rather than further subcategorization. Other DAs are also reviewing the data.
+
+The Adult Social Care Update mentions an action plan being prepared by DHSC, set to be published the following day, focusing on improving infection control, supporting the workforce, and aiding vulnerable groups such as expanding testing and discharges, recruitment, training, and caregiver support. 
+
+Care home deaths data from ONS revealed a concerning increase. In the 11 days since the reported figure of 217 care home deaths last week (with a lag time of 11 days), there has been an approximate doubling in the number of care homes registering care home outbreaks, with about 2100 currently registered—approximately 14% of all English care homes. The testing numbers have significantly decreased, likely due to Easter Sunday, and efforts are being made to increase demand to fill available tests.
+
+Problems related to antibody testing persist with no lateral flow test yet passing requirements; now focus on [LISA] testing and population sampling options. A good response from industries that offered help in workforce recruitment has been received, although some areas are not taking up returning professionals as rapidly as anticipated. Support is also being directed towards the adult social care sector. Finally, there were no updates regarding international efforts mentioned during this discussion.
+
+
+The text outlines several ongoing issues and developments. There is concern mentioned, leading to a recruitment drive for a specific service within the next 48 hours. Regarding international communication, there seems to be no one available on the main independent international line, as this team has been temporarily stood down. Additionally, there are communication gaps in other areas.
+
+The Public Health England (PHE) is currently updating its guidance and splitting it into two sections - one for funeral attendance, which will be published by the end of the week, while the remainder will follow next week. There's also a mention of supply shortages within the healthcare system. This includes insufficient intensive care unit drugs, for which discussions are underway with Chief Medical Officers (CMO). The shortage of Atracurium, a drug used in anesthesia, is also highlighted, with only four days of supplies currently available. There's an existing alternative, rocuronium, but it too faces limited availability.
+
+Moreover, there appears to be no clear contingency plan for addressing this shortage situation. An ALERT (an acronym implying a general notification) has been sent out on the same day concerning these supply issues. The text includes a signature from Dr. Anna Schwappach, Speciality Registrar in Public Health at Public Health Wales.
+

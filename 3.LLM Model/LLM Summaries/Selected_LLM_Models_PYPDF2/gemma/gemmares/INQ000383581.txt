@@ -1,0 +1,49 @@
+## Summary:
+
+**Situation Update:**
+
+- Data from Wuhan is unreliable due to revised case definitions and overwhelmed testing facilities.
+- Evidence of person-to-person transmission is confirmed, but sustainability is unclear.
+- Estimated mortality rate is lower than SARS, but still unknown.
+
+**Recommendations:**
+
+- Port of entry screening is not advised.
+- Screening questionnaires, pilot declarations, and Wuhan confirmation are not necessary.
+- Public health information campaigns are recommended.
+
+**Transport-related Issues:**
+
+- ECDC guidelines for MERS apply to the current outbreak, but limitations exist.
+
+**UK Preparedness:**
+
+- Centralized diagnostic capacity is available.
+- Specific test is forthcoming, scalable nationwide.
+- Test sensitivity is unknown.
+
+
+## Summary:
+
+**Current Situation:**
+
+* The COVID-19 outbreak in Wuhan, China has spread to the UK.
+* Diagnostic tests for the virus are available but their sensitivity is still unknown.
+* Plans are being developed for isolating potentially infected individuals and tracing their contacts.
+
+**Actions:**
+
+* The CMO is tasked with gathering feedback from behavioural scientists on the isolation plan and communicating uncertainty.
+* DHSC and PHE are examining how primary care facilities can handle a potential surge in cases.
+* The Foreign Office is working to ensure consistent messaging on travel advisories related to Wuhan.
+
+**Triggers for escalation:**
+
+* Infection of healthcare workers or widespread human-to-human transmission outside China.
+* A severe confirmed case of COVID-19 in the UK.
+
+**Next Steps:**
+
+* HMG will review its response if any of the triggers mentioned above occur.
+* The need for further SAGE meetings will be reevaluated as the situation unfolds.
+

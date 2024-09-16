@@ -1,0 +1,55 @@
+Title: INQ000395589 - Email chain between Gill Richardson (Professional Advisor to the Chief Medical Officer, Welsh Government) and Welsh Government and Public Health Wales colleagues, regarding a DHSC/PHE/DA call, dated between 14/04/2020 and 15/04/2020.
+
+The text appears to be an email or report from Dr. Gillian Richardson, a professional advisor to the Chief Medical Officer of Wales, to colleagues on various matters related to healthcare and public health.
+
+Key points from the email:
+
+1. The need for data on Healthcare Worker (HCW) deaths in Wales is acknowledged.
+2. It is noted that Public Health Wales (PHW) does not report on NHS staff deaths in Wales, but they do provide overall death figures by local authority area.
+3. The email discusses a meeting with a Minister where it was agreed to maintain NHS staff death reporting policies in Wales.
+4. There are mentions of oxygen issues in English hospitals and concerns about the supply of personal protective equipment (PPE) such as gowns and body bags.
+5. The email also contains brief updates on global COVID-19 statistics, including death tolls in England, Northern Ireland, Scotland, Wales, and the UK.
+
+The tone of the email suggests that it is an informal report or update from Dr. Richardson to colleagues, and it includes a range of topics related to healthcare, public health, and COVID-19.
+
+
+The email is from Dr. Anna Schwappach, a specialty registrar in public health for Public Health Wales. The main points are:
+
+1. UK Death Data: The number of deaths due to COVID-19 has increased significantly, with 11,005 recorded in England, 575 in Scotland, 403 in Wales, and 6 in Northern Ireland.
+2. Body Bag Shortage: A shortage is being addressed by distributing approximately 8,000 body bags today.
+3. Oxygen Issues: Some mental health trusts in England are experiencing oxygen supply issues and are relying on bottled cylinders to ensure continuity of supply.
+4. Social Care Action Plan: An action plan for social care will be published and launched by the Secretary of State at a press conference this afternoon.
+5. Workforce Gap: The workforce remains a significant problem, which is part of the action plan.
+6. Comms (Communications): General communications on differences in data streams, PPE (Personal Protective Equipment) especially in social care, and ongoing comms on testing (including drive-through sites).
+7. John Bell's Report: A report on antibody testing by Oxford University's John Bell is to be published today.
+
+The email also mentions that the ONS (Office for National Statistics) and NHSE (National Health Service England) are working together to address the difference in data streams, with some delays attributed to community deaths not being reported or tested as COVID-19 cases.
+
+
+The text appears to be a summary of a meeting or update from the UK's National Health Service (NHS), Public Health England (PHE), and Department of Health and Social Care (DHSC). The main topics discussed are:
+
+1. Data collection/release: Concerns raised by Wales regarding accidental identification of people in small countries, leading to suggestions for using NHS staff as a blanket term instead of sub-categorizing further.
+2. Adult Social Care Update:
+	* An action plan is being prepared and will be published tomorrow, focusing on improving infection control, supporting the workforce, and supporting vulnerable groups.
+	* Care home deaths from ONS data showed 217 care home deaths in the past week, with an approximate doubling of care homes registering outbreaks since then (14% of all care homes in England).
+3. Testing:
+	* Numbers are down due to Easter Sunday, but there is hope that increased capacity will lead to more staff being tested.
+	* Antibody testing is experiencing considerable problems, and LISA testing is being considered as an alternative.
+4. Workforce:
+	* Numbers of professionals interested in returning to work are increasing, as well as students getting ready for clinical placements.
+	* Encouragement is needed for returned staff to take up positions in areas that have not yet experienced increased demand for services.
+5. International: No update provided.
+
+The overall tone suggests a sense of caution and careful consideration when reviewing data and implementing changes, particularly in the adult social care sector, which is under significant pressure due to staff absences and scaled-back support services.
+
+
+The email appears to be an internal communication from Public Health Wales to their staff, discussing various issues related to the COVID-19 pandemic. The key points mentioned are:
+
+* A recruitment drive is being launched for a new service in the next 48 hours.
+* The main international team has been stood down due to "concerning" issues.
+* Death and funeral guidance from Public Health England (PHE) will be published in two parts: one part on attendance at funerals by the end of the week, and the rest to be published next week.
+* There is a shortage of ICU drugs, specifically atracurium, which has only 4 days' supply left. An alternative, rocuronium, is also in short supply due to a European supply issue.
+* An alert will be sent out today regarding the drug shortages and no clear contingency plan is currently available.
+
+The email is signed by Dr. Anna Schwappach, Speciality Registrar in Public Health for Public Health Wales.
+

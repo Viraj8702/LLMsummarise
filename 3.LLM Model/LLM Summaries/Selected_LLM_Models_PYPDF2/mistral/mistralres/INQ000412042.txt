@@ -1,0 +1,33 @@
+ The text provides data on the impact of COVID-19 in Wales from April 2020 to April 2022. Here are some key points:
+
+1. Daily deaths involving COVID-19 peaked twice, once in April–May 2020 and again in October 2020–January 2021, with the second peak being much higher. By April 2022, daily deaths had dropped to zero. (Data source: UKHSA Covid dashboard)
+
+2. Excess weekly deaths, which represent the number of deaths above the five-year average, were particularly high during the two peaks, reaching as much as 3,187 in Wave 2 and 2,251 in Wave 1. The percentage excess, compared to usual levels, was 21% and 32%, respectively. (Data source: ONS Monthly mortality analysis)
+
+3. Weekly COVID-19 patients in hospital peaked in April 2020 and again in October–January 2020-2021. By April 2022, the number of patients had dropped significantly. (Data source: UKHSA Covid dashboard)
+
+4. The highest excess deaths occurred at home, followed by hospitals, with other places like hospices and care homes having lower increases compared to usual levels. (Data source: I N Q000396876, Table 10)
+
+5. Age-standardized weekly mortality rates were significantly higher than the 2015-19 average during peak periods but returned to normal afterwards. (Data source: ONS, age standardized mortality rates)
+
+6. The estimated percentage of the population testing positive for COVID-19 also increased significantly in waves from May 2020 to February 2021, reaching as high as 95%, and then decreased thereafter. (Data source: ONS Covid Infection Survey)
+
+
+ The text provides a summary of various data sources related to the COVID-19 pandemic in the UK, accessed on February 6, 2024. Here are the key points:
+
+1. Daily deaths due to Covid-19: The data comes from the UK Health Security Agency (UKHSA) Covid dashboard by date of death.
+
+2. Excess Deaths: These are analyzed by the Office for National Statistics (ONS) in their monthly mortality analysis, with specific focus on July 2023.
+
+3. Covid-19 patients in hospital: Data is available from the UKHSA Covid dashboard.
+
+4. New cases: The data can be found on the UKHSA Covid dashboard.
+
+5. Infection survey: Data related to this are available on the UKHSA Covid dashboard, as well as on the ONS Covid-19 Infection Survey (2023 edition, 13th dataset).
+
+6. Age Specific Deaths and Weekly mortality rates: These can be found on the IN0000396876 dataset by ONS.
+
+7. Comparison of all cause mortality (relative age-standardized mortality) between European countries and regions: This data is available on the ONS's comparison of all-cause mortality between European countries and regions. It provides charts showing 5-week moving averages as well as cumulative mortality rates.
+
+8. Cumulative mortality for all cause mortality (relative to European countries and regions): This data is also available on the ONS's comparison of all-cause mortality between European countries and regions. It shows standardized mortality rates for cumulative mortality.
+

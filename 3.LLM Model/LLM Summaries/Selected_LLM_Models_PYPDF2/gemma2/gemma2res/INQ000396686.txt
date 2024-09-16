@@ -1,0 +1,66 @@
+This SIRO Notice from the Welsh Government addresses a recent social media security incident that resulted in the First Minister requesting an urgent review of government social media practices.  
+
+**Key takeaways:**
+
+* **Stricter policies on using Welsh Government social media:** All use must be from Welsh Government devices, registered email addresses cannot be changed to personal ones, passwords shared with third parties must be changed, and two-factor authentication must be activated where possible.
+* **Guidance on personally owned social media accounts:** While staff are encouraged to share Welsh Government content on personal accounts, they must be mindful of the potential impact on the government's reputation. Any activity that could bring disrepute is unacceptable. Line managers are prohibited from pressuring staff to use their personal accounts for work-related purposes.
+* **Call for transparency:** All staff using personally owned social media accounts to promote their role or Welsh Government business must contact their superiors by February 28th, 2020, so the government can assess and guide their usage.
+
+
+The notice emphasizes that all social media activity, whether on official or personal accounts, reflects on the Welsh Government's image and must adhere to strict policies to maintain professionalism and security.  
+
+
+
+This document outlines security guidelines for Welsh Government employees regarding personal social media usage. 
+
+**Key points:**
+
+* **Transparency:** Employees must disclose their personal social media accounts to ensure they aren't misrepresented as official Welsh Government accounts. Accounts shouldn't imply working for the government unless officially sanctioned. 
+* **Risk awareness:** High-profile roles or those dealing with sensitive information carry a higher risk of targeting and scrutiny.
+* **LinkedIn guidelines:** While using LinkedIn for professional development is acceptable, ensure your activity aligns with the Civil Service Code and be mindful of sharing personally identifiable information. Remember personal data could be reproduced by LinkedIn.
+
+* **WhatsApp Restriction:** Using personal WhatsApp accounts for Welsh Government business is prohibited due to data protection concerns. 
+* **Social Media Security:** Strengthen personal social media accounts with two-factor authentication to minimize security risks. 
+* **Digital Footprint:** Everyone has a digital footprint, and social media use can significantly impact it. Consider the broader implications of your online activity.
+
+
+The document emphasizes the importance of responsible social media usage to protect both individuals and the Welsh Government from potential harm. It stresses transparency, risk awareness, adherence to policy guidelines, and taking proactive security measures.  
+
+
+
+This text details two media incidents involving Welsh Government employees' social media use and explores lessons learned for improved security practices.
+
+**Incident 1: Chris's Twitter Account**
+
+- A staff member named Chris was encouraged by their line manager to use their personal Twitter account for promoting their work at the Welsh Government.
+- Chris's account accidentally or deliberately liked offensive material, sparking media attention and formal complaints from stakeholders.
+- The investigation revealed that Chris's account had been hacked, exonerating them from any wrongdoing.  However, Chris faced a potential career-damaging situation if they hadn't been proven innocent.
+
+**Incident 2: UK Government in Wales Twitter Account Hacked**
+
+- This incident involved the Welsh office of the UK Government where their Twitter account was hacked and used to re-tweet pornographic content.
+- The text suggests that implementing two-factor authentication (2FA) and restricting access to organizational devices could have prevented this incident.
+
+ **Key Takeaways & Recommendations**
+
+- Encourage employees to use secure, work-provided accounts for official communication and promotion.
+- Implement 2FA across all relevant social media accounts.
+- Train staff on safe online practices and the potential consequences of inappropriate social media activity.  
+
+
+
+Overall, the text highlights the need for robust security protocols and awareness training to mitigate risks associated with social media use in the workplace.  It emphasizes that while personal space is important, official duties should be handled cautiously and securely.
+
+
+
+This text provides information about Two-Factor Authentication (2FA) and how to implement it for online security.  Here are the key takeaways:
+
+* **2FA Importance:** While many platforms support 2FA, not all enforce its use. 
+* **Secure Authentication Methods:** Apps like Microsoft Authenticator or Google Authenticator offer stronger security compared to text messages (SMS).
+* **Checking Provider Support:** Use a website to see if your email, banking, social media accounts, etc., support 2FA.  The text suggests searching for the provider name and clicking on the book icon for instructions. It also lists some common providers' pages.
+* **Actions After a Hack:** If your account is compromised, report it immediately to the provider using search terms like "how to report a hacked [provider] account." 
+
+
+In essence, the text recommends enabling 2FA whenever possible, opting for authenticator apps over SMS, and knowing how to handle account breaches.  
+
+

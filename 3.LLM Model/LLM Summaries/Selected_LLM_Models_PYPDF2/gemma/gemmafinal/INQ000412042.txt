@@ -1,0 +1,62 @@
+Title: INQ000412042 - Presentation from UK Covid-19 Inquiry, titled module 2B data and charts, dated between 01/01/2020 and 01/04/2022.
+
+## Summary:
+
+**Covid-19 in Wales:**
+
+* **Daily deaths:**
+    - Recent daily deaths with Covid-19 on the death certificate in Wales are around **20-40 per day**, significantly lower than the peak of 1400 in April 2022.
+    - There were **2,251 excess deaths** from Covid-19 in the week ending April 1st, 2023.
+* **Hospital admissions:**
+    - The number of Covid-19 patients in hospital has also declined, from a peak of **40,000** in April 2020 to around **1,500** currently.
+* **New cases:**
+    - New daily cases of Covid-19 have also decreased, with around **5,000-250,000** cases reported per week.
+* **Population testing positive:**
+    - The estimated percentage of the population testing positive for Covid-19 in May 2022 was **10%** in both Wales and England.
+* **Mortality:**
+    - Excess deaths from Covid-19 are still above usual levels in Wales, with a **30%** increase compared to the previous five-year average.
+
+**Additional Observations:**
+
+* The gradual decline in Covid-19 related deaths, hospital admissions, and case numbers suggests that the pandemic is receding in Wales.
+* Despite the decrease, excess deaths remain higher than usual, indicating that the effects of the pandemic may linger.
+* The estimated percentage of the population testing positive for Covid-19 remains low, suggesting that widespread immunity has been achieved.
+
+
+## Summary:
+
+The text provided contains several data sets concerning COVID-19 deaths and cases in England and Wales. It includes:
+
+**1. Excess Deaths:**
+
+- Data on daily deaths with COVID-19 from the death certificate by date of death.
+- Data on excess deaths compared to previous months by date.
+
+**2. COVID-19 in Hospitals:**
+
+- Data on new COVID-19 cases in hospitals.
+
+**3. Infection Surveys:**
+
+- Data from infection surveys conducted by ONS between June and November 2023.
+
+**4. Age-Specific Deaths:**
+
+- Detailed data on COVID-19 deaths by age group.
+
+**5. Weekly Mortality Rates:**
+
+- Weekly mortality rates due to COVID-19 compared to previous periods.
+
+**6. Comparative Mortality Rates:**
+
+- Comparison of all-cause mortality rates between England and Wales and other European countries.
+
+**Key Findings:**
+
+- Data on daily deaths with COVID-19 is available from the UKHSA covid dashboard.
+- Excess deaths due to COVID-19 have been recorded in England and Wales.
+- Data on COVID-19 infections in hospitals and the general population is available from various sources.
+- The text includes information on COVID-19 deaths and their distribution across age groups.
+- Mortality rates in England and Wales are compared to other European countries.
+

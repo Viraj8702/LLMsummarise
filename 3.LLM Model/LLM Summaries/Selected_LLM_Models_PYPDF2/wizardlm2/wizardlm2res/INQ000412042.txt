@@ -1,0 +1,39 @@
+ The text provides a detailed overview of the impact of Covid-19 on Wales from April 2020 to April 2022, based on data from various UK government sources such as the UK Health Security Agency (UKHSA) and the Office for National Statistics (ONS). Here's a summary:
+
+1. **Covid-19 Daily Deaths**: The number of daily deaths involving Covid-19 in Wales peaked at 1,400 in April 2022 and had dropped to nearly zero by early 2023. This data is from the UKHSA Covid dashboard.
+
+2. **Excess Weekly Deaths**: There were significant excess deaths in Wales during the pandemic, with weekly numbers peaking at around 600 in January 2021 and April 2022. These figures are above the five-year average (2015-19) and are reported by the ONS.
+
+3. **Hospitalizations and Place of Death**: The majority of deaths involving Covid-19 occurred in hospitals, with a smaller percentage occurring in care homes, hospices, home settings, and other communal establishments. There was a notable increase of around 30% in deaths at home and a decrease of over 20% in hospital settings compared to usual levels from March 2020 to June 2022. These changes are reported in the ONS's Inquiry into Mortality and Morbidity (INQ).
+
+4. **Cumulative Mortality**: For the years 2020-2022, there was a significant cumulative increase in mortality rates compared to the 2015-19 average, with the highest rates observed in February of each year.
+
+5. **Estimated Covid-19 Infection Rates**: The ONS Covid Infection Survey shows that the percentage of the population testing positive for Covid-19 peaked at around 95% in May 2020 and declined over time, reaching near zero by early 2023. The survey provides credible intervals for its estimates.
+
+6. **Weekly Mortality Rates**: The ONS reports that mortality rates were significantly higher than the 2015-19 average during the pandemic, particularly in January and February of each year from 2020 to 2022.
+
+7. **Trends Over Time**: The data shows clear trends over time with peaks and troughs corresponding to different waves of the pandemic and the introduction and easing of public health measures and vaccination programs.
+
+The text concludes by citing specific references for the data, including INQ000396876 for mortality details and the ONS Covid Infection Survey for infection rates. This summary provides a snapshot of the Covid-19 pandemic's impact on Wales's mortality statistics, hospitalizations, and infection rates over a two-year period.
+
+
+The text you've provided outlines a summary of various data sources related to the COVID-19 pandemic in the UK, as of the week ending on April 6, 2024. The key points and data sources are as follows:
+
+1. **Daily Deaths with Covid-19**: Data from the UK Health Security Agency (UKHSA) Covid dashboard indicates the number of daily deaths attributed to COVID-19 on the death certificate by date of death for England.
+
+2. **Excess Deaths**: The Office for National Statistics (ONS) provides a monthly mortality analysis (July 2023 edition, sheet 16b) that includes data on excess deaths by date and overall.
+
+3. **Covid-19 in Hospital**: UKHSA's Covid dashboard provides figures for the number of COVID-19 hospital admissions (es New).
+
+4. **New Cases**: Data from UKHSA's Covid dashboard shows new cases, as well as data from the ONS Covid-19 Infection Survey (2023 edition, dataset 13).
+
+5. **Infection Survey**: The ONS Covid-19 Infection Survey provides age-specific data on infections, including weekly mortality rates.
+
+6. **Age Specific Deaths**: IN0000396876, Table 2 from the ONS dataset provides details on age-specific death rates (N/A for Rates by Age Group).
+
+7. **Excess Deaths by Place**: IN0000396876, Table 10 from the ONS dataset offers information on excess deaths by place (N/A for Weekly mortality rates).
+
+8. **Comparison of All-Cause Mortality**: The ONS compares all-cause mortality between European countries and regions, providing data on standardized mortality rates (2023, Sheet 7) with a chart showing a 5-week moving average of the standardized rates and cumulative mortality (2023, Sheet 14) with data on standardized mortality rates.
+
+This summary provides a comprehensive overview of the impact of COVID-19 on mortality in the UK, including excess deaths, hospital admissions, new cases, and comparisons with other European regions. The data sources mentioned are authoritative and used for understanding the dynamics and effects of the pandemic on public health.
+

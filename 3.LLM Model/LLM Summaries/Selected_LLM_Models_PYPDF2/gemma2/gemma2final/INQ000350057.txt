@@ -1,0 +1,160 @@
+Title: INQ000350057 - Paper from Welsh Government Technical Advisory Group titled statement regarding NPIs in the pre-christmas period, dated 02/12/2020.
+
+This Technical Advisory Group (TAG) statement explains the scientific reasoning behind implementing Non-Pharmaceutical Interventions (NPIs) in Wales before Christmas 2020.  
+
+**Key Points:**
+
+* **Virus Transmission:** The virus spreads through contact between infected and uninfected individuals, with some environments and behaviors facilitating transmission more than others.
+* **Effectiveness of NPIs:** Social distancing, quarantining, and self-isolation are effective in reducing transmission when practiced correctly. Pre-isolating for 10 days before mixing can significantly lower the risk of infecting others.
+* **Protecting Vulnerable Individuals:** It is crucial to avoid exposing older family members to potential infection, regardless of intentions.  
+* **Household Mixing Risks:** Evidence shows increased household mixing and indoor gatherings pose a substantial risk of transmission, leading to hospitalizations and deaths. Limiting the number of households and individuals who mix reduces this risk.
+* **Model Projections:** Policy modeling indicates that maintaining lower Rt numbers (the reproduction number indicating virus spread) by reducing social mixing would significantly decrease expected deaths and pressure on the NHS. Introducing tougher restrictions similar to Tier 3 before Christmas could also limit hospital and ICU bed requirements and subsequent deaths.
+* **Current Situation:** Wales is experiencing a resurgence in cases, particularly in Blaenau Gwent and Torfaen. While test positivity appears to have leveled off slightly, case numbers and hospital admissions are approaching levels seen before the firebreak lockdown.
+
+**Overall Conclusion:**  The TAG emphasizes the need for continued caution and adherence to NPIs to mitigate the spread of COVID-19 in Wales during the pre-Christmas period.
+
+
+
+
+
+Wales is currently experiencing a high number of COVID-19 cases, exceeding 200 per 100,000 population. This surge is particularly noticeable in older adults, driven by care home outbreaks and increased intergenerational mixing.
+
+The reproduction rate (Rt) suggests potential increases in hospital admissions and deaths in the coming weeks. Excess death rates in Wales are currently higher than England and Scotland. Hospital capacity is also being strained.
+
+The text emphasizes that upcoming winter celebrations like Christmas will likely exacerbate the situation due to increased mingling between generations, increasing transmission opportunities.
+
+While new rapid testing technologies offer promise for faster results, they may not be as accurate as traditional RT-PCR tests. The text stresses that social distancing and quarantining remain crucial in reducing transmission risks.
+
+
+
+Overall, the situation in Wales is concerning with high infection rates, elevated death tolls, and potential strain on healthcare resources. The upcoming Christmas period presents further challenges due to increased mixing opportunities. 
+
+
+
+This text focuses on reducing the risk of COVID-19 transmission during the Christmas period, particularly emphasizing family gatherings and indoor social settings.  
+
+**Key takeaways:**
+
+* **Pre-isolation:** Spending 10 days before Christmas without mixing with anyone outside your household can significantly lower the risk of infection. This is especially important for those visiting older relatives or working in high-risk occupations.
+* **Postponing celebrations:** Avoiding large gatherings over Christmas and opting for remote celebrations or postponing until after widespread vaccination is strongly advised. 
+* **Minimizing risk factors:** If meeting in person, keep visits short, practice good hand hygiene, ensure proper ventilation, and avoid crowded or poorly ventilated spaces.  Alcohol consumption can impair judgment and make social distancing more difficult.
+* **Transmission Dynamics:** Research highlights that prolonged close contact with familiar people indoors is the primary driver of transmission, even before individuals show symptoms.
+
+ The text emphasizes that protecting vulnerable family members, especially older adults, is paramount and should involve minimizing their exposure to potential infection. It also acknowledges the role of vaccination in reducing restrictions in the future. 
+
+
+Overall, the message centers on being cautious and taking proactive steps to minimize the risk of COVID-19 transmission during the Christmas period. 
+
+
+
+This text explores potential sources of COVID-19 infection in various settings. 
+
+**Key takeaways:**
+
+* **Restaurants and Bars:** The CDC found individuals infected with SARS-CoV-2 without known contact were more likely to report dining at restaurants or visiting bars/coffee shops compared to uninfected individuals. UK investigations also linked hospitality work to increased COVID-19 cases.
+* **Commercial Workplaces:** The text highlights a study showing associations between specific jobs (e.g., warehouse, construction, health/social care) and higher odds of COVID-19 infection. Additionally, English data suggests that engaging in entertainment activities increases the risk of contracting the virus.
+* **Schools:** Cases and contact tracing data indicate an increasing number of school students and staff are self-isolating due to potential exposure. While schools being open might be associated with higher population infection rates, the exact causal relationship remains unclear.
+
+**Data Limitations:** The text acknowledges limitations in using contact tracing data for establishing cause-and-effect relationships, emphasizing that it relies on individual recall which can be inaccurate. 
+
+**Enforcement Data:** Increased enforcement actions (improvement and closure notices) consistently target hospitality establishments despite efforts to implement COVID-secure environments. This suggests ongoing challenges with risk management within this sector.
+
+
+Overall, the text presents a concerning picture of potential high-risk settings for COVID-19 transmission in various sectors, highlighting the need for continued vigilance and careful evaluation of infection control strategies. 
+
+
+
+This text discusses the complex issue of school closures during the COVID-19 pandemic, particularly focusing on the balance between public health and the negative impacts on children.
+
+**Key points:**
+
+* **School closures have significant consequences:**
+
+Not only do they disrupt learning, mental health, and well-being, but they also often lead to increased social mixing outside of school as families seek alternative activities.
+* **Evidence suggests schools contribute to transmission:**
+
+Data shows that children, especially teenagers, play a role in introducing infection into households. This is particularly concerning during periods like Christmas, where extended household interactions increase the risk of spread.
+
+* **School closures should be a last resort:** While SAGE acknowledges the role schools play in transmission, they recommend prioritizing other interventions and considering school closures only as a final option due to the lasting harm they can inflict on children.
+
+* **Mitigating measures face challenges:** Even if implemented, measures like remote learning or limited school operation can exacerbate existing inequalities due to disparities in access to technology and resources.
+* **Future decisions require careful consideration:** Future decisions regarding school closures should be based on a continuous evaluation of available evidence and prioritize minimizing both the health risks and the educational and socio-economic harms caused by closures.
+
+**Overall, the text highlights the difficult trade-offs involved in decision-making around school closures during a pandemic, emphasizing the need for a nuanced approach that considers the multifaceted impacts on children and society.**
+
+
+This text analyzes factors affecting adherence to COVID-19 guidelines in Wales after the firebreak lockdown.
+
+**Key points:**
+
+* **Minor breaches at a population level can have significant impact.** 
+* **Most people adhere to guidelines, but barriers exist:** understanding of guidelines, lack of skills (like saying no), and lack of support (financial, practical, emotional).
+* **High confidence in Welsh Government is key for adherence**, but some disagree with restrictions. 
+* **Mixing within homes with those outside the extended household persists.** Public misunderstands risks of transmission, believing strangers pose a greater risk than friends/family.
+* **Mobility data shows a return to pre-firebreak levels** – suggesting potential increased transmission risk.
+
+**Factors potentially exacerbating transmission:**
+
+* Changing behaviors post-firebreak relaxation.
+* Increased mixing during the Christmas period.
+* Potential complacency due to vaccine news, though cautiousness might also persist.
+
+**Behavioral considerations remain relevant from previous waves:**
+
+* **Clear and understandable communication**: especially if differing approaches apply in different regions.
+* Continued financial support (e.g., self-isolation payments).
+* Social and emotional support encouragement. 
+* Tailored communication channels across demographics and cultures.
+*  Emphasis on engagement, explanation, and encouragement over enforcement, avoiding inequitable deployment.
+
+The text emphasizes the importance of continued vigilance, clear communication, and targeted support to effectively manage COVID-19 transmission in Wales.
+
+
+This document discusses strategies for managing COVID-19 transmission during the festive season. 
+
+It highlights several key points:
+
+* **Early intervention is crucial:** Short, sharp interventions are more effective than longer, less stringent measures. Adherence to restrictions tends to decrease over time.
+* **Transmission levels matter:** Entering the Christmas period with low community transmission is essential to prevent outbreaks in vulnerable settings like hospitals, care homes, and prisons.
+
+The document emphasizes the importance of: 
+
+* **Simple and achievable rules:** Restrictions should be clear, understandable, and have defined start and end dates.
+* **Modeling policy options:** The authors used models from Swansea University to analyze various scenarios, demonstrating that stricter pre-Christmas measures can significantly reduce deaths, NHS occupancy, and ICU bed usage.  
+
+
+The text concludes by presenting a series of policy scenarios with different levels of restrictions before, during, and after Christmas. These scenarios illustrate the potential impact on transmission levels and outcomes.
+
+Overall, the document argues for a cautious approach to Christmas celebrations, advocating for stricter measures beforehand to minimize the risk of a surge in COVID-19 cases during the holiday period.
+
+
+This report presents modeling results from Swansea University regarding the potential impact of different COVID-19 policies before Christmas 2020 in Wales.
+
+**Key Findings:**
+
+* **Increased Transmission during Christmas:** The report estimates an extra 10% transmission increase during the Christmas period due to additional mixing.
+* **Varying Impact Based on Rt:** Hospital and ICU bed requirements, as well as deaths, rise significantly when the basic reproduction number (Rt), which indicates the spread of the virus, is higher.
+
+* **Tier System Effects:**
+    * The 'No intervention' scenario with an Rt of 1.3 predicts over 8,500 hospital admissions, 1,030 ICU admissions, and 2,520 deaths by late February.
+    * Tier 2 restrictions (contact scaling to 0.7) reduce these numbers significantly.
+    * Tier 3 restrictions (contact scaling also at 0.7) further reduce the impact with fewer hospital admissions and deaths.
+
+**Graphs:**
+
+
+The report includes four graphs visualizing:
+
+1. Daily deaths between October 2020 and March 2021 under different scenarios  (Figure 2)
+2. ICU occupancy projections (Figure 3) 
+3. Overall hospital bed occupancy (Figures 4)
+
+**Overall, the model emphasizes:**
+
+* The significant impact of increased transmission during Christmas and varying Rt values.
+* The effectiveness of Tier 3 restrictions in mitigating the spread and severity of COVID-19 compared to less restrictive measures or no intervention.
+
+
+
+It's important to remember that these are models based on assumptions and may not perfectly reflect real-world outcomes.
+

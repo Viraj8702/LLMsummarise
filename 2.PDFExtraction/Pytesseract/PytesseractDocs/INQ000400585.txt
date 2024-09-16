@@ -1,0 +1,1576 @@
+Witness Name: Dr Chris Williams
+Position: Consultant Epidemiologist
+Statement No.: 2
+
+Exhibits: 1
+
+Dated: 19 January 2024
+
+UK COVID-19 INQUIRY
+Module 2B
+
+WITNESS STATEMENT OF DR CHRIS WILLIAMS
+
+i, Christopher Williams care of Public Health Wales, 2 Capital Quarter, Tyndall Street, Cardiff,
+CF10 4BZ will say as follows: -
+
+1. This corporate witness statement is provided by me in my capacity as Consultant
+Epidemiologist at Public Health Wales in response to a request for evidence made by
+the Inquiry Team to Public Health Wales for the disclosure of hospital admission and
+
+hospital inpatient data covering the period 1 February 2020 to 28 June 2022.
+
+2. Public Health Wales has been appointed as a Core Participant for Module 2B.
+
+3. A COVID-19 case is defined (by Public Health Wales) as a person with a positive
+SARS-CoV-2 PCR test taken in Wales. COVID-19 cases admitted to hospital are those
+admitted to a hospital in Wales for at least one night within 28 days after a positive
+SARS-CoV-2 PCR test taken in Wales, or where the patient tested positive in hospital
+up to 2 days after admission (where the day of admission is counted as day 1 of an
+inpatient stay). All admissions within 28 days after a positive test are counted,
+regardless of whether the patient tested positive in the community or during a previous
+inpatient stay. For data up to 25 May 2022, one positive test per person within a 42
+day period was counted as a case. From 26 May 2022, the de-duplication period
+increased to 90 days. The hospital admissions may have been unrelated to the
+patients’ SARS-CoV-2 positive test. An evaluation of COVID-19 admissions estimated
+
+using this method found that, compared to diagnoses coded in hospital episode data,
+
+INQ000400585_ 0001
+
+three in every five SARS-CoV-2 positive admissions were given diagnoses consistent
+with COVID-19 infection.
+
+COVID-19 cases admitted to intensive care are those admitted to an intensive care
+unit in a hospital in Wales for at least one night within 28 days after a positive SARS-
+CoV-2 PCR test taken in Wales. Intensive care admissions include COVID-19 cases
+likely acquired in the community and in hospital. The intensive care admissions may
+have been unrelated to the patients’ SARS-CoV-2 positive test. We do not hold data
+
+on admissions to high dependency units.
+
+PCR test data was extracted from the Public Health Wales Datastore database.
+Hospital admissions data was extracted from the hospital patient administrative system
+(PAS) via ICNET. Patient and test data has been linked using the patient NHS number.
+
+Residential address used for assignment to deprivation quintile has been extracted
+from a live system and may not be the address of the case at the time of their SARS-
+CoV-2 test.
+
+Resident population sizes of health boards in Wales have been provided in the
+Appendix to support interpretation of counts by health board. Other breakdowns of the
+Welsh population have been provided in the accompanying spreadsheet, to support
+
+interpretation of counts by case demographics.
+
+The first recorded COVID-19 case in Wales was confirmed on 27 February 2020 and
+therefore ail data is presented from 1 March 2020. Continuous data on admissions is
+stored as aggregate weekly counts with weeks running from Monday to Sunday. We
+have therefore provided data to the nearest Sunday to the request date - 26 June 2022
+rather than 28 June 2022.
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0002
+
+Table 1. Number of confirmed COVID-19 cases admitted to hospital and intensive care
+by Health Board of admission, 01/03/2020 to 26/06/2022
+
+Number of cases Number of cases
+admitted to hospital admitted to critical care
+
+Aneurin Bevan UHB 4,415 326
+Betsi Cadwaladr UHB 4,796 401
+Cardiff and Vale UHB 4,264 350
+Cwm Taf Morgannwg UHB 4,928 439
+Hywel Dda UHB 2,224 205
+Powys THB 54 it)
+
+Swansea Bay UHB 3,120 290
+Velindre NHST 34 a
+
+UHB = University Health Board
+
+9. Over approximately 16 months, there were nearly 24,000 COVID-19 case admissions
+to hospitals in Wales. Cwm Taf Morgannwg UHB had the highest number of case
+admissions to its hospitals, comprising 21% of total cases admitted. Aneurin Bevan,
+Betsi Cadwaladr and Cardiff and Vale University Health Boards (UHB) had similar
+numbers of admissions to their hospitals, comprising between 18 and 20% of total case
+admissions. Lower numbers of cases were admitted to hospitals in Swansea Bay and
+
+Hywel Dda UHBs, comprising 13% and 9% of total cases admitted respectively.
+
+10. Approximately 2,000 COVID-19 cases were admitted to intensive care in a hospital in
+Wales. Cwm Taf Morgannwg UHB had the highest number of cases admitted to its
+
+intensive care units, comprising 22% of total intensive care admissions.
+
+11. The number of cases admitted to the hospitals and the intensive care units in a health
+board will be impacted by the size of the population in the catchment area, the
+incidence of COVID-19 within that population and the bed capacity of the hospitals and
+
+intensive care units.
+
+INQ000400585_0003
+
+Figure 1. Weekly number of confirmed COVID-19 cases admitted to hospital, week
+
+ending 08/03/2020 to 26/06/2022
+
+B00
+600
+
+£
+
+2 400
+
+a)
+
+200
+
+-07 |
+
+2021-07-25 4
+
+2021-06-27 4
+2021-07-11 7
+
+2021-03-07 7
+2021-06-13 |
+
+2021-01-24 7
+2021-02-21 7
+<= 2021-03-21 7
+' 2024-05-30 4
+
+2020-03-08
+2020-03-22 4
+3020-04-05 4
+2020-04-19 4
+2020-05-03 4
+3020-05-17 4
+2070-05-31 4
+2020-06-14 4
+3020-06-28 4
+S030-07-12 4
+3020-07-26 4
+3020-08-09 4
+2020-08-23
+2020-09-06 4
+3020-09-20 4
+3020-10-04 4
+3020-10-18 4
+2020-11-01 4
+3020-11-15 4
+3020-11-29 4
+3020-12-13 4
+2020-13-27 4
+3021-01-10 4
+2021-02
+
+= 50174 -04-04 4
+
+@ 9074-04-18 4
+
+@ 2021-05-02 4
+
+2 9071-05-16 4
+
+=)
+wo
+
+2021-08-08 7
+2021-08-22 |
+2021-09-05 7
+2021-09-19 7
+2021-10-03 7
+2021-10-17 4
+2021-10-31 7
+2021-11-14 4
+2021-11-25 7
+2021-12-12 7
+2021-12-26 4
+2022-01-09 7
+2022-01-23 7
+2022-02-06 7
+2022-02-20 7
+2022-03-06 7
+2022-03-20 7
+2022-04-03 7
+
+2022-04-17 7
+2022-05-01
+2022-05-15
+2022-05-29
+2022-06-12
+26
+
+12. Case admissions have varied considerably over the 16 month period, with an initial
+
+peak at the end of March 2020, a second peak in late December 2020/early January
+
+2021 and then a series of smaller peaks from Autumn 2021 onwards.
+
+13. Variations in the numbers of case admissions to hospital are influenced by changes in
+
+the underlying incidence of COVID-19 over time, the availability of testing, the severity
+
+of disease associated with different variants, the roll-out of the vaccination campaign
+
+and improvements in community management of the disease.
+
+14. The notch in the chart in autumn 2020 was almost certainly caused by the “fire-break”
+
+intervention from 23 October 2020 to 9 November 2020 (National coronavirus firebreak
+
+to be introduced in Wales on Friday | GOV.WALES).
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0004
+
+Figure 2. Weekly number of confirmed COVID-19 cases admitted to intensive care,
+
+week ending 08/03/2020 to 26/06/2022
+
+60
+
+60
+
+a 40
+
+20
+
+o
+
+§e-g0-ec0e
+eb oO-ecoe
+Be-SO-ecos
+Sb-SO-ccoe
+LO-SO-cc0e
+fbePo-aaoe
+EO-rO-ccoe
+Oc-E0-ec0e
+SO0-E0-ee0e
+Oc-eO-ecoe
+SO0-c0-ec0e
+Ge> bO-eaoe
+60> -O-ecoe
+9o-E bo bE
+Cheb bes
+8o> bbe booke
+Fbo bb beoe
+LE-O be bee
+2b-Ob- boo
+EO-Ob- boos
+6b-60- -eoe
+SO-G0> bcOe
+ce-BO> boos
+80°80> bcoe
+So-20> Looe
+bbe 20> bee
+@e-90> boo
+Eb-gO- bee
+O&-SO- Leos
+Sb-SO- boo
+cO-SO> bee
+Bb-PO> beds
+FOP Oe boo
+be-EO> bee
+40°E0> bee
+be-eOr beOe
+40-20> bee
+Per LO bee
+Ob-bOe beoe
+éo-e FOO
+Eb-cbOcoe
+6e-b eOe0e
+Sk bb-Ocoe
+LO- b b-Oe02
+Bb-Ob-Oe0e
+FOO b- OO
+O¢-60-0c0¢
+S0-60-0e06
+ec ao Ocoee
+60-s0-0c0¢
+S§e-40°0208
+eb 20-0coe
+8e-90-0c0e
+Pb-gO-0e0e
+Le-SO-020e
+beSO-0e0e
+EO-SO-OcOc
+6b-FO-Oc0e
+SO-rO-0e0e
+ec eO-Ocoe
+S0-E0-0c0e
+
+Week ending
+
+15. Peaks in intensive care admissions reflect the timing of the peaks in COVID-19 case
+
+hospital admissions. However, the height of the peaks in intensive care admissions
+
+reduced with every wave, reflecting improved patient treatments and management and
+
+widespread vaccine roll out, resulting in better patient outcomes and reduced
+
+requirement for intensive care support.
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0005
+
+Figure 3. Weekly number of confirmed COVID-19 cases admitted to hospital by Health
+Board, week ending 08/03/2020 to 26/06/2022
+
+200
+
+50
+
+a % bbs
+fi) ed cect = yl _ -"
+m4 0 PH — = Momma TO. Wm Snell ll nee tia oo 4 do To
+ee ee ee a ee RE a ne eae
+Mo Mert WWW oh om OO Ge ee i b. 0 00 ort
+Ee ee ee ee ee a ee ae ee mie 4
+ooooooona ooood ooooo eS SS —— —— >
+oooooooca oooocd oooooco oooooooecona ooo ooo
+Week ending
+— Aneurin Bevan UHB ——~ Cardiffand Vale UHB —— HywelDda UHB —— Swansea Bay UHB
+—— BetsiCadwaladr UHB —— CwmTafMorgannwgUHB ~~ Powys THB Velindre NHST
+
+16. Whilst there were some small differences in the timing of the peaks in case admissions
+by health board, broadly, all health boards experienced peaks at the same time. Case
+admissions to Hywel Dda UHB were consistently lower over all waves. Cwm Taf
+Morgannwg UHB had the highest number of case admissions to its hospitals in wave
+2 and early in Autumn 2021, but subsequently higher case admissions were observed
+in Betsi Cadwaladr UHB. There were larger differences in health board case
+
+admissions in wave 2, compared to the subsequent waves.
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0006
+
+Figure 4. Weekly number of confirmed COVID-19 cases admitted to intensive care by
+Health Board, week ending 08/03/2020 to 26/06/2022
+
+30
+
+20
+
+Count
+
+SOS AL DMR ONO DMO OT OR TM ROS RRR TON OOM DONOR TON OM DOMe eo
+SE ee ee en ee ee re ke ee a ee hn Be en eee ge oe
+Oe eet ae eee TR ee ee Te ee Ta ee ee oa ae eo
+of ee ae ee eee ee ee ee ee ee ee ee ee ee
+
+Week ending
+—— Aneurin Bevan UHB —— Cardiff and Vale UHB —— HywelDda UHB ——~ Swansea Bay UHB
+— BetsiCadwaladr UHB =" CwmTafMorgannwgUHB “=~ Powys THB Velindre NHST
+
+17. Small numbers of weekly intensive case admissions make data difficult to interpret,
+particularly after the first two waves. Betsi Cadwaladr and particularly Hywel Dda UHBs
+had comparatively fewer admissions to their intensive care units in the first wave than
+the other major health boards. Within wave 2, admissions to intensive care in Cwm Taf
+Morgannwg UHB were consistently higher than to those in other health boards from
+
+September to December 2021, followed by Betsi Cadwaladr UHB peaking in January.
+
+Table 2. Number of confirmed COVID-19 cases admitted to hospital and intensive care
+by age group, 01/03/2020 to 26/06/2022
+
+eeieecniiee Number of cases Number of cases
+admitted to hospital admitted to critical care
+
+Oto 19 1,495 26
+
+20 to 39 3,856 221
+
+40 to 59 4,847 802
+
+60 to 79 8,159 898
+
+30+ 5,478 64
+
+18. Within the 20 year age categories, the highest number of cases admitted to hospital
+
+was in those aged 60-79 years, comprising more than a third of all admitted cases.
+
+7
+
+INQ000400585_0007
+
+19.
+
+The fewest case admissions were in the 0-19 age group, comprising 6% of total cases
+admitted to hospital. The highest number of cases admitted to intensive care was also
+in the 60-79 age group, comprising 45% of total intensive care admissions. The highest
+proportion of admissions admitted to intensive care was in the 40-59 age group, at
+17% of case admissions in that age group. Three percent of cases admitted to
+
+intensive care were in the 80+ age group.
+
+In addition to the influences mentioned in earlier sections, the distribution of hospital
+and intensive care admissions by age group will also be influenced by the age
+distribution of the underlying population. For intensive care admissions, reduced
+numbers of cases admitted in the oldest age groups may not indicate less severe
+disease in this group, but a reduced ability to benefit from intensive care support. This
+is due in turn to the overall more severe outcome profile in older age groups mediated
+partly by age and partly by co-morbidities and other factors associated with increasing
+
+age.
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0008
+
+Figure 5. Weekly number of confirmed COVID-19 cases admitted to hospital by age
+
+group, week ending 08/03/2020 to 26/06/2022
+
+» - SEOO-ZEOZ
+St z--g0-2202
+yi) se-go-zz0e
+L Sb-S0-Z202
+Lorso-z20e
+Lb-PO-2202
+O-FO-ZZ02
+L O2-E0-2e02
+0-20-2202
+OZ-ZO-Zz02
+| SO-ZO-ZeE0E
+€Z- LO-Zz02
+GO LO-Z202
+92-Z L- bZ0Z
+LZb-Zl- bene
+82" LL beOZ
+P-L Lb LEOZ
+Le-Ok- LE0e
+Lb-Ob- b202
+0-0 L- bZ02
+Gl-60- L202
+L SO-680- Le0z
+22-80" L202
+| BOBO LEOZ
+z-20- L202
+L bar LO
+22-90- LZ02
+OL € b-90° L202
+}} OE-S0- L202
+i} SL-S0- LzOz
+yl ZOO EOE
++ Sb-FO- LEOz
+* pO-PO- L202
+bt Le-e0- 120g
+JO°E0* L202
+L be-Z0- bee
+20-Z0- L202
+L PZ" LO LEOZ
+Ol-LO- L202
+LET b-O202
+El-Zb-Oz02
+G2" L L-OZ02
+L Sk- bb-oz02
+LOr L LOZ 02
+L BLO L-OZ02
+PO-OL-0202
+AL 02-60-0202
+90-60-0202
+ET-BO-0Z02
+4} 60-80-0202
+} 92-20-0202
+} Zk Z0-0Z02
+A 92-90-0202
+Pl-S0-0202
+Le-So-oz0e
+Jb-S0-0202
+0-S0-0202
+Gl-PO-0Z02
+SO-PO-OZ02
+wt 22-£0-0202
+“L ao-e0-0z02
+
+300
+200
+100
+
+qwinag
+
+Week ending
+
+80+
+
+60 to 79
+
+— O0t019 —~ 20to39 ~~ 401059
+
+20. In general, over time, cases admitted were consistently highest in the 60-79 age group.
+
+In the older age groups, cases admitted decreased with each subsequent wave after
+
+In contrast, cases admitted from the two younger age groups broadly
+
+wave 2.
+
+increased over time, with higher numbers in each subsequent wave. This is likely to
+
+be due to a combination of changes in immunity through vaccination and infection,
+
+changes in the virus and its epidemiology.
+
+[INTENTIONAL SPACE]
+
+INQ000400585_0009
+
+Figure 6. Weekly number of confirmed COVID-19 cases admitted to intensive care by
+
+age group, week ending 08/03/2020 to 26/06/2022
+
+Se-g0-ee0e
+
+mht 21-90-2202
+
+Go-SO-ccle
+
+of Gb SO-ec0e
+
+LO-SO-ce0e
+
+} éb-bo-ecde
+
+EO-FrO-ée0e
+Oc-€0-ccoe
+
+Pot SO-E0-Ce0e
+
+Oe-é0-ee0e
+S90-c0-ec0e
+
+y EG" LO-ee0e
+ee _ 4 60-lo-eebe
+
+ge-éb- bee
+
+y cheb -ede
+
+Be-bb- bee
+
+ef Pe bb Lede
+
+LE-Ob- Lege
+fbOb- bade
+EO-Ob- belle
+Bb-GO- be0e
+SO-60- -coe
+ée-80> LeOe
+
+} 80-80- Lele
+
+Sc-20" bce
+Lb-20> Lede
+ée-90> bee
+Eb OO- bade
+
+4 O&-SO- Le0e
+cep Gb-SOr bee
+
+é0-SO- Lele
+
+ff} Ob-PO- Leo
+} POrbO- L202
+
+be-E0> bee
+é0°E0> bee
+be-cO ede
+40°20> bee
+Fe-bO- bee
+Ob-bO- Lede
+éc-e b-Oe0e
+Ele bOe0e
+Ge-b boo
+Sb-bb-Oe0e
+LO-b b-Oe0e
+BSb-Ob-Oe0e
+PO-Ob-Oe0e
+Oc-60-0e0e
+90-60-0206
+eca0-0c0e
+60-s0-0c0¢
+2-40-0206
+éb-20-0c0e
+
++ 8é-90-0e0e
+St Fb-S0-0e0e
+
+Le-SO-Oe0e
+éb-SO-0c0¢
+EO-SO-0e06
+
++ GL-ro-Oe02
+
+SO-rO-de0e
+ec eO-Oele
+S80-E0-0c0e
+
+Week ending
+
+80+
+
+60 to 79
+
+— 00019 —— 20039 —— 401059
+
+21. In each wave, numbers of case admissions to intensive care were highest in the 40-
+
+59 and 60-79 age groups. There were substantial reductions in the numbers of cases
+
+admitted to intensive care in these two age groups following the second wave.
+
+Table 3. Number of confirmed COVID-19 cases admitted to hospital and intensive care
+
+by sex, 01/03/2020 to 26/06/2022
+
+2
+§
+=
+4G
+S35
+58
+is
+=
+a
+Ze
+=|
+fa
+
+Number of cases
+admitted to hospital
+
+7aF
+
+265
+
+12,
+
+Female
+
+1,274
+
+11,570
+
+Male
+
+22.More of the cases admitted to hospital were female than male (51% of total case
+
+admissions). However, 63% of case admissions to intensive care were male.
+
+10
+
+INQ000400585_0010
+
+Figure 7. Weekly number of confirmed COVID-19 cases admitted to hospital by sex,
+
+week ending 08/03/2020 to 26/06/2022
+
+t Se-S0-he0E
+
+cl-s0-cc0e
+Ge-SO-ec0e
+
+t Sb-SO-cede
+
+LO-SO-ce0e
+
+tt b-rO-ee0e
+
+EO rO-cele
+Oé-e0-ee0e
+
+| SOreO-ceOe
+
+Oe-cO-cc0e
+SO-c0-ee0e
+eo LO-cede
+60° bO-cc0e
+
+} dene be bE
+
+cheb bode
+Ber bb bee
+
+LF bob be bed
+
+Le-Ob- bee
+
+ft b-Ob- bee
+
+EO-Ob- belle
+Gb-6O0- bee
+
++ SO 6O- beOe
+
+co-80" be0e
+
++ BO-80- kee
+
+So 40> beOe
+Lb-20- bee
+
+t £e-S0- bee
+
+Eb-g0- bee
+O&-SO- bee
+
+t A b-SO- beoe
+
+cO-SO- be0e
+
+t Sb-rO- bee
+
+FOr PO> belle
+bée-EO> bee
+
+- Are eo
+
+be-cO- bee
+
+t #O-c0- kee
+
+Fe> LO- boo
+Ol- LO bede
+fe-cb-Oe0e
+Ele bee
+
+t Ge bb Oe Oe
+
+Sb-bb-Oe0e
+
+t bOrb b-oe0e
+
+Sb-Ob-Oe0e
+FO-Ob-Oe0e
+
+“ee | Oc 60-00
+
+90-60-0c0¢
+ers0-oe0e
+G0-80-0e0e
+ge-40-0c0e
+
+(Gl 40-0e0e
+
+8e-90-0c0¢
+Fles0-de0e
+
+- LESO-0e0e
+
+éb-S0-0c0¢
+
+f BO-SO-0e0e
+
+Gl-rO-Oe0e
+SO-FO-0c0e
+
+boc EO-Oe0e
+4 BO-EO-0e0e
+
+Week ending
+
+—— Male
+
+—— Female
+
+23. In general, over the first two waves, there were consistently more male cases admitted
+
+to hospital than female. However, particularly from the beginning of 2022 there were
+
+more female cases admitted than male.
+
+[INTENTIONAL SPACE]
+
+11
+
+INQ000400585_0011
+
+Figure 8. Weekly number of confirmed COVID-19 cases admitted to intensive care by
+sex, week ending 08/03/2020 to 26/06/2022
+
+Count
+
+pe eat Gi Wee eA Ngee er ee TA AD eke Pg er alge TP BAe pC Tp ge ier ober Ve me Ty
+Ma TTOWWOOEEOOAMOOeK eK KANN KANNST TOO EL OOOO O eke KON EK NNT Too
+Cea ea ee ee ee ee Oe ee ee ee ee ee ee ee eo ee ee
+eee eee ee ee 7 = =a = x _— 7 1 7 wo ON CN CA CA CA Cd
+ACM CS CM CAC CM CM CACY CACM CM CMON CACY CACM CM CHUGM CAM CACM CACM CM OCA CM CACM CACM CM OGM CM CAUGM CACM CAUDM CACM CM CA GM CaM CNOCM OM Ca OM CaS CAM Cal
+a ee ee eee ee ee ee ee ae ee ee ee eee ee ee
+(ALCS SCALA CS CAS CAS CA CAS CAS CSM CAS CaM CAD CCS CSDM CALS CCA OM CA CAM CAM CADIS CAM CALS CADIS CAM CALS CSE Cd
+Week ending
+
+— Female ——~ Male
+
+24. Over time, there have consistently been more male cases admitted to intensive care
+than female. The difference between the sexes was particularly noticeable in the first
+two waves. Most of the reduction of cases admitted to intensive care observed in the
+wave in Autumn 2021 was as a result of a reduction of male cases admitted to intensive
+
+care in Wales.
+
+Table 4. Count of confirmed COVID-19 cases admitted to hospital and to intensive
+care by deprivation quintile from 01/03/2020 to 26/06/2022
+
+Number of cases
+admitted to hospital
+
+Number of cases
+admitted to critical care
+
+Deprivation Quintile
+
+1 4,852 423
+2 4,513 379
+3 3,598 311
+4 3,112 249
+5 2,765 210
+Unknown 4,995 439
+
+25. The Welsh Index of Multiple Deprivation (WIMD) is the Welsh Government's official
+
+measure of relative deprivation for small areas in Wales. It identifies areas with the
+
+a
+
+INQ000400585_0012
+
+highest concentrations of several different types of deprivation. WIMD ranks ail small
+areas in Wales from 1 (most deprived) to 1,909 (least deprived). It is a National Statistic
+produced by statisticians at the Welsh Government (Index of Multiple Deprivation
+(gov.wales)). Seventy-nine per cent of the cases admitted to hospital and 78% of cases
+admitted to intensive care could be assigned to a deprivation quintile. Amongst those
+that could be assigned, numbers of case admissions increased as deprivation
+increased with 26% of case admissions residing in the most deprived quintile
+compared to 15% residing in the least deprived quintile. A similar pattern was observed
+in intensive care case admissions, although the difference in percentage points
+between the highest and lowest quintile was larger, with 27% of intensive care case
+admissions residing in the most deprived quintile compared to 13% in the least
+
+deprived quintile.
+
+26. Within each deprivation quintile, a similar percentage of case admissions to hospital
+were admitted to intensive care, but the highest percentage was observed in the most
+deprived quintile at 8.7% and the lowest percentage in the least deprived quintile at
+7.6%.
+
+27.\In Wales, a COVID-19 hospital inpatient is defined as a person in a hospital in Wales
+on a Sunday who has spent at least one night in hospital and has had a positive SARS-
+CoV-2 PCR test taken in Wales in the previous 28 days. The reasons for the inpatient
+stays may be unrelated to the patients’ positive SARS-CoV-2 test. Cases may include
+patients who have acquired their infection in the hospital. This count refers to a ‘point
+prevalence’ survey of inpatients i.e. only capturing those actually in beds on that day.
+People may be admitted and discharged between these points (these would be
+captured in the admissions data) but overall, the picture on any given day (e.g. Sunday)
+reflects what is likely to be present through the rest of the week, subject to weekly
+
+rhythms around admission and discharges.
+
+28. A COVID-19 intensive care inpatient is defined as a person in an intensive care unit in
+a hospital in Wales on a Sunday who has spent at least one night in intensive care and
+has had a positive SARS-CoV-2 PCR test taken in Wales in the previous 28 days. The
+reasons for the intensive care stays may be unrelated to the patients’ positive SARS-
+
+CoV-2 test. The data does not include inpatients in high dependency units.
+
+13
+
+INQ000400585_0013
+
+29.PCR test data was extracted from the Public Health Wales Datastore database.
+Hospital inpatient data was extracted from the hospital patient administrative system
+
+(PAS) via ICNET. Patient and test data has been linked using the patient NHS number.
+30. The first recorded COVID-19 case in Wales was confirmed on 27 February 2020 and
+therefore ail data is presented from 1 March 2020. Continuous data on admissions is
+
+stored as aggregate weekly counts with weeks running from Monday to Sunday. We
+
+have therefore provided data to the nearest Sunday to the request date — 26 June
+2022 rather than 28 June 2022.
+
+[INTENTIONAL SPACE]
+
+14
+
+INQ000400585_0014
+
+Figure 9. Count of COVID-19 hospital inpatients on last day of week, week ending
+
+08/03/2020 to 26/06/2022
+
++ Se-g0-ee0e
++ Gb-oo-ee0e
+| Ge-SO-cele
+t Sb-SO-ee0e
++ -O-SO-ee0e
+- éb-POeede
+| BO-rO-ceoe
+- Oé-E0-ee0e
++ SO-EO-ee0e
++ Oe-e0-ee0e
++ SO-e0-ee0e
+[ Ge" bee
++ 60> bO-ee0e
+- de-é b bee
+feb bh bee
+ 8é- bbe bee
+- Fb bb Lede
++ FE-Ob- Lede
+f £b-Ob- Lede
+t EO-Ob- bee
++ Gb-GO> Lede
++ S060 Lede
+f Gc-80" Lede
+ 80-80- bee
+- Sc-40° Lede
+- Ebr£O- bee
+f £0°90" Lede
+f £ b-SO- bee
++ O&-SO" Lede
+L Sb-SOr belle
++ GO-SO" Lede
+t Sb-POn bee
+- FO-PO> Lede
+L be-BO- belle
+- £0°E0° Lede
+t bé-2O- bee
+- £0-20° Lede
+- Fe- -O> belle
++ Ob bom Lede
+t #e-e bee
+Feb eb Oede
+- Gic-b b-Oe Oe
+t Sb bb-Oede
+t bO- bk b-oe0e
++ Bb-Ob-Oede
+- FO-Ob-Oe Oe
++ Oc-60-0e0e
++ S0-aO0-0e0e
+- Be-a0-0e0e
+| 60-80-00
+f $c-40-0e0e
+t cb-#0-0e0e
++ 8é-o0-"0e0e
+L Fk-S 0-020
+f Fe-S0-0e0e
+t éb-SO-0e0e
+- EO-S0°0e0e
+L Gb-PO-OeOe
++ SO-rO-Oede
+L cc 20-00
+80-E0-0e0e
+
+2000
+1500
+
+2 1000
+500
+
+INQ000400585_0015
+
+Week ending
+31. The COVID-19 inpatient trends are very similar to those for the COVID-19 case
+15
+
+admissions in terms of timing. The highest number of COVID-19 inpatients was in
+[INTENTIONAL SPACE]
+
+Winter 2020/21, with approximately 2,000 inpatient cases. The later peaks in inpatients
+from Autumn 2021 onwards increased in magnitude with each wave. This likely
+reflected increased incidence in the community as a result of the Omicron variant, but
+also may reflect high levels of screening in hospitals for early identification of
+asymptomatic cases, and increased transmissibility of Omicron in hospital settings.
+
+Figure 10. Count of COVID-19 intensive care hospital inpatients on last day of week,
+
+week ending 08/03/2020 to 26/06/2022
+
+120
+
+50
+
+wna
+
+a0
+
+ge-S0-ec0e
+eb-g0-ecoe
+Ge-SO-ccoe
+Sb-SO-ec0e
+bo-sO-cc0e
+éb-rO-ecoe
+EO-FO-ée0e
+Oe-e0-ec0e
+SO-e0-ee0e
+Oe-e0-ecoe
+S0-e0-ec0e
+Eo: LO-ecoe
+60> LO-ec0e
+SoG be boOhe
+bebe bes
+Bo- bbe beohe
+Fbob bo beoe
+FEO Le bee
+ZbOb- beoe
+EO-O b- bee
+Gb-GO- boos
+S060" bcoe
+cee bce
+BOBO" boos
+So-40- boo
+bbe 20> bee
+éo-90> boo
+Eb-aO- bade
+O&-SO- boo
+9 b-SO- Leos
+20-SO> bcoe
+Sb-FOe bee
+FOr roe boo
+be-EO> bee
+A0°60> boo
+be-cO> bee
+200° boo
+Feo LOm bee
+Ob bO- bee
+doe bOcOe
+Eke b-OcOe
+Ge~ b b-OeOe
+Shek bOe0e
+bO-- E-Oe0e
+Bho b-Oe0e
+FOO boo
+Oe-60-020e
+S0-60-0cOc
+Ee ao-0c0e
+B0-80-0cOc
+ge-40-0c0e
+eb LO-0c0e
+Be-S0-0e0e
+Fl-S0-0c0c
+be-S0-0c0e
+2b-S0-0c0c
+EO-SO-0c0e
+Gb-rO-Oe0e
+SO-rO-Ocoe
+ec eO-Ocoe
+
+SO-E0-0c0e
+
+Week ending
+
+32. Trends in intensive care COVID-19 inpatients followed general COVID-19 inpatient
+
+numbers in terms of timing. The largest number of COVID-19 intensive care inpatients
+
+was in April 2020 and January 2021 at approximately 100 intensive care inpatient
+
+cases on a single day. There was a large decrease in intensive care COVID-19
+
+inpatients between Wave 2 and subsequent waves and numbers have generally been
+
+on a decreasing trend since November 2021.
+
+[INTENTIONAL SPACE]
+
+16
+
+INQ000400585_0016
+
+Figure 11. Count of COVID-19 hospital inpatients by Health Board of admission on last
+day of week, week ending 08/03/2020 to 26/06/2022
+
+600
+500
+
+400
+
+E
+3 300
+o
+
+200
+
+100
+
+———s
+
+OANA — TONOAINMOOPTeK MN AMPOPe ee eK TON OOMe  - MOOONWAMe eK  TONOAIMOCOOCOMrK K MOAN
+pn ar Te ip pr es heel Wig ee Tele prop nia" gna i gp eer eae
+MM TW Wwe OOOO ANA CN WR OOOO NN ON oe Wu
+Se ee ee ee a a ee ee ee ee en on Oe Ne ee ee ee ee
+Oooooogoggcogoooggooooogogo0O0O Or rr rr err rrr CCK T OCCT ST TST ST TTA
+AANA NNN NN NNN NNN NNN
+Seo ooc eo GGG SSG CGC SGC OCOCCCSCSCCS SCG CCGG OCG GG 0S S000 00 S000 00000 0000005
+AAA NOON SOO SNS ONO NSN SON SSNS SS
+Week ending
+—— Aneurin Bevan UHB —— Cardiff and Vale UHB —— HywelDdaUHB —— Swansea Bay UHB
+— BetsiCadwaladr UHB =" Cwm TafiorgannwgUHB “=~ Powys THB Velindre NHST
+
+33. There were some small differences between health boards in the timing of the peaks.
+The highest number of COVID-19 inpatients was in Cwm Taf Morgannwg UHB in
+Winter 2020/21, with more than 500 patients in the hospitals within that health board
+in a single week and approximately double the number than was in Hywel Dda UHB at
+the same time. In later waves, COVID-19 inpatient numbers were relatively similar
+between the larger health boards, with the exception of Betsi Cadwaladr UHB in
+
+January and April 2022 where there were considerably higher numbers of COVID-19
+inpatients.
+
+[INTENTIONAL SPACE]
+
+17
+
+INQ000400585_0017
+
+Figure 12. Count of COVID-19 intensive care hospital inpatients by Health Board of
+admission on last day of week by, week ending 08/03/2020 to 26/06/2022
+
+ge-90-cc0e
+éb-gO-ce0e
+Ge-SO-ccOe
+
+Jef SbSOGEOE
+
+LO-SO-ee0e
+
+Sl 2 L-PO-ZZ0e
+> et eo-ro-zen2
+
+Oe-e0-ec0e
+
+Cpe} S0-E0-ce0e
+
+Oc-eO-cc0e
+S0-c0-ee0e
+Eo: LO-cede
+60- LO-ec0e
+9e-e bm bee
+cheb bee
+Be- bbe bee
+Fob be bed
+LEO be bade
+#b-Ob- bode
+ED-Ob- ede
+Gb-60- boo
+SO-60> bee
+ec-80> belle
+80-80" bee
+Se-40> bee
+bb-£0> bede
+#e°90° bee
+Eb-GO- boo
+DE-SO- bee
+Sb-SO- bode
+cO0-SO- bee
+Bb-rOe bee
+FO- Oe boo
+
+seay be-EO bade
+
+é0°80> bode
+be-cO" bee
+é0-e0> belle
+Per bom bee
+Ob -O- bed
+ée-e bOe0e
+Eb-eb-Oede
+Ge-b b-Oe0e
+Sho bb-Oe0e
+LO-b b-De0e
+Bb-Ob-Oe0e
+FO-Ob-Oe Oe
+O¢-60-0e0¢
+
+eb 90-80-0202
+
+eo s0-0c0e
+6O0-80-0e0e
+§e- 40-00
+eb-Z0-0e0e
+
+et 82-90-00
+
+Fb-g0-0e0¢
+Le-SO-Oe0e
+éb-SO-0e0e
+EO-SO-OcOe
+Gb-FO-Oe0e
+SO-ro-de0e
+co-eO-0e0e
+
+=} S0-E0-080e
+
+Week ending
+
+— HywelDdaUHB ——~ Swansea Bay UHB
+
+—— Cardiff and Vale UHB
+
+—— Aneurin Bevan UHB
+
+Velindre NHST
+
+— BetsiCadwaladr UHB “=~ CwmTafMorgannwgUHB “=~ Powys THB
+
+34. In the first wave, highest numbers of COVID-19 intensive care inpatients were in
+
+Cardiff and Vale, Aneurin Bevan and Swansea Bay UHBs, with approximately 25
+
+patients each in a single week. Similar peaks in counts were experienced in Cwm Taf
+Morgannwg, Cardiff and Vale and Betsi Cadwaladr UHBs in Winter 2020/21. Numbers
+of intensive care inpatient cases were much lower in all health boards in the peaks
+
+following wave 2.
+
+[INTENTIONAL SPACE]
+
+18
+
+INQ000400585_0018
+
+Figure 13. Count of COVID-19 hospital inpatients by age group, on last day of week,
+08/03/2020 to 26/06/2022
+
+Count
+
+750
+
+S00
+
+250
+
+DAWA PON OAMOOTF Or MO AMPOSh ee RK TON DOME  - MON MAOhe  K TON OAMOODOMhe HANG
+
+ee a See ee a a ee ee ee ee ae ee ee a ae oe Se ee ee ee
+
+SS TT a ee ee ee ee ae ee ee ee ee ee ae ee ee
+
+Ooo ooooOOO OOOO OOC OO OOOO SF rer rrr rT Tr Tr 3ST S3T Tr SS TS TOGA OO Oc
+
+SOC SSS GS COSC COCOCSCOC SCO CSCS SCC CC OC CS SSG G0 S20 00 20 00 S00 000 00 00000005665
+
+IS OSI SSS SSN SOS SS SSS OSS SS SSS SS CS CSN SSS SSS SN SSN
+Week ending
+
+—~= Qto19 “— 20t099 “7 40t059 ——~ 6G0t079 “~~ GO+
+
+35. Whilst cases admitted were consistently highest in the 60-79 age group, inpatient
+
+cases were consistently highest in the 80+ age group. In one week in January 2021,
+there were approximately 900 COVID-19 inpatients aged 80 years or older in Welsh
+hospitals. The peaks in inpatients in all waves were largely composed of inpatients in
+the two oldest age groups (60-79 and 80+), which may reflect the likely longer lengths
+of stay of more elderly patients and screening of these patients within hospital. There
+
+was a small increase in inpatients in the youngest age group over time.
+
+[INTENTIONAL SPACE]
+
+19
+
+INQ000400585_0019
+
+Figure 14. Count of COVID-19 intensive care hospital inpatients by age group on last
+
+day of week, week ending 08/03/2020 to 26/06/2022
+
+J Fe-9D-ec0e
+“yy cl-g0-cede
++ Go-S0-ec0d
+| Sb-SO-ec0e
+4 bO-SO-ecoc
+éb-PO-ec0e
++ €O-rO-ec0e
+my Oe-EO-ce0e
+oe S0-e0-ec0e
+a Oc e0-ec0e
+g0-e0-2c0e
+Ee- bO-ec0e
+60-bO-ec0e
+gore be bee
+ebb beOe
+8o- bbe bee
+yy Rho bb bee
+
+Fe-Ob- beg
+fy AbOb- bee
+
+80-80- beoe
+Se-20° beOe
+Gf bbe2O- bede
+} 22°90" be0e
+} £b-GO- LEOe
+
+O&-SO- bce
+(fF Ob-SO- beoe
+é0-SO- bce
+oF Sb-rO- bcoe
+J} bO-rO ede
+ke-EO> bee
+é0°E0° bee
+ké-20> be0e
+¢ 40°c0° bode
+Per bO- booe
+Ob bO- bee
+éo-e b-Oc0e
+Ebeb-Oc0e
+Ge- bbe
+Sb-bb-Oc0e
+bO--b-O2@0e
+f Sb-Ob-Oe0e
+fy} FO-Ob-Oe0e
+y Oe 60-0208
+g0-60-0c¢0e
+} Ge-80-020e
+} GO-80-0e0c
+| de-20°0008
+éb-40-0c06
+fy Sc-90-0c0e
+y FL-S0-0c0e
+be-SO-0202
+éb-S0-0c0¢
+
+E0-SO-De02
+
+| ei-bo-ao2
+GO-PO"Oe0e
+
+os} 22-E0-0202
+
+~——l s0-e0-az0z
+
+Week ending
+
+0+
+
+60 to 78
+
+— 0019 —— 200039 —— 401059
+
+36. For all waves, inpatient cases in intensive care were predominantly from the 60-79 and
+
+40-59 age groups, with very few inpatient cases from the youngest and oldest age
+
+groups.
+
+[INTENTIONAL SPACE]
+
+20
+
+INQ000400585_0020
+
+Figure 15. Count of COVID-19 hospital inpatients by sex on last day of week, week
+
+ending 08/03/2020 to 26/06/2022
+
+1200-5
+
+$007
+
+6007
+
+wna
+
+30075
+
+ge-g0-cc0e
+eb-ao-ee0e
+Ge-SO-ccOe
+Sb-SO-cc0e
+Lo-SO-2e0e
+fberOraeoe
+EO-rO-ccle
+Oc-E0-cc0e
+S0-eO-ccle
+Oe-cO-cc0e
+SO0-cO-ce0e
+Gc" LO-cele
+60> LO-ceoe
+Sere b- bee
+Cheb bee
+ac-b b> kee
+Flebb bade
+LE-Ob- bege
+£b-Ob- bode
+EO-Ob- belle
+Gl-6O0- bee
+SO-60--eOe
+co-B0" bee
+80°80> bee
+So-40- bee
+Lb-40- bee
+Ac-90- beOe
+Eb-g0- bee
+O&-SO- bee
+Sib-SO- bade
+cO-SO- belle
+8b-FO- bee
+FOr PO bode
+bé-EO> ede
+é0-€0- -eOe
+bé-e0- bee
+40r20- beOe
+Fer bO- bee
+Ob bO- bade
+Ac-é b-Oe0e
+EbebOede
+Ge-b b-Oe0e
+Slr bb-Oe0e
+LO- L b-Oede
+Bl-Ob-oe0e
+FOO L020
+Oc-60-0c0¢
+S0°60-0e0e
+ere0-0e0e
+60-80-0c0e
+ge-40-0c0e
+cl-40-0e0e
+8e-90-0c0e
+Fl-s0-0e0e
+Le-SO-O0e0e
+ébeSO-0a0e
+£0°SO-0c0e
+Gl-rO-de0e
+SO-ro-Oe0e
+cereO-Oe0e
+S0reo-0e0e
+
+Week ending
+
+—— Male
+
+—— Female
+
+37. Trends over time by sex have been very similar. In general, after the first wave there
+
+have been consistently more female COVID-19 hospital inpatients that male. However,
+
+these differences have been small.
+
+[INTENTIONAL SPACE]
+
+21
+
+INQ000400585_0021
+
+Fig
+
+ure 16. Count of COVID-19 intensive care hospital inpatients by sex on last day of
+
+week, week ending 08/03/2020 to 26/06/2022
+
+30
+
+60
+
+20
+
+a8
+22
+a5
+19
+a3
+17
+31
+14
+29
+12
+26
+ag
+23
+O68
+20
+o4
+18
+14
+28
+12
+26
+og
+23
+O68
+20
+O68
+20
+a3
+17
+a1
+
+15
+29
+12
+26
+
+OoTTOWWOOREFOORAROOr eK KANN eK KNOT TWN OOrKEOOMIMOOCOCOeK Ke NN eK KANNST Two
+SG Sa a ee ee ee ee ea eR ee ee oe ne ee ee
+ee ee ee a = Cee = x = re - oN CN CA A A A
+a ee a aa aaa a a
+A CACC CS CC CAC CCC CNN CC CC OC CNC
+Week ending
+—— Female —— Male
+
+38. Over the first two waves there were markedly more male COVID-19 hospital inpatients
+than female. In the later waves numbers of both male and female COVID-19 inpatients
+
+reduced and the difference between them decreased.
+
+39. Data available does not enable analysis by other protected characteristics, as ethnicity
+data is very poorly completed (<40%) and vulnerabilities are also not included in the
+dataset. A breakdown by index of multiple deprivation is possible but would require a
+large amount of new analysis, as the dataset is a series of point prevalence data on
+current inpatients each Sunday — this would need to be aggregated and then linked to
+
+the deprivation by postcode.
+
+40. Please find below a table of population estimates by Health Board in Wales from 2021.
+
+Health Board Population
+Aneurin Bevan UHB 588303
+Betsi Cadwaladr UHB 687098
+Cardiff and Vale UHB 492046
+Cwm Taf Morgannwg 442123
+UHB
+
+pat:
+
+INQ000400585_0022
+
+Hywel Dda UHB
+
+382518
+
+Powys THB* 133557
+Swansea Bay UHB 379765
+Wales 3105410
+
+Source: Estimates (gov.wales)
+
+41. It should be noted that Powys Teaching Health Board does not have acute or general
+
+hospitals in the region and residents may have been admitted to hospitals in England.
+
+We have not included admissions of Welsh residents to hospitals outside of Wales.
+
+Statement of Truth
+
+| believe that the facts stated in this witness statement are true. | understand that proceedings
+
+may be brought against anyone who makes, or causes to be made, a false statement in a
+
+document verified by a statement of truth without an honest belief of its truth.
+
+Dated: 19/01/2024
+
+ae
+
+INQ000400585_0023

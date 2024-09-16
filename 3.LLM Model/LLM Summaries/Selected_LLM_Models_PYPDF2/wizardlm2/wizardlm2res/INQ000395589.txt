@@ -1,0 +1,65 @@
+ The text appears to be an internal communication within the Welsh Government's Public Health Division regarding the handling of information about healthcare workers (HCW) deaths due to the COVID-19 pandemic. Dr Gill Richardson, a professional advisor to the Chief Medical Officer of Wales and seconded from the World Health Collaborating Centre on Investment for Health & Well-being, is addressing her colleagues in light of discussions with Ministers about the reporting of NHS staff deaths in Wales by Public Health Wales (PHW).
+
+Key points from the summary include:
+
+1. PHW has taken a stance not to report NHS staff deaths in Wales, as opposed to England where overall deaths are reported by local authority area, but with lower numbers to prevent identification. However, Welsh Health Boards are reporting on staff deaths, and in some cases, families of deceased NHS staff are disclosing these details publicly.
+
+2. There is a request for an update on the plan for reporting NHS staff deaths, and there is a note about the need for considering privacy and sensitive issues.
+
+3. The communication mentions a recent patient death in a Nightingale facility in London and provides a summary of COVID-19 related deaths in England (Northern Ireland (NI), Scotland, and Wales) as of the last update, with numbers still pending verification.
+
+4. The Department of Health and Social Care (DHSC)/Public Health England (PHE) are asking Directors of Authorities (DAs) to confirm what they are doing about information regarding the number of staff deaths due to COVID-19. An urgent update on this is requested.
+
+5. Supply chain updates indicate that stock has been sent to Local Resilience Forums (LRFs) and there will be additional drops this week, likely on Friday and Saturday in England. The interim supply system ('clipper') is operational but currently serving a limited number of people and is still reactive. There are ongoing issues with gown shortages and complications, which are being resolved, and an immediate increase in body bag supply is being distributed.
+
+6. There have been oxygen issues in some English hospitals, which may also need consideration in Wales.
+
+The communication also emphasizes the importance of considering the environment by thinking carefully before printing emails. It ends with a welcoming note for correspondence in Welsh, assuring a timely response in the same language.
+
+
+ The text provides an update on various aspects of the COVID-19 response, particularly focusing on the UK's efforts as of April 20, including a body bag shortage but efforts to increase the supply, with 8,000 being distributed that day. It also highlights oxygen issues in English hospitals, especially within mental health trusts, which have traditionally not held oxygen supplies and are now relying on bottled cylinders. The text outlines an important work underway to ensure a continuity of supply in England's mental health trusts, as well as addressing social care challenges.
+
+An Action Plan is being published and launched by the Secretary of State at a press conference, which will detail measures already discussed the previous day. Workforce issues within the sector are identified as a key part of this plan. Communications efforts include addressing differences in data streams, discussing PPE, particularly in the social care sector, and ongoing updates on testing, including the availability of drive-through sites. Additionally, John Bell's report on antibody testing from Oxford University is expected to be released that day.
+
+Dr Anna Schwappach, a Speciality Registrar in Public Health for Public Health Wales, welcomes correspondence in Welsh and informs that she is available on Tuesdays, Wednesdays, and Thursdays.
+
+The text also provides detailed death data for the UK, with a total of 12,107 confirmed deaths as of the date of the update, an increase of 7,783 from the previous figures. There is an ongoing issue with differing data between the Office for National Statistics (ONS) and NHS England (NHSE), which is being discussed to develop a new process for capturing deaths in healthcare workers and adult social care workers (HCWs/SCWs). This includes both those who die in hospital and those who die outside of hospital settings. The NHSE, Public Health England (PHE), and the Department of Health and Social Care (DHSC) are collaborating with devolved administrations (DAs) to work on this issue.
+
+In summary, the update covers the challenges faced in terms of supply shortages, oxygen issues, and data discrepancies, while also outlining the action being taken to address these issues, particularly in relation to workforce needs and data capturing for deaths among healthcare workers and social care workers.
+
+
+ The text provides an update on various aspects of the UK's response to the COVID-19 pandemic, particularly focusing on data collection, healthcare worker (HCW) identification, care home situations, testing, workforce issues, and international developments. Here's a summary:
+
+1. **Data Collection and Identification of HCWs**: The NHS England & Improvement, Public Health England (PHE), and the Department of Health and Social Care (DHSC) are currently collecting and releasing data on healthcare workers. Wales has raised concerns about the accuracy of identifying individuals in a small country and suggested using NHS staff as a bracket for all identified HCWs rather than further subcategorization. Other Departments across the UK are reviewing this approach, with a commitment to continue evaluating the best method going forward.
+
+2. **Adult Social Care Update**: The DHSC has prepared an action plan over the weekend, which will be published tomorrow. This plan includes measures to improve infection control, support for the workforce, and support for vulnerable groups. The plan aims to expand testing, facilitate hospital discharges, increase recruitment and training, and provide additional support to care home workers and residents.
+
+3. **Care Home Deaths**: According to Office for National Statistics (ONS) data released today, there were 217 care home deaths last week. Due to an 11-day reporting lag, the actual number is expected to be much higher. In the past 11 days, the number of care homes with recorded outbreaks has approximately doubled, with about 2100 care homes now registering an outbreak, which is roughly 14% of care homes in England. There have been requests to include care home deaths in daily data reports, but this is challenging due to the complexities involved in tracking these deaths. The DHSC noted that home care deaths are also increasing and emphasized that the home care sector is under immense pressure due to staff absences and reduced support services.
+
+4. **Testing**: There has been a significant drop in testing numbers in the last report, which covers Easter Sunday, so this decline is not unexpected. The decrease in hospital patient testing is more notable than staff testing, suggesting increased capacity to test healthcare staff, including those in adult social care. Efforts will be made to increase demand for testing after the bank holiday weekend to utilize the available tests. There are considerable issues with antibody testing, as no lateral flow test has yet passed requirements. The UK is looking into rolling out LISA (Lateral Flow Integrated Sampling Application) testing in parallel with evaluating antibody testing and considering population sampling.
+
+5. **Workforce**: There is an increasing number of professionals expressing interest in returning to work, and students preparing for clinical placements. However, there are challenges with utilizing returning staff in areas that have not yet experienced a surge in demand. The DHSC will message employers in these areas to encourage mid-term rather than short-term returns. A recruitment drive into the adult social care sector is planned in the next 48 hours to address ongoing workforce concerns.
+
+6. **International**: No specific updates were mentioned on this front.
+
+Overall, the update highlights ongoing efforts to manage the COVID-19 pandemic's impact, particularly on care homes and the healthcare workforce, while also addressing testing capabilities and strategy.
+
+
+ Dr. Anna Schwappach, a Speciality Registrar in Public Health for Public Health Wales, is reaching out to provide updates on several critical areas of concern. Here's a summary of the key points from her message:
+
+1. **Recruitment Drive**: A recruitment drive into the international team will commence within the next 48 hours.
+
+2. **Communications**: Currently, there are no staff members available on the communication lines, and the main stand-alone international team has been temporarily stood down.
+
+3. **Death and Funeral Guidance**: The current Public Health England (PHE) guidance on attendance at funerals is being divided into two parts. The guidance specifically for funerals will be published rapidly by the end of the week, while the rest will be published the following week.
+
+4. **Supply Issues**: There is a shortage of ICU drugs; notification of this issue was received today. Discussions with the Chief Medical Officer (CMO) are ongoing. Atracurium, a medication used in ICUs, has only a four-day supply left in the system. This is due to a European supply issue. An alternative, rocuronium, which is also in limited supply, is available. There is currently no clear contingency plan for this shortage, and an alert is being issued today regarding this critical situation.
+
+5. **Communication in Welsh**: Dr. Schwappach welcomes correspondence in Welsh and will respond in Welsh without delay. She also notes that her working days are Tuesday, Wednesday, and Thursday.
+
+6. **Data Protection**: The Welsh Government has scanned this email for all known viruses and takes the protection of your data seriously. For more information on how your data is used and protected, their Privacy Notice can be consulted.
+
+7. **Contact Information**: Dr. Anna Schwappach's contact details are provided for any further queries or correspondence.
+
+The overall tone of the message indicates that there are immediate concerns regarding staffing, particularly in international communications and ICU drug supply, and that rapid action and communication are being prioritized to address these issues.
+

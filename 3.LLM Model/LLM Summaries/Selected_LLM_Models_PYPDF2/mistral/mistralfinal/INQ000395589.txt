@@ -1,0 +1,41 @@
+Title: INQ000395589 - Email chain between Gill Richardson (Professional Advisor to the Chief Medical Officer, Welsh Government) and Welsh Government and Public Health Wales colleagues, regarding a DHSC/PHE/DA call, dated between 14/04/2020 and 15/04/2020.
+
+ The text discusses a meeting between a professional advisor to the Chief Medical Officer of Wales, named as Dr Gill Richardson, and an unnamed Minister who agreed that there will be no reporting on NHS staff deaths in Wales by Public Health Wales (PHW). This decision was made due to lower numbers of deaths which might lead to identification. However, it's noted that Health Boards are reporting staff deaths, and families of deceased NHS staff may reveal information in the public domain.
+
+In the email thread, there is a need for a response regarding the plan for reporting on NHS staff deaths. There is also mention of addressing oxygen supply and shortages in mental health trusts in England, which could also be a consideration in Wales. Concerning the COVID-19 pandemic, data includes updates on patient and staff deaths throughout the UK, and mentions of ongoing efforts to maintain supplies such as oxygen and personal protective equipment (PPE).
+
+
+ The summary is as follows:
+
+1. There is a current shortage of body bags that the authorities are working hard to address, with 8000 being distributed today.
+2. Some English hospitals, including mental health trusts, face oxygen issues due to limited supplies, focusing on ensuring continuity in these institutions.
+3. The Social Care Action Plan, which includes addressing the workforce issue, will be published and launched by Secretary of State in an afternoon Press Conference.
+4. Communication efforts involve launching the social care plan alongside the Secretary of State's appearance at 5 pm, sharing information on differences in data streams, discussing PPE, especially within the social care sector, and keeping the public informed about testing (including drive-through sites).
+5. Antibody testing report from Oxford University is expected to be released today, which requires preparation for any reactive communications.
+6. Death data reveals: England - 11005 (increase of 7744); Scotland - 575 (increase of 9); Wales - 403 (increase of 19); NI - increase of 6. The differences between the National Health Service England and Office for National Statistics data remain an ongoing concern, with a meeting planned to discuss this matter further today.
+7. They are working on creating a new process for capturing deaths in healthcare workers and adult social care workers, examining possible ways to document the deaths of extended groups such as pharmacists, office staff, dentists, and social care workers who might die outside hospitals or without being COVID-19 tested. This data collection will require careful consideration, as multiple sources need to be verified before releasing the information.
+8. The National Health Service, Public Health England, and Department of Health and Social Care teams are collaborating on resolving this issue while also consulting with other departments (Devolved Administrations). The noted individual works for Public Health Wales and can be reached on anna.schwappach@wales.nhs.uk or via www.iechydcyhoedduscymru.org, www.publichealthwales.org, and is available by email in Welsh without delay on Tuesdays, Wednesdays, and Thursdays.
+
+
+ The text summarizes an update on various aspects of the COVID-19 response in England and Wales. Here are some key points:
+
+* NHSE/PHE/DHSC are collaborating with District Authorities (DAs) to handle data collection and release. Wales has raised concerns over data privacy, especially regarding accidental identification of people in a small country like Wales. They suggest using NHS staff as a category for all identified healthcare workers instead of subcategorizing further.
+* An action plan is being prepared by DHSC focusing on improving infection control, support for the workforce, and support for vulnerable groups like expanding testing, supporting discharges, recruitment, training, and workforce support.
+* According to Office for National Statistics (ONS) data released today, care home deaths have increased to 217 last week with around 2,100 care homes currently registering an outbreak representing approximately 14% of English care homes.
+* DHSC acknowledged the pressure on the home care sector due to staff absences and reduced support services and are keeping a close eye on home care deaths.
+* The number of tests dropped significantly in the last report due to Easter Sunday, but the decrease in hospital patients tested is more substantial than staff tested. A push for increasing demand for tests will be reviewed after the bank holiday weekend.
+* There are considerable issues with antibody testing as no lateral flow test passing requirements has been found yet. They are now considering rolling out LISA testing while looking at antibody testing options, and ramping up population sampling methods.
+* There is an increase in professionals expressing interest in returning to work, but there's a problem with taking up staff availability in some areas of the country not experiencing increased demand for services yet. They encourage these areas to consider mid-term rather than just short-term offers and reach out to employers.
+* Workforce support is still concerning, particularly in adult social care, where they are planning to launch a recruitment drive soon.
+* No one was on the line regarding international updates during the call.
+
+
+ Dr. Anna Schwappach is announcing several developments on her personal and work email, effective from the next 48 hours:
+
+1. Recruitment drive for an unspecified service.
+2. The main international team has been stood down.
+3. No one is available in communications.
+4. Death and funeral guidance regarding attendance will be published by the end of this week, while other guidance will be released next week.
+5. A supply issue involving ICU drugs was notified today, with ongoing discussions taking place with the Chief Medical Officer (CMO), also alerting about a shortage of Atracurium, suggesting an alternative available is rocuronium, which is in limited supply as well. No contingency plan has been established at present.
+6. Dr. Anna Schwappach works on Tuesdays, Wednesdays, and Thursdays (from 10:00 am to 4:00 pm). The email was scanned for viruses before it was sent out, as the Welsh government takes data protection seriously. She welcomes correspondence in Welsh, with replies being made in Welsh without delay. Importantly, contacting the Welsh government will not result in a delay in responding.
+
